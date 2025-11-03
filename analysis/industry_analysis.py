@@ -4,9 +4,7 @@ import plotly.express as px
 def show_industry_analysis(df):
     st.header("Industry-Wise Analysis")
 
-    # ================================
     # Industry Funding Distribution
-    # ================================
     industry_funding = df.groupby("industry")["amount_in_usd"].sum().reset_index()
     fig1 = px.treemap(
         industry_funding,
@@ -19,9 +17,8 @@ def show_industry_analysis(df):
     st.plotly_chart(fig1, use_container_width=True)
     st.markdown("---")  # separator
 
-    # ================================
     # Average Deal Size per Industry
-    # ================================
+    
     avg_funding = df.groupby("industry")["amount_in_usd"].mean().reset_index()
     top_avg_funding = avg_funding.sort_values("amount_in_usd", ascending=False).head(10)
     fig2 = px.bar(
@@ -35,9 +32,7 @@ def show_industry_analysis(df):
     st.plotly_chart(fig2, use_container_width=True)
     st.markdown("---")  # separator
 
-    # ================================
     # Funding by Industry and Investment Type
-    # ================================
     industry_investment = df.groupby(["industry", "investment_type"])["amount_in_usd"].sum().reset_index()
     fig3 = px.bar(
         industry_investment,
