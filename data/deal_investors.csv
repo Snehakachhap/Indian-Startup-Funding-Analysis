@@ -1,0 +1,8058 @@
+deal_id,investor
+1,IDG Ventures
+1,TPG Growth
+1,TR Capital
+2,Srinivasa Rao Paturi
+2,Sudhakar Reddy
+2,Venkat Vallabhneni
+3,TO THE NEW Ventures
+4,Haldyn Glass
+4,Rohan Ajila
+4,Tom Clausen
+5,DeNA Co
+5,Japan
+5,Kris GopalKrishnan)
+5,Teruhide Sato (in Addition to MKS Switzerland
+6,Matrix Partners
+7,Akash Agarwal
+7,Anupam Mittal
+7,Gaurav Agarwal
+7,Himanshu Aggarwal
+7,Kevin Parikh
+7,Manish Vij
+7,Prashant Tandon
+8,SRI Capital
+9,IvyCap Ventures
+10,Blume Ventures
+10,Jungle Ventures
+10,Redbright Partners
+11,Kunal Bahl
+11,Nikhil Vora
+11,Rohit Bansal
+12,Google Capital
+13,Ashish Tiwari
+13,Devesh Sachdev
+14,Seedrs Crowd funding platform
+15,Kickstarter
+16,Inventus Capital
+16,IvyCap Ventures
+17,Alok Goel
+18,Capricorn Investment Group
+18,Helion Venture Partners
+18,JS Capital
+19,Blume Ventures
+19,GWB Group
+20,Ashim Mehra
+20,IIG
+20,Mike Galgon
+20,Mohit Saxena
+20,Rajan Anandan
+20,Ravi Gururaj
+20,TNN Capital
+21,TA Associates
+22,Deep Kalra
+22,Rajan Anandan
+22,Shankar Mahadevan
+23,Adroitent Pvt. Ltd
+24,Other investors
+24,Tiger Global
+25,Hyderabad Angels (at Startup Heroes event)
+26,Hyderabad Angels (at Startup Heroes event)
+27,Group of Angel Investors
+28,Hyderabad Angels (at Startup Heroes event)
+29,Consortium of Angel Investors
+30,Hyderabad Angels (at Startup Heroes event)
+31,Cogent E Services
+32,Hyderabad Angels (at Startup Heroes event)
+33,Mayfield Fund
+33,Premji Invest
+34,Group of Angel Investors
+35,Eduardo Saverin
+35,Velos Capital
+36,Helion Ventures
+36,Kalaari Capital
+36,Mayfield India
+37,Goldman Sachs
+37,Zodius Capital
+38,Tiger Global
+39,Group of Angel Investors
+40,ANALEC
+41,August Capital Partners
+41,Michael Blakey
+42,IDG Ventures
+42,Inventus Capital Partners
+43,Kaizen Private Equity
+44,People Group (Shaadi.com)
+45,Hillhouse Capital
+45,Tybourne Capital
+46,Kalaari Capital
+46,Sequoia Capital
+47,KARSEMVEN Fund
+48,Asia Pacific Internet Group
+49,Exfinity Fund
+49,GrowX Ventures
+50,MakeMyTrip
+51,UK based Group of Angel Investors
+52,Group of Angel Investors
+53,Group of Angel Investors
+54,Group of Angel Investors
+55,Group of Angel Investors
+56,Valiant Capital Partners
+57,India Quotient
+58,Group of Angel Investors
+59,Group of Angel Investors
+60,Omidyar Network
+61,Rajiv Mehta
+61,Sol Primero
+62,Orios Venture Partner
+63,India Quotient
+63,Kae Capital
+64,Norwest Venture Partners
+64,Temasek
+65,Anand Vijay
+65,Shashank Mehrotra
+66,Tiger Global
+66,Times Internet
+66,Zodius Capital
+67,Splice Advisors
+68,Ant Financial Services (Alipay)
+69,RuNet
+69,Sequoia Capital
+69,Sofina
+69,Tybourne Capital
+69,Valiant Capital
+70,Falcon Edge Capital
+70,Matrix Partners India
+70,Omidyar Network
+70,Sequoia Capital
+71,Ratan Tata
+72,Lightbox Ventures
+73,IDG Ventures
+74,Chip Perry
+75,Mangrove Capital Partners
+76,Aspada
+76,SAIF Partners
+76,Sequoia Capital
+77,Amanpreet Bajaj
+77,Karan Bajwa
+77,Parvesh Bareja
+77,Sunjay Kapur
+78,AngelPrime
+79,Group of Angel Investors
+80,Matrix Partners
+80,Sequoia Capital
+81,Matrix Partners
+81,Nexus Venture Partners
+82,BS Nagesh
+82,Srinivas Aluri
+82,Srinivas Modukury
+83,Suresh Senapaty
+83,TV Mohandas Pai
+84,Ashok Goel (promoter)
+85,ah! Ventures
+86,Binny Bansal
+86,Rebright Partners
+86,Sachin
+86,Tiger Global
+87,Group of other investors
+87,Mumbai Angels
+88,Helion Venture Partners
+89,Calcutta Angels
+89,Venture Nursery Angels Mumbai Angels
+90,Brick Eagle
+91,Carnegie Mellon University
+91,DA-IICT
+91,Startup Brasil program
+91,Techstars
+92,Mohandas Pai
+92,Ranjan Pai
+92,Sequoia Capital
+93,Fulcrum Ventures
+93,SAIF Partners
+94,InterGlobe Technology Quotient
+94,Lantern Capital
+95,Bijou Kurien
+95,Unitus Seed Fund Narayan Ramachandran
+96,BC Prabhakar
+96,T V Mohandas Pai
+96,V Balakrishnan
+97,SAIF Partners
+98,Sequoia Capital
+99,Rajat Jain
+99,Sanjay Bhasin
+99,Sumit Jain
+100,Amit Ranjan
+100,Deepinder Goyal
+100,Powai Lake Ventures
+100,Zishaan Hayath
+101,T V Mohandas Pai
+101,V Balakrishnan
+102,Kris Gopalakrishnan
+102,Nagaraja Prakasam
+103,Matrix Partners
+103,Nexus Venture Partners
+103,Sequoia Capital
+104,Sequoia Capital
+104,Tiger Global
+105,IDG Ventures India
+105,India Quotient
+105,Jungle Ventures
+106,Group of Angel Investors
+107,Helion Venture Partners
+107,Kae Capital
+108,Alok Goel
+108,Ashutosh Lawania
+109,IDG Ventures India
+109,Maverick Capital
+110,Madhukar Gangadi
+110,SIDBI
+110,Satish Reddy
+110,Srini Koppolu
+110,Srini Raju
+111,SAIF Partners
+112,Rajan Anandan & other angel investors
+113,Alok Mittal
+113,Aneesh Reddy
+113,Ashish Kashyap
+113,Powai Lake Ventures
+114,Kalaari Capital
+115,Shrem Strategies
+116,Accel
+116,Tiger Global
+117,Tarun Arora
+118,Sequoia Capital
+119,Sequoia Capital
+119,Tiger Global
+120,Ajai Chowdhry
+120,Alok Sharma
+120,IAN Ventures
+120,Kris Gopalakrishnan
+120,Saurabh Srivastava
+121,Varaprasad Reddy
+121,VentureEast
+122,Rocket Internet AG
+123,Ratan Tata
+124,Abhishek Goyal
+124,Powai Lake Ventures
+124,Sahil Barua
+124,Zishan Hayath
+125,GSF
+125,Kae Capital
+125,Teruhide Sato
+126,Harpreet Singh Grover
+126,Lalit Mangal
+126,Zishaan Hayath
+127,Kunal Bahl
+127,Rohit Bansal
+128,Ramesh kavediya
+129,Value Fund Advisors
+130,IDG Ventures
+130,Naveen Tewari
+131,I-cube-N
+132,YourNest Angel Fund
+133,Wipro
+134,Snapdeal
+135,Group of Angel Investors
+136,CA Media LP
+136,Start Media
+137,IDG Ventures
+137,Outbox Ventures
+138,LetsVenture
+139,Armat Group
+140,Wu Chay Chin
+141,Valiant Capital
+142,Arun Duggal
+142,HT Media
+143,RVCF
+143,SIDBI
+144,Y Combinator
+145,Sol Primero
+146,LightBox Ventures
+147,Accion Venture Labs
+147,Rianta Capital
+148,Dr Faraz Naqvi
+148,Dr Mushtaq Shah
+149,Greenoaks capital
+149,LightSpeed Ventures
+149,Sequoia Capital
+150,Impact Investment Holding
+150,Upaya Social Ventures
+151,Accel
+151,Dragoneer Investment
+151,JAFCO Asia
+151,Keystone Group
+152,Binny Bansal
+152,Indian Quotient
+152,Tiger Global
+153,India Quotient
+153,Sequoia Capital
+154,Pittie Group
+155,Solidarity Venture Capital
+156,Lightspeed Venture Partners
+156,Matrix Partners
+156,Tiger Global
+157,Ajai Chowdhary
+157,Nandan Nilekani
+157,Rajiv Mody
+158,Family Pot Investments LLP
+158,Kiran Bhat
+158,Nick Adams
+159,Tano Capital
+160,TA Associates
+161,Kalaari Capital
+161,Qualcomm Ventures
+161,Ru-Net
+161,Zodius Capital
+162,InterWest Partners
+162,Mohr Davidow Ventures
+162,Presidio Ventures
+162,Trinity Ventures
+163,Kalaari Capital
+163,Mayfield Ventures
+164,Accel
+164,SAIF Partners
+165,Rudy Gopalakrishnan
+165,ah! Ventures
+166,AECAL
+166,Amit Ranjan
+166,MeraEvents
+166,Niraj Singh
+166,Rajan Anandan
+166,Rajesh Sawheny
+167,Ajit Surana
+167,Sanjay Mehta
+168,Amit Bhatiani
+168,Jarett Posner
+168,Jason Hirschhorn
+168,Sequoia Capital
+169,Amit Tyagi
+169,Sandeep Acharya
+170,Investment AB Kinnevik
+170,Steadview Capital
+170,Tiger Global
+171,IDG Ventures India
+171,NEA Ventures
+171,SAIF Partners
+171,Silicon Valley Ventures
+171,Valiant Capital
+171,Vertex Ventures
+172,American Express
+172,Cisco Investments
+172,Sequoia Capital
+172,Tree Line Asia
+173,Accel
+173,DST Global
+173,Steadview Capital
+173,Tiger Global
+174,Kanwaljit Singh
+174,Sarvesh Shahra
+174,Shripad Nadkarni
+175,Hyderabad based investor
+176,Ajai Chowdhry
+176,Ashvin Chadha
+176,Nitin Singhal
+176,Yogesh Bansal
+177,India Quotient
+177,Matrix Partners India
+178,Kalaari Capital
+178,SAIF Partners
+178,Sequoia Capital
+178,Steadview Capital
+178,TR Capital
+179,Unitus Seed Fund
+180,GSF
+180,Helion Venture Partner
+180,Other angel investors
+180,Powerhouse Ventures
+181,Info Edge (India)
+182,Accel
+183,Jungle Ventures
+184,Ajay Relan
+185,Kae Capital
+186,Accel
+186,Dragoneer Investment
+186,Qualcomm Ventures
+186,Times Internet
+187,Lightspeed Venture Partners
+187,Tiger Global
+188,Sequoia Capital
+188,Tiger Global
+189,SAIF Partners
+189,Sequoia Capital
+190,PremjiInvest
+190,Ribbit Capital
+190,Tiger Global
+191,Mayfield India
+191,Orios Venture Partners
+192,Accel
+192,Kunal Bahl
+192,Rohit Bansal
+192,SAIF Partners
+193,Ascent Capital
+193,Kalaari Capital
+194,Powai Lake Ventures
+195,Deep Kalra
+195,Intel Capital
+195,Kae Capital
+195,Omidyar Network
+195,Sequoia Capital
+196,Accel
+196,Google Capital
+196,Tiger Global
+197,Agnus Capital
+198,GIC ventures
+199,YouWeCan Ventures
+200,Michael
+200,Pearson Learning Fund
+200,Susan Dell Foundation
+201,Undisclosed Investor
+202,The Phoenix Fund
+203,GFC
+203,Lightspeed Ventures
+203,Nexus venture Partners
+203,Sequoia Capital
+204,Deepak Shahdadpuri
+204,Gulpreet Kohli
+205,AngelPrime
+206,500 Startups
+206,Arena Ventures
+206,Nexus Venture Partners
+206,Version One Ventures
+207,Rakesh Mathur
+207,Vikas Taneja
+208,Lightspeed Ventures
+209,Helion Ventures
+209,Kalaari Capital
+209,Mayfield Ventures
+210,Accel India
+210,Accel US
+210,SAIF Partners
+211,Infuse Ventures fund
+212,Haresh Chawla
+212,Oliphans Capital
+213,91SpringBoard
+213,Ah! Ventures
+213,Calcutta Angels
+214,S S Mukherji
+215,SEEK Ltd & affiliates
+216,Cross Border Angels
+217,Co & existing investors
+217,Mitsui
+218,Anand Rajaraman
+218,Venky Harinarayan
+219,Alok Goel
+219,Amit Agrawal
+219,Aprameya Radhakrishna
+219,Ashish Dev Kapur
+219,Gaurav Munjal
+219,Rajan Anandan
+219,Sumit Jain
+219,Vinay Goel
+220,Fidelity Growth Partners
+220,Greycroft Partners
+221,The HR Fund
+222,Bessemer Ventures
+222,Blume Ventures
+223,SAIF Partners
+224,Rainmatter
+225,Bessemer Venture Partners
+225,SAIF Partners
+226,Goldman Sachs
+226,Rocket Internet
+227,Anand Vijay
+227,Azmul Haque
+227,Gaurav Lochan
+227,Keith Rodricks
+227,Nikhil Bagri
+227,Nipun Dureja
+227,Satyajit Heeralal
+228,Amit Gupta
+228,Rajiv Nayan
+228,Rishi Vasudev
+229,SAIF Partners
+230,Viraj Tyagi
+231,Vishwas Patel
+232,IDG Ventures
+232,Sequoia Capital
+233,Acumen Fund
+234,Acumen Fund
+235,Multiples Alternate Asset Management
+235,Nexus Venture Partners
+235,Tiger Global
+235,Times Internet
+236,Norwest Venture Partners
+237,Mayfield Ventures
+238,Fidelity Growth Partners India
+238,Helion Ventures
+238,SAIF Partners
+239,IDG Ventures
+239,Kris Gopalakrishnan
+240,Accel
+240,Tiger Global
+241,Beenos
+241,S.Gopalakrishnan
+242,Florida based Angel investor
+243,Micromax Informatics
+244,Aarin Capital Partners
+245,Exfinity Ventures
+246,Prototyze
+247,Chandrakant Gogri
+247,Rajendra Gogri
+248,Arun Chandra Mohan
+248,Praveen Sinha
+249,Helion Venture Partners
+249,Orios Venture Partners
+250,Aneesh Reddy
+250,Rajan Anandan
+250,Teru Sato
+250,Venkatesh Valluri
+251,Lead Angels
+252,KJS Group
+253,Hemant Kanakia
+253,Jay Sethuram
+253,Phanindra Sama
+253,Ravi Trivedi
+254,Samir Shah
+255,Mohandas Pai
+256,Sequoia Capital
+257,Tiger Global
+258,Subhash Goyal
+259,Accel
+259,Helion Venture Partners
+260,MakeMyTrip Innovation Fund
+261,Peesh Venture Capital
+262,Cross Border Angels
+263,SAIF partners
+264,Biz Stone
+265,Amit Rambhia
+265,Rohit Jain
+266,Sunergy Investors
+267,Michael
+267,Susan Dell Foundation
+268,HDFC Bank
+269,Sandiep Shrivatsava
+270,Anoop Goyal
+270,Kae Capital
+270,Mike Shah
+270,VA Sastry
+271,Jan Manten
+272,Punit Soni
+273,i2india Ventures
+274,Manipal Group
+275,Astarc Ventures
+276,Nirvana Venture Advisors
+277,Accel
+277,Kalaari Capital
+278,Sanjay Venkat
+278,Tim Chen
+279,Nexus Venture Partners
+280,Nikunj Jain
+280,Outbox Ventures
+280,Sol Primero
+281,Kalaari Capital
+282,Sequoia Capital
+283,Tiger Global
+284,Srinivas Tirupati
+285,GrowthStory
+286,Group of 15 Angel Investors
+287,Batlivala
+287,Blume Ventures
+287,Karani Securities
+287,Nikunj Jhaveri
+287,Ventureworks India
+288,InfoEdge
+289,Infuse Ventures
+290,Anupam Mittal
+290,Kae Capital
+291,DSG Consumer Partners
+291,Saama Capital
+292,Aprameya Radhakrishna
+293,Mumbai Angels
+293,Other angel investors
+294,Ennovent Impact Investment Holding
+295,Carrick Capital Partners
+296,Nexus Venture Partners
+297,Mark Mobius & 9 Other Angel investors
+298,Dr Paresh Doshi
+298,Virendra Shahney
+299,Ratan Tata
+300,Aseem Vadehra
+300,Niraj Singh
+300,Rajan Anandan
+300,Sachin Bhatia
+300,Singapore Angel Network
+301,Amit Ranjan
+301,Arjun Malhotra
+301,Gautam Gandhi
+301,Rajan Anandan
+301,Rohan Malhotra
+301,Sharad Sharma
+301,Sunil Kalra
+302,Green House Ventures
+303,DMG Information
+304,Warburg Pincus
+305,Morgan Stanley
+306,Bessemer Venture Partners
+307,Nirvana Ventures Advisors
+307,Tiger Global
+308,Paytm
+308,Snow Leopard
+309,Fidelity Biosciences
+309,Fidelity Growth Partners
+310,Bessemer Venture
+310,Capricorn Investment
+310,Future Fund
+310,IFC
+311,& other Angel investors
+311,Natarajan Iyer
+311,Rajesh Sawhney
+312,IvyCap Ventures
+313,Group of Angel Investors
+314,SIDBI Venture Capital Ltd
+315,Accel
+315,Norwest Venture Partners
+315,SAIF Partners
+316,KCL
+317,Pawan Borle
+317,SVP Fly Dubai
+318,Seedfund
+318,Sequoia Capital
+319,Arihant Patni
+319,Vishal Khare
+319,Viswanath Ramachandran
+320,M&S Partners Pte. Ltd
+321,Sequoia Capital
+322,Sequoia Capital
+323,Unitus Seed Fund
+324,i2india Pvt Ltd
+325,Mahesh Pratapneni
+325,Pallab Chatterjee
+326,Group of angel investors
+327,Infuse Ventures
+327,Low Carbon Enterprise Fund
+328,Jatin Aneja
+328,Karan Maheshwari
+328,Kishor Ganji
+328,Mumbai Angels
+328,Patni Family Office
+328,Roopa Nath
+328,Singapore Angel Network
+329,Times Internet
+329,Unitus Seed Fund
+330,Asian Healthcare fund
+330,LGT Group
+330,Seedfund
+331,Sunil Maheshwari & group of investors
+332,Neoteric Infomatique Limited
+333,ASK Pravi
+334,Amit Gupta
+334,Gopal Srinivasan
+334,Pallav Nadhani
+334,Sashi Reddy
+335,YouWeCan Ventures
+336,Faering Capital
+336,Foundation Capital
+336,Inventus Capital Partners
+337,Matrix Partners
+338,Group of Angel Investors from US/India
+339,Bunny Bansal & other investors
+339,Sachin Bansal
+340,India Quotient
+340,Kalaari Capital
+341,Dr David Cheriton
+342,Blume Ventures
+342,Kunal Bahl
+342,Phanindra Sama
+342,Raju Reddy
+342,Rohit Bansal
+343,Blume Ventures
+343,Kunal Bahl
+343,Phanindra Sama
+343,Raju Reddy
+343,Rohit Bansal
+344,Micromax Informatics
+345,Sprout Angels LLP
+346,AngelPrime
+347,500 Startups
+347,Amit Patni
+347,Holostik Group
+347,Manish Kheterpal
+347,Vijay Shekhar Sharma
+347,YouWeCan Ventures
+348,Sequoia Capital
+349,YouWeCan Ventures
+350,Matrix Partners India
+350,SAIF Partners
+351,Avalon Ventures
+351,Nexus Venture Partners
+351,Nokia Growth Partners
+352,Unitus Seed Fund
+353,Anshu Sharma
+353,Mercury Fund
+353,Pratyush Prasanna
+353,Robert Winters
+354,Oliphans Capital
+355,Chennai Angels
+356,Anupam Mittal
+356,Kae Capital
+356,Sandeep Tandon
+356,Sequoia Capital
+357,Development finance institution Belgian Investment Company
+357,Oikocredit
+358,Accel
+358,Flipkart
+359,Accion Venture Lab
+359,Elevar Equity
+359,IDG Ventures India
+360,Mape Advisory
+361,Sahil Barua
+361,Tracxn Labs
+362,Accel
+362,SAIF Partners
+363,Amit Gupta
+363,Manish Dugar
+363,Mohit Saxena
+363,Naveen Tiwari
+363,Piyush Shah
+364,Group of Investors
+365,Angie Mahtaney
+365,Kanwaljit Singh
+365,Manoj Varghese
+366,Commonfloor
+367,Sameer Koticha
+368,Blume Ventures
+368,Helion Ventures
+368,Omidiyar Network
+368,Ujama
+369,IDG Ventures India
+369,The Chennai Angels
+370,Bessemer Ventures
+370,Kae Capital
+371,Mohit Satyanand
+371,Vivek Joshi
+371,ah! Ventures
+372,Axon Partners
+372,IFC
+372,Intel Capital
+373,Ratan Tata
+374,Delhivery
+374,Tracxn Labs
+375,Omnivore Partners
+376,Amazon
+376,Fidelity Growth Partners
+376,Mousse Partners
+377,SAIF Partners
+378,Kunal Bahl
+378,Rahul Khanna
+378,Rajan Anandan
+378,Rohit Bansal
+379,Tiger Global
+380,Brand Capital
+380,Gokul Jaykrishna
+381,Vijay Shekhar Sharma
+382,Aneesh Reddy
+382,Rebright Partners
+382,Tracxn Labs
+383,Ajeet Khurana
+383,Powai Lake Ventures
+384,Group of angel investors
+385,Pravin Agarwala
+386,Atulya Mittal
+387,Hillhouse Capital
+387,Sofina
+388,Abhishekh Goyal
+388,Globeinvestor
+388,Powai Lake Ventures
+389,DSG Consumer Partners
+389,Siddharth Parekh
+390,DMG information Asia Pacific
+391,Mangroves Capital Partners
+391,Vikas Saxena
+392,Ratan Tata
+393,Amarpreet Sawhney
+393,Deshpande Foundation
+393,Fred Khosravi
+393,Helion Venture Partners
+393,Richard S. Braddock
+394,Accel
+395,Big Data Investments B.V
+395,Sunrise Capital GmBH
+396,Mirah Hospitality
+397,Ashvin Chadha
+397,Mayfield
+397,Saama Capital
+397,Shailesh Mehta
+398,Nexus Venture Partners
+398,Ratan Tata
+398,Tiger Global
+399,Jaydeep Barman
+400,Bertelsmann India
+400,Liberty Media
+400,Mousse Partners
+400,Quilvest
+400,Steadview Capital
+400,Tiger Global
+401,Empire Angels
+401,NGP
+401,Sequoia Capital
+402,Accel
+402,Dragoneer Investment Group
+402,IvyCap Ventures
+403,Tiger Global
+404,Arvind Jha
+404,R. Satya Narayanan
+404,Rajeev Saraf
+405,Sandeep Aggarwal
+405,Teruhide Sato
+406,Kshitij Jain
+406,Kumar Bansal
+406,LetsVenture
+407,Indian Angel Network
+408,IndianIdeas.com
+409,Forum Synergies PE Fund
+410,Goldman Sachs
+411,Palaash Ventures
+412,Orios Venture Partners
+412,Ritesh Veera
+412,Singapore Angel Network
+413,HR Technology fund
+414,Accel
+414,Helion Venture Partners
+415,Tamarind Family Private Trust
+416,Atul Jalan
+417,Anand Chandrasekaran
+417,Anupam Mittal
+417,Chetan Bhagat
+417,Uday Shankar
+418,Jungle Ventures
+419,Sequoia Capital
+419,SoftBank
+420,Blume Ventures
+420,Nexus Venture Partners
+420,Sequoia Capital
+421,Pradyumna Dalmia
+421,Sudhir Rao
+422,Manish Gandhi
+422,Sumit Gandhi
+423,Snow Leopard Technology Ventures
+424,Catamaran Ventures
+424,New India Investment Corporation
+425,Orios Venture Partners
+425,Tiger Global
+426,Mumbai Angels
+426,Vriddhi Fund
+427,Deepak Singh
+427,Tracxn Labs
+428,India Value Fund Advisors
+429,Exfinity Venture Partners
+430,Exfinity Venture Partners
+431,MakeMyTrip
+432,IDG Ventures India
+433,YourWeCan Ventures
+434,Sequoia Capital
+435,Axis Bank
+435,DSG Consumer Partners
+435,Falcon Edge Capital
+435,Matrix Partners
+435,Meru Capital
+435,Ola
+436,Jayant Bokadia
+437,Flipkart
+437,Tiger Global
+438,AB Kinnevik
+438,Coatue Management
+438,Falcon Edge Capital
+439,Lightspeed India
+440,Fidelity Growth Partners
+441,Indian Angel Network
+442,Varun Agarwal
+443,Manish Singhal
+443,growX ventures
+444,Accel
+445,Lightspeed Venture Partners
+446,Steadview Capital
+447,Accel
+447,Traxcn Labs
+448,Bertelsmann India Investments Norwest Venture Partners
+448,Goldman Sachs
+448,Zodius Technology Fund
+449,Krishan Gupta
+449,Sandeep Parwal
+450,Abhishek Gupta
+451,Binny Bansal
+451,Gurpreet Singh
+451,Malvinder
+451,Sachin
+451,Shivinder Singh
+452,IDG Ventures India
+452,Mohandas Pai
+452,Omidyar Network
+452,Sherpalo Ventures
+453,Paytm
+453,SAIF Partners
+453,Tiger Global
+454,Aprameya Radhakrishna
+454,YouWeCan Ventures
+455,Beenos
+455,Lightbox Ventures
+456,Kunal Bahl
+456,Rohit Bansal
+457,Ambarish Ray
+457,Elliot Stechman
+457,Gautam Sinha
+458,LionRock Capital
+459,SIDBI Venture Capital Ltd
+460,B S Nagesh
+461,MakeMyTrip
+462,Hirokazu
+462,Jai Choi
+462,Kiyohiro Sugashita
+463,Oliphabs Capital
+464,Aarin Capital Partners
+465,Mohandas Pai
+466,Alibaba
+466,Foxconn
+466,SoftBank
+467,Aavishkaar
+468,Alok Mittal
+469,Infuse Ventures
+470,Alok Mittal
+470,Anirudh Damani
+470,Nikunj Jain
+470,Niraj Singh
+470,Punit Goyal
+470,Zeeshan Hayat
+471,Greenoaks Capital
+471,Lightspeed India
+471,Sequoia Capital
+471,SoftBank
+472,VentureNursery
+473,Accel
+473,Sequoia Capital
+474,Orios Venture Partners
+474,Zishaan Hayath
+475,Helion Venture Partners
+475,Kalaari Capital
+476,Chandru Badrinarayanan
+476,Kunal Bajaj
+477,Ankush Nijhawan
+477,Gaurav Bhatnagar
+477,Manish Dhingra
+477,Rebright Partners
+478,BedRock Ventures
+478,Rajesh Sawhney
+478,Shailesh Singh
+479,Jay Srinivasan
+479,Ramesh Jogani
+479,Shailesh Viswanathan
+480,Rajesh Sawhney
+480,Sachin Bhatia
+481,Orios Venture Partners
+481,Tiger Global
+482,Gaurav Sharma
+482,Ravi Gururaj
+482,RippleWave
+482,Viswanath Ramachandran
+483,Berggruen Holdings
+483,Capricorn Investment Group
+483,Helion Advisors
+483,Horizons Ventures
+483,Social+Capital
+484,Calcutta Angels
+484,Chennai Angels
+484,India Internet Fund
+484,Indus Age Partners
+484,Intellecap Impact Investment Network
+484,LetsVenture
+484,Singapore Angel Network
+484,ah! Ventures
+485,Tracxn Labs
+486,Ravi Jaipuria
+486,Sanjay Sethi
+487,Hiro Mashita
+487,Inflexionpoint
+487,Pramod Bhasin
+487,Sixth Sense Ventures
+487,Vindi Banga
+488,Altimeter Capital
+488,Google Capital
+488,Matrix Partners
+488,Sequoia Capital
+488,Sequoia Capital Global Equities
+488,Sofina
+488,Yuri Milner
+489,CCube Angels
+489,Frontline Strategy
+490,YouWeCan Ventures
+491,Ashneer Grover
+491,Atul Phadnis
+491,Wealth First
+492,Infuse Ventures
+492,responsAbility Investments
+493,Best Foodworks
+494,Bedrock Ventures
+495,B M Gupta
+495,Vinod Singhal
+496,Gaurav Vats
+496,Neha Vats
+497,Tiger Global
+498,Girish Mathrubootham
+498,Others from LetsVenture
+498,Phanindra Sama
+498,Vikram Chachra
+499,QPrize from Qualcomm Ventures
+500,Nihon Kotsu
+501,Sequoia Capital
+502,Reliance Capital Venture
+503,Zodius Technology Fund
+504,ChrysCapital
+505,Bessemer Venture Partners
+505,Helion Ventures
+505,Jungle Ventures
+506,Ajeet Khurana
+507,Indian Angel Network
+508,Bessemer Venture Partners
+509,Lightspeed Ventures
+509,Sequoia Capital
+510,Accel
+510,Deep Kalra
+510,Mohit Gupta
+510,Rajesh Magow
+510,Shamik Sharma
+511,500 Startups
+511,Quintillion Media
+512,IDG Ventures
+513,Amit Ranjan
+513,Girish Mathrubootham
+513,Group of other Angel investors
+513,Kunal Bahl
+513,Vijay Shekhar Sharma
+514,Amit Ranjan
+514,Girish Mathrubootham
+514,Group of other Angel investors
+514,Kunal Bahl
+514,Vijay Shekhar Sharma
+515,Accion
+515,LeapFrog Investments
+515,Lok Capital
+516,LetsVenture
+516,Mumbai Angels
+517,Gujarat based angel investors
+517,MMY co-Founder
+518,Group of angel investors
+519,Jitendra Gupta
+520,Nalin Jain & other angel investors
+521,VentureNursery
+522,One97 Communications
+523,Rohit Goel
+524,Existing
+524,New Investors
+525,Intellecap Impact Investment Network
+525,family office fund
+526,Kunal Bahl
+526,Prashant Malik
+526,Rohit Bansal
+526,Zishaan Hayath
+527,Karthee Madasamay
+527,Ratan Tata
+527,T V Mohandas Pai
+527,Vani Kola
+528,Milliways Ventures
+528,NEA
+528,Naya Ventures
+529,Blume Ventures
+529,NEA
+530,New Enterprise Associates
+530,Orios Venture Partners
+531,Tiger Global
+532,Rohit Bhatia
+532,Siddharth Nautiyal
+532,Sunil Nikhar
+532,Vaibhav Domkundwar
+533,RoundGlass Partners
+534,Ankush Nijhawa
+534,Gaurav Bhatnagar
+534,Manish Dhingra
+535,Umesh Yadav
+536,AskMe
+537,Unilazer Ventures
+538,Rudy Gopalakrishnan
+538,Times Internet
+538,ah! Ventures
+539,Indian Angel Network
+540,Group of Angel Investors
+541,Amit Ranjan
+541,Orios Venture Partners
+542,Ajmera Group of Companies
+543,Prime Capital Markets Ltd
+544,The 1947
+545,Anupam Mittal
+545,India Quotient
+546,DSG Consumer Partners
+546,Saama Capital
+547,Group of Angel Investors
+548,GrowX ventures
+548,Powai Lake Ventures
+548,Sahil Barua
+548,Tracxn Labs
+549,Draper Fisher Jurvetson
+549,Helion Venture Partners
+549,Nexus Venture Partners
+549,Norwest Venture Partners
+549,Peepul Capital
+550,India Quotient
+550,Lead Angels
+550,LetsVenture investors
+551,Infuse Ventures
+552,Undisclosed Investor
+553,GHV Accelerator
+554,Ibibo Group
+555,Ravi Agarwal
+556,Group of Investors
+557,Growx Ventures
+557,Manish Singhal
+558,Equentia Natural Resources
+559,Rocket Internet
+560,Draphant Consultants
+560,Li Jian
+560,Li Tao
+560,Mohit Agarwal
+560,Nitin Garg
+560,Saurabh Jain
+561,Manish Singhal
+561,P39 Capital
+562,Nikhil Vora
+562,Ratan Tata
+563,Aspada Investment Advisors
+563,Qualcomm Ventures
+564,Flipkart
+565,Reliance Capital
+566,Group of HNI investors
+567,Tania Johny Palathinkal
+568,Norwest Venture Partners
+568,Sequoia Capital
+568,Warburg Pincus
+569,Ratan Tata
+570,Khazanah Nasional Berhad
+570,Zodius Technology Fund
+571,CMYK Health Boutique Pvt Ltd
+571,Other individual investors
+572,Purvi Capital
+573,India Quotient & other investors
+574,Elevar Equity
+574,Lok Capital
+574,Omidyar Network
+574,Saama Capital
+574,WestBridge Capital
+575,Ashish Jhalani
+576,R M Picture Company Pvt. Ltd
+577,Karanpal Singh
+578,Dinesh Kundu
+578,Nalin Jain
+578,Shomil Pant
+579,Acumen Fund
+580,Raghav Bahl
+580,Ritu Kapur
+581,Temasek
+581,Vy Capital
+582,India Educational Investment Fund
+583,Blume Ventures
+584,India Educational Investment Fund
+585,Beenextan investment fund
+585,Kalaari Capital
+585,SAIF Partners
+586,500 Startups
+586,Aloke Bajpai
+586,TV Mohandas Pai
+586,Tandem Capital
+586,Vikram Chachra
+587,InMobi
+587,Nanadan Nilekani
+587,Paytm
+588,Ankush Nijhawan
+588,Gaurav Bhatnagar
+588,Manish Dhingra
+589,Green House Ventures
+590,Subodh Gupta
+591,Eight Road Ventures
+592,Ash Bhardwaj
+593,Bessemer Venture Partners
+594,Falcon Edge Capital
+594,NY based Hedge Fund
+594,SoftBank
+594,Tiger Global
+595,Eight Roads Ventures
+596,Aarin Capital
+596,Unitus Seed Fund
+597,Cataraman Ventures
+598,Sandeep Dama
+599,Exfinity Ventures
+599,Helion Venture Partners
+600,Nandan Nilekani
+601,Payal Syal
+602,Anil Matai
+602,Shyam Sundar R
+602,Vikram Tandon
+603,Eight Roads Ventures
+604,Indian Angel Network
+605,Oliphans Capital
+606,High Networth Individuals (No details)
+607,Applyifi
+608,Kalaari Capital
+609,Helion Venture Partners
+609,Khazanah Nasional Berhad
+610,Accel
+610,Larry Braitman
+610,Subrata Mitra
+610,Venk Krishna
+611,Multiple investors
+612,Binny Bansal
+612,Outbox Ventures
+612,Sachin Bansal
+612,Sangram Singh
+612,Sol Primero
+613,Afsal Salu
+613,Aprameya Radhakrishna
+613,Naman Sarawagi
+614,Prakhar Bumb
+615,Anand Mahindra
+615,Ashish Hemrajani
+615,Sanjeev Mehra
+615,Uday Punj
+616,500 Startups
+617,Rainmatter
+618,Accel
+618,International Finance Corporation (IFC)
+618,Qualcomm Ventures
+618,Ventureast
+619,Kalaari Capital
+619,YourNest Angel Fund
+620,Bhavdeep Reddy
+621,Lead Angels
+622,Asha Jadeja Motwani
+623,Paytm
+624,Amanpreet Bajaj
+624,Karan Bajwa
+624,Manish Vij
+625,R Ramaraj
+625,Rianta Capital
+625,Sunil Edwards
+625,Unitus Seed Fund
+626,Swarnim Multiventures
+627,Mohandas Pai. Pallav Nadhani
+627,Sharad Sharma
+627,Singapore Angels Network
+627,Vijay Anand
+628,Rajat Malhotra
+629,Anupam Mittal
+629,Phanindra Sama
+629,Sateesh Andara
+629,Vijay Shekhar Sharma
+629,Vishal Gondal
+630,Nandan Nilekani
+630,Neeraj Aggarwal
+630,William Bissell
+631,M&S Partners
+632,500 Startups
+632,Girish Matrubootham
+632,Kunal Bahl
+632,Rohit Bansal
+632,Smile Multimedia
+633,Infuse Ventures
+633,The Chennai Angels
+634,Kanwaljit Singh
+634,TV Mohandas Pai
+635,Raghav Bahl
+636,Astarc Ventures
+637,Didi Kuaidi
+638,500 Startups
+638,Mato Peric
+639,The Chennai Angels
+640,Mayank Singhal
+641,Tennenbaum Capital Partners
+642,Rahul Khanna
+642,Zishaan Hayath
+643,Alibaba Group
+643,Ant Financial
+644,SAIF Partners
+644,Sequoia Capital
+645,Uniqorn Ventures
+646,Mantra Ventures
+646,Viktor Koenig PE Fund
+646,ah! Ventures
+647,Amit Gupta
+647,Kunal Bahl
+647,Mayank Singhal
+647,Naveen Tiwari
+647,Pranay Chulet
+647,Rohit Bansal
+648,Knoll Ventures
+648,Nexus Venture Partners
+649,Jungle Ventures
+650,Paytm (One97 communications)
+651,Paytm (One97 communications)
+652,Axilor Ventures
+653,Abhishek Goyal
+653,Accel
+653,Arun Tadanki
+653,Elevar Equity
+653,Gagan Hasteer
+653,Gaurav Dalmia
+653,Pramod Bhasin
+653,Rajan Anandan
+654,Abhinav Patodia
+654,Ashish Todi
+654,Kumar Shwetabh
+655,Sandeep Aggarwal
+656,Kalaari Capital
+657,Sequoia Capital
+658,DSG consumer Partners
+658,Paragon Partners
+659,Atul Nishar
+659,Dalip Pathak
+659,Harsh Mariwala
+659,Michael Carlos
+660,High Networth Individuals (undisclosed)
+661,Peepul Capital
+662,Ashvin Chadha
+662,Avtar Monga
+662,Dheeraj Jain
+662,Udaan Angels
+663,ASP Consulting
+663,Uniqorn ventures
+664,YouWeCan Ventures
+665,Gaja Capital Private Equity Fund
+666,HNIs
+666,Unnamed Media house
+667,Keshav Sanghi
+667,Riddhesh Gandhi
+667,Satyen Kothari
+668,Snapdeal
+669,Sanjay Mehta
+670,Micromax Informatics
+671,High Networth Individuals from India
+671,USA
+672,Mato Peric
+672,Peter Kabel
+673,Flipkart
+673,Tiger Global
+674,Kalaari Capital
+674,Sequoia
+675,Life.SREDA
+675,Qualgro
+676,Sanjeev Kakkar
+676,Smile Group
+676,Vikas Agarwal
+676,Vishal Khare
+677,Ravi Saxena
+677,Sanjeev Kapoor
+678,SF Capital Group
+679,RoundGlass Partners
+680,Amit Ranjan
+680,Kemark Ventures
+680,Zishaan Hayath
+681,Bedrock Ventures
+681,Seedfund
+682,Quikr
+683,Suyash Sharma
+684,Accel
+685,Aarin Capital Partners
+686,LetsVenture
+687,Accel
+688,500 Startups
+688,Advantedge fund
+688,IDG Ventures
+688,Leon Seynave
+688,Neeraj Arora
+689,Sean O'Sullivan
+690,Biz Stone
+690,Catamaran Ventures
+690,European investment fund
+690,Global Founders Capital
+690,Khosla Impact
+691,SAIF Partners
+692,Turning Ideas
+693,Micromax Informatics Ltd
+694,Dewang Neralla
+694,Manisha Gupta
+694,Roopak Taneja
+695,Fireside Ventures
+695,Mumbai Angels MAPE Advisory Group
+696,Manpreet Singh
+697,Amitpal Bhutani
+697,Devesh Rai G
+697,Rajesh Aggarwal
+698,Vijai Laxmi
+699,Parampara Capital
+700,Ascent Capital
+700,Beenos Asia
+700,Sequoia Capital
+700,eContext Asia
+701,Aarti Group
+702,Accel
+702,Anupam Mittal & other marquee investors
+703,Norwest Venture Partners
+703,Qualcomm Venture
+704,Springboard Ventures
+705,Accel
+705,Delhivery
+705,Sands Capital
+706,Dr. Aniruddha Malpani Manish Gupta
+706,M&S Partners
+707,Cota Capital
+707,Sierra Ventures
+707,Vegas Tech Fund
+708,Indian Angel Network
+709,Alok Bajpai
+709,Amit Dey
+709,Rajnish Kumar
+710,Mohan Alexander
+710,R Natarajan
+711,Arihant Patni
+711,RAAY Global Investments
+712,Atul Jalan
+712,Bharath
+712,Shrikanth
+713,Kae Capital
+713,Mayank Bhangdia
+713,Mumbai Angels
+714,Group of Angel investors
+715,Group of Angel investors
+716,ID Enablers Pvt Ltd
+717,Oswal Techno Ventures LLP
+718,undisclosed private investors
+719,OrbiMed
+719,Pradip Dadha Group
+720,Delhivery
+721,Matrix Partners
+721,Tiger Global
+722,India Quotient
+723,Unnamed investor
+724,Ventureworks India
+725,Nexus Venture Partners
+725,Sequoia Capital
+726,Redcliffe Capital
+726,YourNest Angel Fund
+727,500 Startups
+727,Other HNIs
+727,ah! Ventures
+728,Co Pvt Ltd
+728,S Chand
+729,Jupiter Capital
+730,Accel Partner
+730,Jungle Ventures
+731,Tracxn Syndicate
+732,Amit Singhal
+732,PK Gulati
+733,Puneet Bhatia
+734,Suresh Vaswani
+735,GREX
+736,Dheeraj Mehta
+736,Rajesh Bhatia
+737,Unilazer Ventures
+738,Matrix Partners
+738,Sequoia Capital
+739,InnoVen Capital
+740,Paytm
+741,IDG Ventures
+742,Amit Gupta
+742,Mukul Singhal
+742,Sahil Barua
+742,Tracxn Labs
+743,Constellation Technology Ventures (Exelon Corporation)
+743,E.ON
+743,Khosla Ventures
+743,RWE
+744,Anubhav Verma
+744,Varun Ahuja
+745,Dheeraj Jain
+746,Times Group Brand Capital
+747,Anubhav Verma
+747,Varun Ahuja
+748,JAFCO Asia
+748,Jungle Ventures
+748,K Ganesh
+748,Segnel Venture
+748,Shinji Kimura
+748,SingTel's Innov8
+748,Sundar Chanrai
+749,Ratan Tata
+750,Riqueza Capital
+751,CIO Angel Network
+752,ah! Ventures
+753,Aneesh Reddy
+753,Aprameya Radhakrishna
+753,Neeraj Jawalkar
+753,Pavan Ongole
+753,Phanindra Sama
+753,Sanjay Anandaram
+753,Venk Krishnan
+754,SAIF Partners
+755,Vineel Nalla
+756,Hyderabad Angels
+756,Ness Wadia
+756,Singapore Angel Network
+757,500 Startups
+757,IDG Ventures India
+757,Kalaari Capital
+758,Indian Angel Network
+759,Undisclosed HNIs
+760,Saina Nehwal
+761,Hyderabad Angels
+761,M&S Partners
+762,Chandralekha Construction Pvt. Ltd
+763,Ashim Mehra
+763,Internet Group
+763,Mike Galgon
+763,Mohit Saxena
+763,Rajan Anandan
+763,Ravi Gururaj
+763,TNN Capital
+764,Info Edge (India)
+765,Jozef Bardik
+765,Leo Wang Sangeeth Ram
+766,Michael
+766,Susan Dell Foundation
+766,Unitus Seed Fund
+767,undisclosed investor
+768,BEENEXT Ventures
+768,Kunal Shah
+768,Sandeep Tandon
+768,Sequoia Capital
+769,Haresh Chawla
+769,SAIF Partners
+770,Business Acceleration (CIBA)
+770,Centre For Incubation
+770,Goa
+771,Fireside Ventures
+771,Lensbridge Capital
+771,Mape Advisory Group
+772,TV Mohandas Pai's family office
+773,Sixth Sense Ventures
+774,Mount Nathan Advisors Pte Ltd
+775,Chennai Angels
+776,Ankit Nagori
+776,Sujeet Kumar
+776,Traxcn Labs
+777,50K Ventures
+777,Astarc Ventures
+778,Kalaari Capital
+779,Logtally
+780,Times Internet
+781,Ravi Krishnamurthy
+782,Enablers platform
+783,Apoletto
+783,Global Founders Capital
+783,Lightspeed Venture Partners
+783,Nexus Venture Partners
+783,Sequoia Capital
+784,Betty Moore Foundation
+784,Gordon
+785,Anuj Srivastava
+785,Rimpal Chawla
+786,Jitu Virwani
+787,Nexus Venture Partners
+788,Inara Capital
+788,Rishi Khiani
+789,Baillie Gifford
+789,DST Global
+789,Didi Kuaidi
+789,Falcon Edge Capital
+789,SoftBank
+789,Tiger Global
+790,Palaash Ventures
+791,Kalaari Capital
+792,Aditya Dev Sood
+792,Blackstone Valley Group
+792,Kamal Bansal
+792,Raghu Vohra
+793,ah! Ventures
+794,Indian Angel Network
+795,Ganapathy Venugopal
+795,Kris Gopalakrishnan
+795,Professor Tarun Khanna
+795,S.D. Shibulal
+795,Srinath Batni
+796,Karnataka Semiconductor Venture Capital firm
+797,Accel
+797,Bessemer Venture Partner
+797,SAIF Partners
+798,Hampton Capital
+799,Gurmeet Chahal
+799,Hemant Kaul
+799,Pradeep K Jaisingh
+799,Ram Kumar Kakani
+799,Sunil T V
+799,Vijay Ghadge
+800,New Enterprise Associates
+801,Kae Capital
+801,Kunal Bahl
+801,Rohit Bansal
+802,Bijou Kurien
+802,Narayan Ramachandran
+802,Unitus Seed Fund
+803,BVR Mohan Reddy
+803,Daljit Singh
+803,Dr. Pramath Raj Sinha
+804,Anil Menon
+805,Accel
+805,IDG Ventures India
+806,Ratan Tata
+807,Canaan Partners
+807,Co
+807,Mitsui
+807,New Enterprise Associates
+807,Silicon Valley Bank
+808,Manish Gupta
+809,Swastika
+810,Ashok Agarwal
+811,IFC Everstone Group
+812,Raghu Khanna
+812,Sameer Gupta
+813,Cheetah Mobile
+813,New Enterprise Associates
+814,Apoletto Managers
+814,Sequoia Capital
+814,SoftBank
+814,Tiger Global
+815,Ashish Goenka
+815,Tracxn
+816,IDG Ventures
+816,M
+816,Powerhouse Ventures (USA)
+816,S partners
+817,Earlsfield Capital
+818,Ashish Gupta
+819,JMR Infotech India Pvt Ltd
+820,Anil Chopra
+820,Bessemer Venture Partners
+821,Unigrowth Inc
+822,Jairaj Singh
+822,Mandeep Singh
+823,Alok Mittal
+823,Manish Kheterpal
+823,Puneet Dalmia
+824,Sargod Ventures
+825,FIH Mobile Ltd
+826,Accel
+826,Delhivery
+826,Flipkart
+826,Foxconn
+827,DSG Consumer Partners
+828,growX ventures
+829,YouWeCan Ventures
+830,GirnarSoft
+831,Pankaj Gupta
+832,Frontline Strategy
+833,Aarin Capital Partners
+833,TV Mohandas Pai
+834,TV Mohandas Pai
+834,The Saha Fund
+835,Balamurali Krishna
+835,Lashit Sanghvi
+835,Mohammed Bin Abdul Rehman Al Khalifa
+835,Nikhil Vora
+835,Ralph Berezan
+835,Venkat Vardhan
+835,Vissal Mathew
+836,CIO Angel Network (CAN)
+837,Chandigarh Angel Network (CAN)
+838,Beerud Sheth
+838,Ravi Mantha
+839,One more Fund
+839,Sequoia Capital
+839,Times Internet Ltd
+840,GHV Accelerator
+841,GHV Accelerator
+842,CerraCap
+843,Anupam Mittal
+843,Dinesh Agarwal
+843,Gaurav Gupta
+843,Rajesh Sawhney
+844,Gopal Aggarwal
+845,Agnus Capital
+846,Lightbox Ventures
+846,Sequoia Capital
+846,ru-Net
+847,Ajeet Khurana Jinesh Shah
+847,Dr. Aniruddha Malpani
+847,Vikram Chachra
+848,Vidyadhar Sarfare
+849,Blume Ventures
+850,Shopclues
+851,Orios Venture Partners
+851,Steven Lurie
+851,Unilazer Ventures
+852,Accion
+852,SAIF Partners
+853,Manipal Global Education Services
+854,Jitendra Gupta
+854,Prashant Tandon
+854,TracxnLabs
+855,Chandigarh Angels Network
+856,Undisclosed Investor
+857,Accel
+857,Apoletto
+857,Flipkart
+857,Tiger Global
+857,Yuri Milner
+858,Blume Ventures
+858,Sequoia Capital
+858,Uniqorn Ventures
+859,CLSA Capital Partners ARIA IV Funds
+860,Bren Corporation
+861,GrowX Ventures
+862,Mitesh Majithia
+863,Entrepreneurs India
+863,Indian Angel Network
+863,Stanford Angels
+864,Mr. Praveen Someshwar
+864,Mr. Sudhir
+864,Ms. Shalini Sethi
+865,Gabriel Investments
+865,Sashi Reddi
+866,Binny Bansal
+866,Sachin Bansal
+867,Anand Mahindra
+868,LetsVenture
+868,Mohandas Pai
+869,Extreme Venture Partners William Bissell
+870,Ratan Tata
+871,Amrish Kumar
+871,Hrishikesh Parandekar
+871,Rajan Anandan
+871,Reema Kagati
+871,Ruchi Narain
+871,Zoya Akhtar
+872,Prashanth Ranganathan
+873,Accel
+873,RB Investments
+874,Puneet Dalmia
+875,Infosys
+876,Mumbai Angels
+876,Singapore Angel Network
+876,Zishaan Hayath
+877,Singapore Angels Network
+877,Vijay Shekhar Sharma
+878,Chicago Capital Ventures
+878,Sanjay Mehta
+879,Amazon
+879,Matrix Partners
+879,Qualcomm
+879,Ru-Net Technology Partners
+879,Vertex Ventures
+880,Unilazer
+881,Balaji Prabhakar
+881,Nisha Sharma
+881,Puneet Dalmia
+882,Kalaari Capital
+883,SAIF Partners
+884,500 Startups
+884,Allen Blue
+884,Blue Fog Capital
+884,John Katzman
+884,Kartik Hosanagar
+884,Kashyap Deorah
+884,Naveen Tewari
+885,Kris Gopalakrishnan
+886,Prahlad Rao
+886,Sundara Rajan
+886,Vikram Chachra
+887,Turning Ideas
+888,Quintillion Media
+889,Elevate Sports
+889,Faering Capital
+889,HDFC
+889,TCS
+890,Innoven Capital
+891,Mount Nathan Advisors
+891,Ramakant Sharma
+891,Ritesh Dwivedy
+892,Venture Nursery
+892,YourNest Angel Fund
+893,BrahmaX Ventures
+893,Rishi Parti
+894,Arathi Krishna
+894,Arun Venkatachalam
+894,Murugappa Group
+894,TVS Group
+894,Vellayan Subbiah
+895,Palred Technologies Ltd
+896,Medi Assist
+897,HT Digital Media Holdings Ltd
+898,Anand Chandrasekaran
+898,Kalpana Tatavarti
+898,Rajesh Sawhney
+898,Shivanandan Pare
+899,Dinesh Agarwal
+900,Jitendra Gupta
+901,Vectr Ventures
+902,Blume Ventures
+902,Flipkart
+903,Exfinity Venture Partners
+903,Unitus Impact Livelihoods Fund
+904,Collaborative Licensing Ventures LLP
+905,Info Edge (India) Ltd
+906,Ruchir Arora
+906,Umang Kumar
+907,SAIF Partners
+908,Girish Reddy
+908,Sharad Hegde
+908,Shrikant Patil
+908,Siddharth Patil
+909,Mahavir Pratap Sharma
+910,Innoven Capital
+910,Sequoia Capital
+910,Tree Line Asia
+911,Yuvraj Singh
+912,Manvinder Singh Banga
+912,Pramod Bhasin
+912,Rajan Anandan
+912,Siddharth Pai
+912,TV Mohandas Pai
+913,Ashish Dhawan
+913,Deepinder Goyal
+913,Kunal Bahl
+913,Mayank Singhal
+913,Rohit Bansal
+913,Sequoia Capital
+914,MeritTrac
+915,Ratan Tata
+916,Tata Capital Innovation Fund
+917,Dinesh Agarwal
+918,Amit Gupta
+918,Anisha Mittal
+918,Arihant Patni
+918,Deobrat Singh
+918,Dr. Ritesh Malik
+918,Lalit Mangal
+918,Pallav Nadhani
+918,Samir Bangara
+918,Saurab Paruthi
+918,Singapore Angel Network
+919,Centre for Innovation Incubation
+919,Entrepreneurship (CIIE)
+920,Ankur Gupta
+921,SIDBI Venture Capital Limited
+921,YourNest Angel Fund
+922,Bhanu Vikram Parsotam
+922,Paras Patel
+922,Rohan Desai
+923,Ankush Saigal
+923,Bharat Gupta
+923,Dheeraj Jain
+923,Jagdish Kumar
+923,Praveen Saini
+924,Ganayantrika Systems
+924,Lalitesh Katragadda
+925,Ratan Tata
+926,Amit Jindal
+926,Arjun Handa
+926,Nagendra Chaudhary
+927,Idein Ventures
+928,Ctrip.com International Ltd
+929,Newbie Promoter Pvt Ltd
+930,Myntra/LivSpace Founders
+931,Anand Ladsariya
+931,Anirudh Damani
+931,Dr. Apoorv Ranjan Sharma
+931,Krishna Jhujhunwala
+931,Sanjay Mehta
+932,Arun Chandra Mohan
+933,GBIM Technologies Pvt Ltd
+934,Lightbox Ventures
+935,Ranjan Mahtani
+936,Lightspeed Venture Partners
+936,Zodius Capital
+937,Nahata Family
+937,Waheed Alli
+938,LetsVenture
+938,TV Mohandas Pai
+939,500 Startups
+939,Mato Peric
+939,TracxnLabs
+940,Equity Crest
+940,Sparknext
+940,Vinners
+941,Adam D'Angelo
+941,Aditya Agarwal
+941,Matt Mullenweg
+941,Ruchi Sanghvi
+942,Jagdish
+942,N Squared Management LLC
+942,Sandeep Mehta Family Office
+942,Vallabh Bhanshali
+943,GIC
+943,Nexus Venture Partners
+943,Tiger Global
+944,50k Ventures
+944,Munish Jauhar
+944,Pulkit Jain
+944,Rohit Narang
+945,India Quotient
+945,SAIF Partners
+946,March Capital
+946,Temasek Holdings
+946,Warburg Pincus
+947,RoundGlass Partners
+948,Other unnamed investors
+948,Shiva Ashok
+949,Unicorn India Ventures
+950,Mustafa Wajid
+950,Umang Kumar
+951,Indian Angel Network
+952,Amod Malviya
+953,Ambiga Dhiraj
+953,Arihant Patni
+953,Dhiraj Rajaram
+953,Dinesh Agarwal
+953,Flipkart
+953,Micromax
+953,Saavn
+953,Samir Bangara
+953,Sanjay Nath
+954,Gaurav Bhalotia
+954,Hyderabad Angels
+954,LV Prasad
+954,Lalit Mangal
+954,Vikas Malpani
+955,Samar Singla
+955,Varun Khurana
+955,Vinay Bansal
+956,Abhinav Mathur
+957,Cipher-Plexus Capital Advisors
+957,Indian HNIs
+958,Times Group
+959,Sanjay Mehta
+960,500 Startups
+960,Bertelsmann India Investments
+960,Nirvana Digital India Fund
+960,Nirvana Digital Investment Holding
+961,Huzaifa Khorakiwala
+962,Ratan Tata
+963,Umang Kumar
+964,Peyush Bansal
+964,Phanindra Sama
+964,Unilazer Fund
+965,Anand Chandrasekaran
+966,Omidyar Network
+967,Harmony Partners
+967,RB Investments & existing investors
+968,Flipkart
+969,Lemelson Foundation
+969,Michael
+969,Susan Dell Foundation
+970,Undisclosed US Based Investors
+971,Trifecta Capital
+972,Alpha Capital
+973,Saïd Business School Seed Fund
+974,500 Startups
+975,Ambi Parameswaran
+975,Farooq Adam
+976,Anand Chandrasekaran
+976,Beenext Ventures
+976,India Quotient
+976,Sequoia Capital
+977,Unilazer Ventures
+978,Ratan Tata
+979,Rob Chandra
+980,SoftBank Corp
+981,APIS Partners
+982,Purvi Ventures
+983,GIC
+984,Arihant Patni
+984,Avnish Mehra
+984,Pranay Adhvaryu
+984,Ravi Sampat
+985,Chandigarh Angels Funding
+986,CRV
+986,Institutional Venture Partners
+986,Lightspeed Venture Partners
+986,Norwest Venture Partners
+987,Kanpur Angels
+988,The Chennai Angels
+989,Blume Ventures
+989,Jungle Ventures
+989,Konly Venture
+989,Taurus Value Creation
+990,Accel
+990,Inventus Capital
+990,Kalaari Capital
+990,Nandan Nilekani
+991,Venture Catalysts
+992,GPA group
+993,Puneet Dalmia
+994,Ratan Tata
+995,Lalit Mangal
+996,Mohit Saxena
+996,Raghunandan G
+996,Singapore Angel Network
+996,TV Mohandas Pai
+996,TracxnLabs
+997,Foxconn Technology Group
+998,Amit Gupta
+998,Anupam Mittal
+998,Farooq Adam Mukadam
+998,Neeraj Goenka
+998,Utsav Somani
+999,Un disclosed investors
+1000,TermSheet
+1000,ah! Ventures
+1001,Harminder Sahni
+1001,Krishna Mehra
+1001,Sanjay Bakshi
+1002,Vineet Nalla
+1003,Lightspeed Venture Partners
+1003,Zodius Technology Fund
+1004,Maple Capital Advisors
+1005,Idein Ventures
+1006,Info Edge (India) Ltd
+1007,Lead Angel Network
+1008,Inventus Capital
+1008,Kae Capital
+1008,Kalaari Capital
+1008,Tekton Ventures
+1009,Indian Angel Network
+1010,Amit Patni
+1010,Anirudh Damani
+1010,Samir Shah
+1011,Snow Leopard Technology Ventures
+1012,Lumis Partners
+1012,Wipro Ventures
+1013,Multiple investors through Ten Minute Million competition
+1014,Multiple investors through Ten Minute Million competition
+1015,Aarin Capital
+1015,T V Mohandas Pai
+1016,Multiple investors through Ten Minute Million competition
+1017,Multiple investors through Ten Minute Million competition
+1018,Dunamis Ventures Pte Ltd
+1019,Green House Ventures (GHV)
+1020,Green House Ventures (GHV)
+1021,Ingram Content Group
+1022,Oranda Global
+1023,Arihant Patni
+1023,Raghunandan G
+1023,Venturesity
+1024,Ananda Kallugadde
+1024,Mumbai Angels
+1024,Rakesh Desai
+1024,Rakesh Malhotra
+1024,Saha Fund
+1024,TV Mohandas Pai
+1024,Zia Mody
+1025,Aarin Capital
+1025,TV Mohandas Pai
+1026,Vandana Luthra
+1027,Nexus Venture Partners
+1028,Nyca Partners
+1028,Sherpa Capital
+1028,Thomvest Ventures
+1029,Mohit Goel
+1029,Vinod Jain
+1030,Green House Ventures (GHV)
+1031,Mahesh Parasuraman
+1031,Rahul Gautam
+1032,Endiya Partners
+1032,Mekin Maheshwari
+1032,Rajesh Sawhney
+1033,Ratan Tata
+1034,Green House Ventures (GHV)
+1035,Ratan Tata
+1036,Sanjeev Singhal
+1036,Vinod Bansal
+1037,Sixth Sense Ventures
+1038,IDG Ventures India
+1038,SAIF Partners
+1038,Valiant Capital
+1038,Vertex Ventures
+1039,Edelweiss Financial Services
+1040,Aarin Capital
+1040,India Ventures
+1041,Lion Ventures
+1042,Aqeel Ahmed
+1043,Manipal Global Education Services
+1044,Sachin Dalal
+1045,Anil Gelra
+1045,Atul Jain
+1045,Jaikumar Nair
+1046,Jaideep Mehta
+1047,Jayabalan Subramanian
+1048,Alok Rawat
+1048,Grey Orange Robotics
+1049,Sunil Mehta
+1050,Kalaari Capital
+1051,Aspada Advisors
+1051,IDG Ventures
+1051,Inventus Capital
+1052,Blume Ventures
+1052,Tracxn Labs
+1053,Mukesh Kumar Gupta
+1054,Saumya Tandon
+1055,Ranjit Singh
+1056,Abhay Singhal
+1056,Abhishek Acharya
+1056,Joby Babu
+1056,Manish Shah
+1056,Vaibhav Doshi
+1056,Vibhu Garg
+1057,Ratan Tata
+1058,Ontario Teachers' Pension Plan
+1059,Unitus Seed Fund
+1060,Brand Capital
+1060,Dinesh R. Challa
+1060,Siddhivinayak Skyscrapers
+1061,Kanchan Ghoshal
+1061,Prijit Debnath
+1061,Rajnish Sinha
+1062,Deepak Chokhani
+1062,Virendra Shekhawat
+1062,Yogesh Patel
+1063,Globevestor
+1063,GrowX Ventures
+1063,Haresh Chawla
+1063,Kunal Shah
+1063,Powai Lake Ventures
+1063,Sandeep Tandon
+1064,Vishwadeep Bajaj
+1065,Michael
+1065,Susan Dell Foundation
+1066,Ratan Tata
+1067,KWAN Entertainment
+1067,Marketing Solutions
+1067,Powerhouse Ventures
+1068,Amit Sandill
+1068,Dr Nandish Domlur
+1069,Tiger Global
+1070,Lead Angels
+1071,Qualcomm (Through QPrize Contest)
+1072,Farooq Oomerbhoy
+1072,Other angel investors
+1073,K Ganesh
+1073,Lightspeed Venture Partners
+1074,Undisclosed investor
+1075,Anand Rajaraman
+1075,Aneesh Reddy
+1075,Girish Mathrubootham
+1075,Mohandas Pai
+1075,Nandan Nilekani
+1075,Neeraj Arora
+1075,Teruhide Sato
+1076,Dino Morea
+1076,Sujal Shah
+1077,Purvi Ventures
+1078,Mohandas Pai
+1078,Varun Aggarwal
+1079,Chennai Angels
+1080,Aavishkaar
+1081,3 undisclosed investors
+1082,Nitin Bagmane
+1082,Other undisclosed investors
+1083,Undisclosed investor
+1084,Lightspeed India
+1085,Abhijit Bhandari
+1085,Mahesh Murthy
+1085,Omidyar Network
+1085,Shashank Bhagat
+1085,Vikram Lal
+1086,Accel
+1086,Binny Bansal
+1086,Sachin Bansal
+1087,Indian Angel Network
+1088,IvyCap Ventures
+1088,Mayfield India
+1088,Orios Venture Partners
+1089,StartupXseed Ventures
+1089,The Phoenix Fund
+1090,Deutsche Telekom Strategic Investments (DTSI)
+1090,Holtzbrink Ventures
+1090,New Enterprise Associates (NEA)
+1090,Rocket Internet AG
+1090,Silicon Valley Bank
+1090,e.ventures
+1090,ru-Net
+1091,Raj Y
+1091,Suresh Venkat
+1091,Varun Aggarwal
+1092,Vishal Bali
+1093,Tracxn Syndicate
+1094,Beenext
+1094,Beenos
+1094,Digital Garage
+1094,Mamoru Taniya
+1094,Qualgro
+1094,SAIF Partners
+1095,Swastika Company Ltd
+1096,Yajnanarayana Kammaje
+1097,Calcutta Angels
+1097,Lead Angels
+1098,Undisclosed HNIs
+1099,Accel
+1099,Ashish Hemrajani
+1099,Parikshit Dar
+1099,Rajesh Balpande
+1100,Matrix Partners India
+1101,Acumen Fund
+1101,Insitor Impact Asia Fund
+1102,Kapil Goel
+1103,Eduardo Saverin
+1104,Ratan Tata
+1105,Unitus Seed Fund
+1106,RoundGlass Partners
+1107,Lip-Bu Tan
+1107,Michael Marks
+1107,Nicolas Braithwaite
+1108,Co
+1108,S Chand
+1109,YourNest Angel Fund
+1110,Kludein LLC Phanindra Sama
+1110,Narayan Ramachandran
+1110,Pranav Pai
+1111,Accel
+1111,Nandan Nilekani
+1112,Amit Khanna
+1112,Amit Nanavati
+1112,Blinc Advisors
+1112,Taranjit Jaswal
+1112,Tashwinder Singh
+1113,Undisclosed investor
+1114,Dino Morea
+1115,YourNest Angel Fund
+1116,Anoop Hingorani
+1116,Sudhir Mehta
+1117,Manoj Kumar
+1117,Other undisclosed investors
+1118,IvyCap Ventures
+1119,Artiman Ventures
+1120,Mohit Gulati
+1121,Matt Glickman
+1122,Daman Soni
+1122,Rajat Gupta
+1123,Undisclosed private investors
+1124,Accel
+1124,M&S Partners
+1124,Qualcomm Ventures
+1124,Zop Smart
+1125,Anuj Sanghi
+1125,Ruchirans Jaipuria
+1126,Ankur Singla
+1126,Ankur Warikoo
+1126,Rebright Partners
+1126,Sol Primero
+1126,Sudhir Anandarao
+1127,Unicorn Ventures
+1128,Abhay Singhal
+1128,Amit Gupta
+1128,Naveen Tewari
+1128,Piyush Shah
+1128,Raghunandan G
+1128,Rajiv Mehta
+1129,Vijay Krishna Yadav
+1130,Aspada Investment Advisors
+1130,Blume Ventures
+1131,Matrix Partners India
+1132,500 Start-Ups
+1132,Bertelsmann India Investments
+1132,Nirvana Digital India Fund
+1132,Nirvana Digital Investment Holding Co Ltd
+1132,Undisclosed Japanese investor
+1133,Prime Venture Partners
+1134,Apoorv Ranjan Sharma
+1134,Daud Ali
+1135,Amit Choudhary
+1135,Anuj Puri
+1136,Amadeus Capital
+1137,Dheeraj Jain
+1137,Other angel investors
+1138,Vipul Parekh
+1138,ajesh K Murthy
+1139,PurpleTalk Inc
+1140,Entrepreneurs India
+1140,Indian Angel Network
+1140,Stanford Angels
+1141,Puneet Gupta
+1142,Fidelity Growth Partners India
+1142,Greycroft Partners
+1142,Ignition Partners
+1143,Raj Gala Shah
+1143,Zaheer Memon
+1144,Mohit Goel
+1145,Janak Parikh
+1146,Hemang Sahani
+1147,Abhishek Jain
+1147,Ajay Modani
+1147,Anirudh Rastogi
+1147,Dr V Ravinder
+1147,Hari Krishna
+1147,Nagendra Prasad Bhanuprakash
+1147,Rajeev Mudumba
+1147,Rakesh Gakhar
+1148,Agarwal Movers Group
+1149,Blume Ventures
+1149,Co Pvt Ltd
+1149,S Chand
+1150,Funding through 1Crowd platform
+1151,Alex Kuruvilla
+1151,Pradeep Guha
+1151,Rajan Pandhare
+1151,Saket Dhankar
+1152,Atul Nishar
+1152,Kris Gopalakrishnan
+1153,Chandrashekar Tallapragada
+1153,Pankaj Kapoor
+1154,Abhishek Goyal
+1154,Arjun
+1154,Gagan Dugal
+1154,Harpreet Singh Grover
+1154,Rohan Malhotra
+1154,Zishaan Hayath
+1155,Beenext
+1156,Anita Hassanandani
+1156,Rannvijay Singh
+1157,Swastika Company Ltd
+1158,Other unnamed investors
+1158,Sashi Reddi
+1159,Naveen Gupta
+1160,Google Capital
+1161,Unitus Seed Fund
+1162,CASHurDRIVE Marketing Pvt Ltd
+1163,Abraaj Group
+1164,Sequoia Capital
+1164,Sofina
+1165,GAIN
+1166,Infocomm Development Authority of Singapore
+1166,Pix Vine Capital
+1167,Indian Angel Network
+1167,Tracxn Labs
+1168,Alok Mittal
+1168,Dexter Angel Circle
+1168,Dheeraj Jain
+1168,Kunal Shah
+1168,Rajul Garg
+1168,Rishi Mandawat
+1168,Sandeep Tandon
+1169,Sachin Tendulkar
+1170,Anshoo Gaur
+1170,BitChemy Ventures
+1170,Maheshwari Investments Pvt Ltd
+1170,Rama Krishna Reddy
+1170,Sandeep Seerapu
+1171,Devidas Desai
+1171,Singapore Angel Network
+1171,Vipul Gautam
+1172,Anupam Mittal
+1172,Bhavish Aggarwal
+1172,Binny Bansal
+1172,Krishna Mehra
+1172,Mekin Maheshwar
+1172,Rajan Anandan
+1172,Singapore Angel Network
+1172,Sunil Kalra
+1173,Indian Angel Network
+1174,500 Startups
+1174,Littlerock
+1174,Singularity Ventures
+1175,Broadbean Capital services
+1176,Bharanidharan Viswanathan
+1176,Rahul Agarwal
+1176,Sanjiv Mittal
+1176,Shobhit Shukla
+1177,Aditya Vij
+1177,Daljit Singh
+1177,Kishore Kumar
+1177,Rajul Garg
+1177,Shuchin Bajaj
+1178,Jay Vijayan
+1179,Robin Utthappa
+1180,Sarva Capital
+1181,Alok Mittal
+1181,Amit Gupta
+1181,Anuj Srivastava
+1181,Himanshu Aggarwal
+1181,Puneet Agarwal
+1181,Raghunandan G
+1182,SoftBank Ventures Korea
+1183,500 Startups
+1183,Ajay Sarupria
+1183,Hiro Mashita
+1183,Mohandas Pai
+1183,Rajan Anandan
+1183,Singapore Angel Network
+1184,Indian Angel Network
+1185,CSC Upshot
+1185,Maiden Lane Ventures
+1185,Nelstone Ventures
+1185,Transmedia Capital
+1186,Raman Roy
+1187,Ajai Chowdhry
+1187,Alok Sharma
+1187,Indian Angel Network
+1187,Kris Gopalakrishnan
+1187,Saurabh Srivastava
+1188,N.S. Raghavan Centre for Entrepreneurial Learning
+1189,Vineet Singh
+1190,Xiaomi Inc
+1191,Equentia Natural Resource
+1191,Other undisclosed investors
+1192,Mukesh Bansal
+1193,Times Internet Ltd
+1194,Barkawi Holdings GmbH
+1194,Blume Ventures
+1194,TM Service Technology Holdings GmbH
+1195,Ninestarter
+1196,L'Occitane
+1197,Axilor Ventures
+1198,DTDC Express Ltd
+1199,Nazara Technologies Pvt Ltd
+1200,Mahendra Patel
+1200,Nilender Chauhan
+1201,IDG
+1201,Indian Angel Network
+1202,Villgro
+1203,Rattan Chadha
+1204,DSG Consumer Partners
+1204,Greenoaks Capital
+1204,Lightspeed Venture Partners
+1204,Sequoia Capital
+1204,SoftBank
+1204,Venture Nursery
+1205,Prashant Puri
+1206,Wingify
+1207,Shaan
+1208,Anil Kapoor
+1209,Anirudh Damani
+1209,Daud Ali
+1209,Jayesh Shah
+1209,Krishna Jhunjhunwaala
+1209,Narendra Karnavat
+1209,Vikas Kapoor
+1209,Vikram Lakhotia
+1210,Dr. Ranjan Pai
+1210,Kris Gopalakrishnan
+1211,Dr. Sridhar Ramaswamy
+1211,Rakesh Mathur
+1212,Prime Venture Partners
+1213,Pravin Khandelwal
+1213,Yatin Kumar Jain
+1214,Dr. Aniruddha Malpani
+1215,Prashant Gooty
+1215,Rajeev Agrawal
+1216,StartUp Equity Partners
+1217,Ajay Data
+1217,Kamal Kothari
+1217,Mahavir Pratap Sharma
+1217,Sanjay Phophaliya
+1217,Siddharth Agarwal
+1217,Yogesh Chaudhary
+1218,Neeraj Arora
+1218,Puru Vashishtha
+1218,Ram Shriram
+1219,Tiger Global
+1220,H C Jain
+1220,Kamal Kothari
+1220,Mahavir Pratap Sharma
+1220,Vivek Nathani
+1220,Yogesh Chaudhary
+1221,Mount Nathan Advisors
+1222,Vijay Shekhar Sharma
+1223,Naturals Salon Chain
+1224,Gaurav Agarwal
+1224,Mitin Patel
+1225,Paytm & existing investors
+1226,AdvantEdge Partners
+1226,Astarc Ventures
+1226,Pawan Munjal
+1227,Rajan Anandan
+1228,Ankit Bhati
+1228,Bhavish Aggarwal
+1229,Ajay Data & other HNIs
+1230,Chennai Angels
+1230,Hyderabad Angels
+1230,LetsVenture
+1230,Mumbai Angels
+1230,Stanford Angels
+1231,Man Capital
+1232,ah! Ventures
+1233,Ratan Tata
+1234,India Educational Investment Fund
+1235,RN Agarwal
+1236,Brand Capital
+1237,Maverick Capital Ventures
+1237,Omidyar Network
+1237,Sequoia Capital
+1238,HNIs
+1238,Undisclosed Angel investors
+1239,Rajul Garg
+1239,YourNest Angel Fund
+1240,GirnarSoft
+1241,Anthil Ventures
+1241,M&Y Partners
+1241,SVG Media
+1242,Adil Allana
+1242,Aprameya Radhakrishna
+1242,Blume Ventures
+1242,Gautam Ivatury
+1242,Signal Point Partners
+1243,Ajay Data & undisclosed HNIs
+1244,NTT Finance
+1244,Telephone Corporation
+1245,HR Fund
+1245,Inventus Capital Partners
+1246,Mayfield India II Management Ltd
+1247,Indian Angel network
+1248,50K Ventures
+1249,Apurva Salapuria
+1249,GrowthStory
+1249,Hitesh Oberoi
+1249,Nirupa Shankar
+1249,Sidharth Pansari
+1250,Blume Ventures
+1251,Max Levchin
+1251,Scott Banister
+1252,Bertelsmann India Investments
+1253,IDFC SPICE Fund
+1253,Micromax Informatics
+1254,Anand Mittal
+1254,Anupam Mittal
+1254,Farooq Oomerbhoy
+1254,Konglo Ventures
+1254,Ravi Garikipati
+1254,Singapore Angel Network
+1254,Vibhu Garg
+1255,EVC Ventures
+1256,Axilor Ventures
+1257,Blume Ventures
+1257,Helion Ventures
+1257,Nandan Nilekani
+1257,Omidyar Networks
+1258,Anand Rajaraman
+1258,Rebright Partners
+1258,Venky Harinarayan
+1259,Blume Ventures
+1259,Other unnamed Investors
+1260,Fundnel
+1260,RB Investments
+1261,vCommission
+1262,The Chennai Angels
+1263,Balamurugan Mani
+1263,Fauzan Rahim
+1263,Niloufer Dundh
+1264,Ankush Mehta
+1265,StartupXseed Ventures
+1266,Brand Capital
+1267,GMO Payment Gateway
+1267,MediaTek
+1268,Blume Ventures
+1269,Hermes Group
+1269,Shruth
+1269,Smith Group
+1270,Kalaari Capital Accelerator Program
+1271,Kalaari Capital Accelerator Program
+1272,Grex.in
+1273,Hrishi Oberoi
+1273,Kapil Hetamsaria
+1273,Pranav Dedhia
+1273,Rahul Mehta
+1273,Rohan Angrish
+1274,Kalaari Capital Accelerator Program
+1275,Adveq Management
+1275,IDG Ventures
+1275,International Finance Corp
+1275,Kris Gopalakrishnan
+1275,Ratan Tata
+1275,TPG Growth
+1276,Helion Venture
+1276,India Alternatives
+1276,Sistema Asia Fund
+1276,VentureEast
+1277,Grex.in
+1278,IDG Ventures
+1278,Indian Angel Network
+1278,Inventus Capital
+1279,Group of undisclosed Angel Investors
+1279,HNIs
+1280,MoMagic Technologies
+1281,Rajul Garg
+1282,BeeNext
+1282,Blume Ventures
+1282,Exfinity Venture Partners
+1282,Rajesh Ranavat
+1283,Dinesh Mittal
+1283,Manish Kheterpal
+1283,Sandeep Gupta
+1283,Vinay Mittal
+1284,Roopak Saluja
+1284,Vishal Khare
+1285,Blume Ventures
+1285,IDG Ventures India
+1285,Inventus Capital
+1286,NanoHoldings
+1287,Accel
+1287,DST Global
+1287,Norwest Venture Partners
+1288,Accel
+1288,Girish Mathrubootham
+1288,Matrix Partners
+1289,Arun Tadanki
+1289,Doreswamy Nandkishore
+1289,JM Financial Products Ltd
+1289,Kshitij Jain
+1290,Khazanah Nasional Berhad
+1291,Aspada Ventures
+1291,Creation Investments Capital Management
+1291,SAIF Partners
+1291,Sequoia Capital
+1292,Anurag Chauhan
+1293,Aditya Aggarwal
+1293,Anshul Jindal
+1293,Rakesh Gupta
+1293,Sanjeev Agrawal
+1293,Siddharth Banerjee
+1293,Sunil Koul
+1293,Vikas Ranjan
+1294,Phanindra Sama
+1294,Raghunandan G
+1295,GROUPE SOS
+1296,ah! Ventures
+1297,Aprameya Radhakrishna
+1297,Blume Ventures
+1297,Phanindra Sama
+1297,Rajan Anandan
+1297,Sujeet Kumar
+1297,Sumit Jain
+1298,Matrix Partners
+1298,Nexus Ventures
+1299,Tamarind Family Private Trust
+1300,Kinnevik Group
+1300,Rocket Internet
+1301,AdvantEdge Partners
+1301,S Chand
+1302,Ankit Nagori
+1302,Anuj Srivastava
+1302,Anupam Mittal
+1303,Accel
+1303,Helion Venture Partners
+1304,Rata Tata
+1305,Blume Ventures
+1306,DeVry Inc
+1306,Kaizen Management Advisors
+1307,Subramanya SV
+1308,Aprameya
+1308,Hitesh Gupta
+1308,Ravi Machani
+1308,Rohit Choudhary
+1308,Subramanya Venkat
+1308,Sujeet Kumar
+1308,Sumit Jain
+1308,Venk
+1309,Katabole Technology Venture
+1310,YourNest Angel Fund
+1311,Ratan Tata
+1312,Undisclosed HNIs
+1313,Chatsworth Management
+1313,ITW Digital
+1314,Pradeep Reddy Kamasan
+1315,vCommission
+1316,MCube Capital Advisors Pvt Ltd
+1317,Undisclosed HNIs
+1318,Gray Matters Capital
+1319,Sudhir Mehta
+1320,Indian Angel Network
+1321,Anand Mahindra
+1322,FF Angel
+1322,Sequoia Capital
+1323,Accel
+1323,India Innovation Fund India Venture Partners
+1323,Indian Angel Network
+1324,MoMagic Technologies
+1325,Kunal Shah
+1325,Sandeep Tandon
+1326,Anirudh Damani
+1326,Vikram Lakhotia
+1327,HBM Healthcare Investments
+1328,NSI Infinium Global Pvt. Ltd
+1329,HT Media Ltd
+1330,Ashish Gupta and other undisclosed investors
+1331,Ashish Gupta
+1332,Edelweiss Private Equity
+1333,Parampara Capital
+1334,Venture Catalysts
+1335,Beenext
+1335,Beenos
+1335,Digital Garage
+1335,Lightbox
+1336,Rainmaker Ventures
+1337,MapmyIndia
+1338,Undisclosed Investor
+1339,MadhanKumar Madathupalayam
+1340,Romulus Capital
+1341,Sreenivasa Reddy Musani
+1342,Kalaari Capital
+1343,Sequoia Capital
+1343,Unitus Seed Fund
+1344,Microsoft Ventures
+1344,Salesforce Ventures
+1345,Undisclosed Investor
+1346,Fenqile
+1346,Yeahmobi
+1347,Indian Angel Network
+1348,Amit Rathore
+1348,Aneesh Reddy
+1348,Krishna Mehra
+1348,Kunal Shah
+1348,Tracxn Labs
+1348,Venkat Tadanki
+1349,Sarath Sura
+1350,Kae Capital
+1350,Kunal Shah
+1350,Sandeep Tandon
+1351,BlackJag Partners
+1352,Sanjiv Rai
+1353,Axiata Digital
+1354,Anand Singh
+1354,Ankit Maheshwari
+1355,3 undisclosed HNIs
+1356,Priti Padhy
+1356,Ritesh Dwivedy
+1357,Cameron Jones
+1358,Edelweiss Private Equity
+1359,Amit Banati
+1359,Arun Khanna
+1359,Mohit Satyanand
+1359,Vivek Joshi
+1360,Ratan Tata
+1361,Ankit Bhati
+1361,Bhavish Aggarwal
+1361,Binny Bansal
+1361,Girish Mathrubootham
+1361,Ratan Tata
+1362,CIO Angel Network
+1362,Indian Angel Network
+1363,TVS Automobile Solutions Ltd
+1364,TVS Automobile Solutions Ltd
+1365,TVS Automobile Solutions Ltd
+1366,undisclosed investor
+1367,50K Ventures
+1368,Viridian Capital
+1369,Valpro Capital
+1370,Accel
+1371,EVC Ventures
+1372,MCube8
+1373,Diaz Nesamoney
+1373,Fortisure Ventures
+1373,Mr Jones
+1373,You
+1374,Blume Ventures
+1374,Saama Capital
+1374,Vaibhav Domkundwar
+1375,IvyCap Ventures
+1375,Unicorn India Ventures
+1376,Indian Angel Network
+1377,Atul Ingle
+1378,Info Edge (India) Ltd
+1379,Guy Oseary
+1380,Nimmagadda Prasad
+1381,Info Edge (India) Ltd
+1382,Sequoia Capital
+1383,Amit Khanna (LetsVenture)
+1383,Sanjay Verma
+1384,Ravi Adusumalli
+1384,SAIF Partners
+1385,BetOnIndia Technology Pvt Ltd
+1386,Blume Ventures
+1386,New Enterprise Associates (NEA)
+1387,Infuse Ventures
+1388,Undisclosed investor
+1389,Hamraj Kumar
+1390,Timbru Ventures
+1391,Bitkemy Ventures
+1392,Concur Technologies
+1392,Gund Investment
+1393,CP Bothra
+1394,Unicorn Venture
+1395,Swan Angel Network
+1396,Orios Venture Partners
+1396,RB Investments PTE Ltd
+1397,IndiaMart
+1398,Idein Ventures
+1399,The Chennai Angels
+1400,Adi Saravanan
+1400,Fusion Tech Ventures
+1400,Mahendra Doshi
+1400,Pravin Dongre
+1400,Rahul Kirloskar
+1401,Saif Partners
+1402,Rise India
+1403,Indian Angel Network
+1404,Purvi Ventures
+1404,Rajul Garg
+1404,Vipin Arora
+1405,Jitendra Gupta
+1405,Pankaj Tripathi
+1406,Undisclosed investor
+1407,Mayfield Ventures
+1408,Kalaari Capital
+1409,Nexus Venture Partners
+1410,GVFL
+1411,Undisclosed investor
+1412,GVFL Ltd
+1413,Amit Banka
+1413,Kanodia family
+1414,Aprameya Radhakrishnan
+1414,Gaurav Bhalotia
+1414,Paula Ravindra Mariwala
+1414,Phanindra Sama
+1414,SAIF Partners
+1414,Subba Rao Telidevara
+1414,Vibhu Garg
+1415,Undisclosed Investor
+1416,Accel
+1416,RB Investments
+1417,Sanjeev Sinha
+1418,Bertelsmann India Investments
+1418,India Quotient
+1418,Mayfield India
+1418,Saama Capital
+1419,Soniks Consulting
+1420,Piyush Jain
+1421,vCommission
+1422,Harsh Vardhan Hada
+1423,S Somasegar
+1423,TV Mohandas Pai
+1423,Uniqorn Ventures Fund
+1424,Carpediem Capital
+1425,Aarin Capital
+1426,Brand Capital
+1427,Accel Partners & existing investors
+1427,Omidyar Network
+1428,3one4 Capital
+1428,Aaruha Technology Fund
+1428,Endiya Partners
+1428,Tracxn Labs
+1429,SD Ventures
+1429,Sequoia Capital
+1429,Vistaar Investment Advisors Pvt. Ltd
+1430,MasterCard
+1431,Zaffiro Ventures
+1432,SAIF Partners
+1433,Accel
+1433,IDG Ventures
+1433,Kalaari Capital
+1434,Rajan Anandan
+1435,Aramex Ventures Llc
+1436,Aspada
+1436,IIFL Wealth Management Seed Venture Fund
+1436,Khosla Impact
+1436,Omidyar Network
+1437,Deepak Gupta
+1438,India Quotient
+1439,Accel
+1439,Network 18
+1439,SAIF Partners
+1439,Stripes Group
+1440,Abhishek Jain
+1440,Kunal Bahl
+1440,Kunal Shah
+1440,Rohit Bansal
+1440,Sandeep Tandon
+1440,Sequoia Capital
+1440,Zishaan Hayath
+1441,YourNest Angel Fund
+1442,Gaurav Singhvi
+1442,Zaffiro Ventures
+1443,Info Edge (India) Ltd
+1444,Cherry Tin
+1444,Kirthiga Reddy
+1444,Renuka Ramanath
+1445,Indian Angel Network
+1446,Kalaari Capital
+1446,Qualcomm Ventures
+1446,Zodius Technology Opportunities Fund
+1446,ru-Net
+1447,500 Startups
+1447,AVG Group
+1448,Rothenberg Ventures
+1449,India Quotient
+1449,Kalaari Capital
+1450,Alex Chua
+1450,Rahul Garg
+1451,JSW Ventures
+1451,Omidyar Network
+1451,Sattva Capital
+1451,Venture Works
+1452,Blume Ventures
+1452,IvyCap Ventures
+1452,JSW Ventures
+1453,Brian Acton
+1454,Rishi Parti
+1454,Yogesh Bansal
+1455,Entrepreneurs
+1455,Harvard Angels
+1455,Stanford Angels
+1456,Ashish Mahajan
+1456,Sarvesh Sharma
+1457,Mumbai Angels
+1457,Times Internet
+1458,Sequoia Capital
+1459,Brand Capital
+1460,Jaspal Bindra
+1460,Parth Jindal
+1461,Accel
+1461,IDG Ventures India
+1462,India Quotient
+1462,SAIF Partners
+1463,Gaurav Bhalotia
+1463,Hyderabad Angels
+1463,Kunal Shah
+1463,Tracxn Labs
+1464,Unitus Seed Fund
+1465,Ajay Piramal
+1466,Rainmaker Ventures
+1467,Keiretsu Forum
+1468,Play Tech Center
+1468,Plug
+1468,Steelhead Ventures
+1469,500 Startups
+1470,Anurag Gupta
+1470,Faraz Khan
+1470,Sumit Jain
+1470,Varun Khanna
+1471,Innoven Capital
+1471,Matrix Partners India
+1471,Qualcomm Ventures
+1471,Times Internet
+1472,Abhijit Avasthi
+1472,Karan Chellani
+1472,SP Vijay
+1473,GEMS group
+1474,SRI Capital
+1475,Accel
+1475,IIFL
+1475,IvyCap Ventures
+1475,Kalaari Capital
+1475,RB Investments
+1476,Satish Jamdar
+1477,Intelli Reboot Digital Pvt. Ltd
+1478,SRI Capital
+1479,SRI Capital
+1480,Green House Ventures Accelerator
+1481,Franklin Templeton International Services Pvt. Ltd
+1482,Prime Venture Partners
+1483,Star India Pvt. Ltd
+1484,Nilesh Shah
+1485,Abhishek Agarwal
+1485,Krishnakumar Nataraj
+1485,Nihit Agarwal
+1485,Sarath Sura
+1485,Sarthak
+1485,Shanti Mohan
+1485,Suramya Gupta
+1486,Swastika Company Pvt Ltd
+1487,DSG Consumer Partners
+1487,Verlinvest
+1488,Nihon Kotsu Co
+1489,Indian Angel Network
+1490,Swastika Company Ltd
+1491,Anuj Srivastava
+1491,Arvind Tiku
+1492,Bertelsmann India Investments
+1492,Matrix Partners India
+1492,SAIF Partners
+1493,CP Murali
+1494,Nandan Nilekani
+1495,Sanjay Baweja
+1496,Ankush Nijhawan
+1496,Anuraag Jaipuria
+1496,Dheeraj Jain
+1496,Gaurav Bhatnagar
+1496,Manish Dhingra
+1496,Rishi Kajaria
+1496,Ruchirans Jaipuria
+1497,Accel India
+1497,Amazon Asia-Pacific
+1497,Helion Venture Partners
+1497,Sistema Asia Fund
+1498,EVC Ventures
+1499,TechTemple Group
+1500,Undisclosed Investor
+1501,Ford Motor Company
+1501,Reliance Ventures
+1501,Sequoia Capital
+1502,Education Design Studio
+1503,Rannvijay Singh
+1504,American Express Ventures
+1504,Nexus Venture Partners
+1504,Saama Capital
+1505,Indian Angel Network
+1506,Abhinav Grover
+1506,Maple Capital Advisors
+1507,Undisclosed HNIs
+1508,Harvinder Singh Bhatia
+1508,TLabs Accelerator
+1509,Ajith Nair
+1509,Anish K
+1510,Mayank Shah
+1510,Shreyans Shah
+1511,Kris Gopalakrishnan
+1511,Saha Fund
+1512,Swastika Company Ltd
+1513,Saurabh Sahni
+1513,Tushar Gupta
+1514,Kae Capital
+1514,Omidyar Network
+1514,Sequoia Capital
+1515,Evan Lim
+1515,Mudit Saxena
+1516,Undisclosed HNIs
+1517,Syska LED group
+1518,InnoVen Capital
+1519,Anupam Mittal
+1519,Aprameya Radhakrishna
+1519,Kunal Shah
+1519,Ravi Garkipati
+1519,Subramanya SV
+1519,Tracxn Labs
+1519,Venk Krishnan
+1520,Lumis Partners
+1520,Quintillion Media
+1520,Rajul Garg
+1520,The HR Fund
+1521,Anupam Mittal
+1521,Binny Bansal
+1521,Darius Pandole
+1521,Dheerag Jain
+1521,Kunal Khattar
+1521,Sachin Bhatia
+1522,Brand Capital
+1523,Paul Roy
+1524,RoundGlass Partners
+1525,Anglian Omega Network
+1526,Blume Ventures
+1526,Inventus Capital Partners
+1527,Promatus Group
+1528,Geniee
+1528,Inc
+1528,Purvi Capital
+1529,Swastika Company Ltd
+1530,1Crowd (through crowd funding)
+1531,Centre for Innovation Incubation
+1531,Entrepreneurship (CIIE)
+1532,Centre for Innovation Incubation
+1532,Entrepreneurship (CIIE)
+1533,Kiran Deshpande
+1533,Noshir Kaka
+1533,Pankaj Gupta
+1533,Ravi Nigam
+1533,Subramanian Ramadorai
+1534,Anupam Mittal
+1534,Sharad Sharma & 14
+1535,Deepak Sharma
+1535,Khattar Holdings
+1535,Soumitra Sharma
+1535,Sumit Dayal
+1535,ThirtyThree Investments
+1536,1Crowd (through crowdfunding)
+1537,Bennett Coleman
+1537,Co. Ltd
+1537,Gujarat Venture Finance Limited (GVFL)
+1538,Accel India
+1538,Norwest Venture Partners
+1539,Himanshu Aggrawal
+1539,Mukul Singhal
+1539,Rohit Jain
+1539,Sunil Goyal Ashish Gupta
+1540,Brand Capital
+1541,HT Media Ltd
+1541,North Base Media
+1542,Westbridge Capital Partners
+1543,Anand Chandrasekaran
+1543,Kanwaljit Singh
+1543,Manoj Varghese
+1544,Undisclosed Dubai based HNIs
+1545,Bharti Enterprises
+1545,Foxconn Technology Group
+1545,SoftBank
+1545,Tencent Holdings
+1545,Tiger Global
+1546,M&S Partners
+1546,Powerhouse Ventures
+1547,Anand Chandrasekaran
+1547,Ananth Narayanan
+1547,Divyesh Shah
+1547,Mekin Maheshwari
+1547,Ravi Garikipati
+1547,Swastika Company Ltd
+1548,SoftBank
+1549,Brand Capital
+1550,Ashvin Chadha
+1551,Accel Partners RNT Associates
+1551,Infocomm Investments
+1551,SeedPlus
+1552,Sachin Khandelwal
+1552,Swan Angel Network
+1553,Indian Angel Network
+1554,Swan Angel Network
+1555,Kashyap Deorah
+1555,Maninder Gulati
+1555,Rajul Garg
+1556,Speridian Technologies
+1557,Rainmatter
+1558,Brand Capital
+1559,Aspire Systems
+1560,Exfinity Venture Partners
+1560,Saha Fund
+1561,Torrent Group
+1562,Madhusudhan Jujare
+1562,Satish Vasudeva
+1563,Dr. Goutam Challagalla
+1564,Kamal Chabra
+1564,Riju Gupta
+1565,Arjun Malhotra
+1565,Jaspreet Bindra
+1565,Outbox Ventures
+1565,Rakesh Agrawal
+1565,Rohan Malhotra
+1565,Sidharth Rao
+1566,Vijay Kedia
+1567,Kalaari Capital
+1568,Kamal Puri
+1568,Vineet Taneja
+1569,Michael
+1569,Susan Dell Foundation
+1570,Kunal Shah
+1570,Sandeep Tandon
+1570,Tracxn Labs
+1571,Kalaari Capital
+1572,Anupam Mittal
+1572,Dheeraj Jain
+1572,Kunal Shah
+1572,Rohit Chokhani
+1572,Sandeep Tandon
+1572,ah! Ventures
+1573,Mohit Lalvani
+1574,Ashish Tulsian
+1574,Binny Bansal
+1574,Blume Ventures
+1574,Kunal Shah
+1574,Sachin Bansal
+1574,Sandeep Tandon
+1574,Vijay Shekhar Sharma
+1575,Trifecta Capital
+1576,CureFit
+1577,Scale Ventures
+1578,Arpan Nagdeve
+1578,Devendra Rane
+1578,Globevestor Angel Fund
+1578,Ravi Jain
+1579,Abhinav Sinha
+1579,Anupam Mittal
+1579,Fireside Ventures
+1579,Investopad
+1579,Maninder Gulati
+1579,P39 Capital
+1579,Pranay Jivrajka
+1580,Ford Smart Mobility Llc
+1581,Anand Chandrasekaran
+1581,Girish Mathrubootham
+1581,Kunal Shah
+1581,Sandeep Tandon
+1582,Net1 UEPS Technologies Inc
+1583,Partners
+1583,Undisclosed Ex Mckinsey Directors
+1584,Instalabs
+1585,Bessemer Venture Partners
+1585,Helion Ventures
+1585,Jungle Ventures
+1586,Dr. Abhishek Pandey
+1586,Jaysukh Sapra
+1587,Undisclosed HNI investors
+1588,Blume Ventures
+1588,Nexus Venture Partners
+1589,Hitouch AG
+1590,Info Edge (India) Ltd
+1591,Sophia Investment ApS
+1592,Ashutosh Lawania
+1592,Badal Malick
+1592,Rajul Jain
+1592,Rishi Gupta
+1593,Rajasthan Angel Investor Network
+1594,MediaTek Inc
+1595,Ambit Pragma
+1596,GREE Ventures
+1596,IDG Ventures
+1596,Sequoia Capital
+1597,Raghav Bahl
+1597,Sarbvir Singh
+1598,Amit Choudhary
+1599,Exfinity Ventures
+1599,Sequoia Capital
+1599,growX ventures
+1600,Accel
+1601,Pradeep Dhobale
+1602,Grasshoppers
+1603,Anita Dongre
+1603,Milind Sarwate
+1603,Yash Dongre
+1604,William Bissel
+1605,Info Edge (India) Ltd
+1606,Infina Finance Pvt. Ltd
+1606,Uday Kotak
+1607,PremjiInvest
+1608,Eros Labs
+1609,Earlsfield Capital
+1609,Rajiv Solanki
+1609,Sailender Solanki
+1610,InnoVen Capital India
+1611,Beenext
+1611,Beenos
+1611,Digital Garage
+1611,Sequoia Capital
+1611,Susquehanna International Group. Wavemaker Partners
+1611,Venturra Capital
+1612,Idein Ventures
+1613,CareerNet Consulting Pvt. Ltd
+1613,Ideation Initiative Pvt. Ltd
+1614,Chan Zuckerberg Initiative
+1614,Lightspeed Ventures
+1614,Sequoia Capital
+1614,Sofina
+1614,Times Internet Ltd
+1615,Anand Chandrasekaran
+1616,Dr. Rameshwar Kumar
+1617,Ravi Linganuri
+1618,Abaran Deep
+1618,Aseem Sood
+1618,Dr. Prasad Kaipa
+1618,Harinder Takhar
+1618,Mustafa Patni
+1618,Zain Raj
+1619,Amit Nagar
+1619,havya Sharma
+1620,Anand Ladsariya
+1620,Aqeel Ahmed
+1620,Nitin Agarwal
+1620,Pradeep Mirani
+1621,Fork Media
+1622,Mariwala family
+1622,Sunil Munjal
+1623,Augment Ventures
+1623,Nikhil Golcha
+1623,Rahul Kayan
+1623,Roy Kwan
+1623,Shubham Gupta
+1624,Raj Singh Bhandal
+1625,Ratan Tata
+1626,BlackSoil Capital Pvt. Ltd
+1627,Indian Angels Network
+1628,Balasubramanian Krishnamurthy
+1628,Sidhartha Hazarika
+1629,Scadea Solutions Inc
+1630,Calcutta Angels Network
+1631,Lightbox Ventures
+1632,Nexus Venture Partners
+1633,Ambarish Gupta
+1633,Ameera Shah
+1633,Anupam Mittal
+1633,Dheeraj Jain
+1633,Palash Jain
+1633,Rahul Singh
+1633,Vivek Bhargava
+1634,RoundGlass Partners
+1635,Ganesh Narasimhan
+1635,Ramana Thumu
+1635,Sudhir Mallem
+1636,Gray Matters Capital
+1637,Accel
+1638,Bessemer Venture Partners
+1639,CIO Angel Network
+1640,Sumit Jain
+1641,LetsVenture
+1642,Lothal Angel Ventures
+1643,Anglian Omega Network
+1644,Bertelsmann India
+1644,Goldman Sachs Group
+1644,Norwest Venture Partners
+1644,Zodius Technology Fund
+1645,KellyGamma
+1645,Lead Angels
+1646,Accel
+1646,Akusa Holdings
+1646,Beenext
+1646,Powerhouse Ventures
+1647,Rebright Partners
+1648,Carpediem Capital
+1649,Currae Healthtech Fund
+1649,Unicorn India Ventures
+1650,Cisco Ventures
+1650,IDG Ventures
+1650,Vertex Ventures
+1651,Idea Wave Labs
+1652,Gaurav Agarwal
+1652,Gaurav Bhogle
+1652,Prabhat Aggarwal
+1652,Prashant Tandon
+1652,Shantanu Mathur
+1652,Shrishti Sahu
+1653,Rohit MA
+1654,Procam International Pvt. Ltd
+1655,Scale Ventures Funds
+1656,Pratik Seal
+1657,Flipkart Logistics Pvt. Ltd
+1658,Venture Catalysts
+1659,Endiya Partners
+1660,Blue Cloud Ventures
+1660,EDBI
+1660,Hercules Capital
+1660,Sequoia Capital
+1661,Swastika Co Ltd
+1662,Ajay Lakhotia
+1662,Ashish Gupta
+1662,Kanwaljit Singh
+1662,Pavan Ongole
+1663,Now Capital
+1664,Bank to the Future
+1664,Blume Ventures
+1664,Boost VC
+1664,Digital Currency Group
+1664,Funders Club
+1664,Mumbai Angels
+1664,ah! Ventures
+1665,Deepak Nathani
+1666,Rajasthan Angel Innovators Network
+1667,Bhavin Turakhia
+1668,American Express Ventures
+1668,Sequoia Capital
+1669,Mahindra Univeg
+1670,Recruit Holdings
+1671,IDG Ventures
+1671,Indian Angel Network (IAN)
+1671,YourNest Angel Fund
+1672,Viraj Tyagi
+1673,Kalaari Capital
+1673,Mumbai Angels
+1673,Qualcomm Ventures
+1673,Russian venture capital fund Ru-Net
+1673,Zodius Capital
+1674,BeeNext
+1674,Kunal Shah
+1674,Sandeep Tandon
+1674,TV Mohandas Pai
+1675,Mahindra Holidays
+1675,Resorts India Ltd
+1676,Ratan Tata
+1677,Naveen Arya
+1677,Tarun Joshi
+1678,M&S Partners
+1678,Mistletoe
+1679,Accel
+1679,Jungle Ventures
+1679,SeedPlus
+1680,TransGlobal FZC
+1680,Xchange Investors NV
+1681,Kunal Shah
+1681,Pravin Gandhi
+1681,Sandeep Tandon
+1681,Smart Start Fund
+1681,Vijay Shekhar Sharma
+1681,Vishal Gondal
+1682,3One4 Capital
+1683,Kae Capital
+1683,Mumbai Angels
+1683,White Unicorn Ventures
+1684,Undisclosed Investor
+1685,Axilor Ventures
+1685,Healthsquad
+1685,Indian Angel Network
+1686,Kiran Mazumdar-Shaw
+1686,Unitus Seed Fund
+1687,Ventureast Fund Advisors
+1688,BeeNext
+1688,Helion Venture Partners
+1689,Hyderabad Angels
+1690,Sumpoorna Group
+1691,Anil Jaggia
+1691,Narayan Seshadri
+1691,Sanjay Nayar
+1691,Vikram Sud
+1692,Elevate Sports
+1692,Faering Capital
+1692,HDFC
+1693,HAX Accelerator
+1694,Radhakrishnan Natarajan
+1695,undisclosed investor
+1696,Arkas Industries
+1696,Manickam Mahalingam
+1696,Nitin Passi
+1696,Rajesh Arora
+1696,Udaan Angels
+1697,Emerald Media
+1698,Arun Venkatachalam
+1698,Badal Malick
+1698,GrowX Ventures
+1698,Sunil Kalra
+1699,FAO Ventures
+1699,India Quotient
+1699,Indian Angel Network
+1699,Ranjan Sharma
+1699,Tushar Singh
+1700,Rajan Anandan
+1701,Virendra Patel
+1702,Indian Angel Network
+1703,Quarizon Consultancy Services LLP
+1704,Punit Soni
+1705,Gray Matters Capital
+1706,Karan Bhagat
+1707,Nexus Venture Partners
+1708,Arun Sarin
+1708,ByteDance
+1708,Falcon Edge
+1708,Matrix Partners
+1708,Omidyar Network
+1708,Sequoia Capital
+1709,Mayank Shah
+1709,Shreyans Shah
+1710,DSG Consumer Partners
+1711,Bravia Capital
+1712,Boman Irani
+1712,Dhruv Chitgopekar
+1712,Prantik Dasgupta
+1713,Naresh Ravindranath
+1713,Rajiv Lunkad
+1713,Vishnu Bhat
+1714,Hemant Sahni
+1715,Newbie Promoters
+1716,RoundGlass Partners
+1717,Ganesh Natarajan
+1718,Hyderabad Angels
+1718,TLabs
+1719,General Catalyst Partners
+1720,Next Orbit Ventures Fund
+1721,Aprameya Radhakrishna
+1721,Raghunandan G
+1721,Saama Capital
+1722,Axis Capital
+1722,Lightbox Ventures
+1723,Mobikon
+1724,Blume ventures
+1724,Helion Ventures
+1725,Ranjan Pai
+1726,Janak Jain
+1727,KAE capital
+1728,IIFL Seed Ventures Fund
+1728,Mayfield Ventures
+1729,BEENEXT
+1730,India Quotient
+1731,Sequoia Capital
+1732,Swastika Company Ltd
+1733,Nimit Panigrahi
+1734,Lalit Vase
+1735,Undisclosed investor
+1736,Franchise India Brands
+1736,hooting Starts Sports LLP
+1737,Anand Chandrasekaran
+1737,Astarc Ventures
+1738,Hero MotoCorp
+1739,Omnivore Partners
+1740,1Crowd
+1740,Co. Ltd
+1740,Eureka Forbes Ltd
+1740,Shapoorji Pallonji
+1741,Afsal Salu
+1741,Ajay Nanavati
+1742,Kalaari Capital
+1743,Kalaari Capital
+1744,Kalaari Capital
+1745,Aarin Capital
+1745,Ashish Lakhanpal
+1745,Michael Herzig
+1746,Karanpal Singh
+1747,GHV Accelerator
+1747,Kedar Lele
+1748,Accel
+1748,Sequoia Capital
+1749,Anupam Mittal
+1749,Calcutta Angels Network
+1749,Currae Healthtech Fund
+1749,LetsVenture
+1750,Ashish Gupta
+1750,Raman Roy
+1750,Vaibhav Jain
+1750,Yogesh Andlay
+1751,3one4 Capital
+1751,Aarin Capital
+1751,Mumbai Angels
+1752,Unilazer Ventures
+1753,Sequoia Capital
+1754,Gati Ltd
+1755,Aavishkaar Venture Management
+1756,Ameera Shah
+1756,Vivek Bhargava
+1757,Chandigarh Angels Network
+1758,Undisclosed investor
+1759,Accel
+1759,IDG Ventures
+1760,A M Sikander
+1761,Axan Venture
+1761,Justin Kan
+1761,Kima Ventures
+1761,Paul Bucche
+1761,Qasar Younis
+1761,SCM Holdings
+1761,Susa Ventures
+1762,Warburg Pincus
+1763,India Quotient
+1764,ADAG Reliance Private Equity
+1765,YourNest Angel Fund
+1765,iSON
+1766,Anand Chandrasekaran
+1766,Arun Seth
+1766,Deepak Ghaisas
+1766,T.V. Mohandas Pai
+1767,Gleevoaz Ventures
+1768,RoundGlass Partners
+1769,IDG Ventures India
+1769,Kalaari Capital
+1770,Kalaari Capital
+1770,Norwest Venture Partners
+1771,Vijay Shekhar Sharma
+1772,IDG Ventures India
+1772,SAIF Partners
+1773,BEENEXT
+1773,Helion Ventures
+1773,Sequoia Capital
+1774,RTP-HC
+1774,Techstars Ventures
+1774,Wonder Ventures
+1775,Times of India Group
+1776,Indian Angel Network
+1777,Quarizon
+1778,Pramod Bhasin
+1779,R.S Sharma
+1780,Hitesh Windlass
+1781,Omnivore Capital
+1782,Asuka Holdings
+1783,Devdeep Singh
+1784,Kae Capital
+1784,Khosla Impact
+1785,Ameera Shah
+1785,Vivek Bhargava
+1786,SoftBank
+1787,Undisclosed multiple investors
+1788,Sanjai Vohra
+1788,V. Bunty Bohra
+1789,YMS Mobitech
+1790,Sequoia Capital
+1791,Axilor Ventures
+1791,IDG Ventures
+1792,Blacksoil
+1792,Delta Partners
+1792,Mayfield
+1792,Sequoia Capital
+1792,Trifecta Capital
+1793,Lightspeed US
+1793,Lightspeed Venture Partners India
+1794,Venture Highway
+1795,Dr. Pooja Gandhi
+1796,BEENEXT
+1796,Barkawi Holdings GmbH
+1796,Blume Ventures
+1796,Sreevathsa Prabhakar
+1796,TM Service Technology Holdings Gmbh
+1797,India Quotient
+1797,Lightspeed India Partners
+1797,SAIF Partners
+1797,Venture Highway
+1798,Franchise India
+1799,Xelpmoc
+1800,Reliance Entertainment
+1801,Akash Bhavsar
+1801,Girish Mathrubootham
+1801,Jeevanandhan Rajagopal
+1801,Miten Mehta
+1801,Rakesh Patel
+1801,Umasankar Nistala
+1801,VC Karthic
+1801,Vikas Chadha
+1802,Aprameya Radhakrishna
+1802,Paytm
+1802,Subramanya Venkat
+1802,Venk Krishnan
+1803,Undisclosed Investor
+1804,Contrarian Vriddhi Fund
+1804,Manish Maheshwari
+1805,Kalaari Capital
+1805,Prime Venture Partners
+1806,Mohit Sharma
+1807,TVS Group
+1808,Quarizon
+1809,Dileep Bhatt
+1809,Milind Chaudhary
+1810,Lumina Datamatics
+1810,Shun Yoshida
+1810,Silver Range Investments
+1811,Nitesh Pant
+1811,Shekhar Sahu
+1812,Krishna Rokhale
+1813,Exfinity Venture Partners
+1814,Menterra Social Impact Fund
+1815,Blume Ventures
+1816,SAIF Partners
+1817,Anand Sankeshwar
+1817,Yang Shu
+1818,AdvantEdge Partners
+1818,American Express Ventures
+1818,Cyber Carrier VC
+1818,DSG Consumer Partners
+1819,Grace Capital Ventures
+1819,SQue Capital
+1819,Soham Vencaps
+1820,Songhyun Investment
+1821,GEMs Advisory
+1821,Quarizon
+1822,Franchise India
+1823,IvyCamp Ventures
+1824,Grace Capital Ventures
+1825,Lakshmi Vilas Bank & undisclosed HNIs
+1826,Info Edge (India)
+1827,Ajith Sukumaran
+1827,Currae Healthtech Fund
+1828,Investors from Mumbai Angels
+1828,LetsVenture
+1829,Eros Labs
+1830,LetsVenture
+1830,The Chennai Angels
+1831,Edelweiss Private Equity
+1832,Mohan Kumar
+1832,V. Balakrishnan
+1833,Appliyifi
+1833,Calcutta Angel Network
+1834,Arjun Sharmaa
+1834,Jayant Davar
+1834,MJ Aravind
+1834,Ramkumar Nishtal
+1834,Venk Krishnan
+1834,Vikram Kotak
+1835,Venture Catalysts
+1836,PayU
+1837,Unicorn India Ventures
+1838,Industries
+1838,Max Ventures
+1839,Kalaari Capital
+1840,Mumbai Angels
+1841,RoundGlass Partners
+1842,Ashvin Chadha
+1842,Siddhartha Gupta
+1843,Axilor
+1844,Verlinvest SA
+1845,Chanakya Hridaya
+1845,India Quotient
+1845,Nobel House
+1845,Rajesh Yabaji
+1845,Rajul Garg
+1845,Ramasubramaniam B
+1845,Sunstone Capital
+1845,Vishwanathan
+1846,Omidyar Network
+1847,Matrix Partners
+1847,Zodius Technology Opportunities Fund
+1848,FiNC
+1848,GHV
+1849,Mumbai Angels
+1850,Anand Chandrasekaran
+1851,Anbu Pandian
+1851,Lead Angels Network
+1851,Prabhakar MR
+1852,Bhupen Shah
+1852,V. Krishna Prasad
+1853,Swastika Investmart Ltd
+1854,Emerald Media
+1854,Premji Invest
+1855,IndusAge Partners
+1855,Infosys Innovation Fund
+1855,WRV Capital
+1856,3one4 Capital
+1856,Aarin Capital
+1856,Axilor Ventures
+1856,Kunal Shah
+1856,North Base Media
+1856,Sandeep Tandon
+1856,Sequoia Capital
+1857,Digital Financial Service Lab
+1858,Epsilon Venture Partners
+1859,GEMS Advisory
+1859,Quarizon
+1860,Axilor Ventures
+1861,BEENEXT
+1861,Digital Garage
+1861,KTB Network
+1861,SAIF Partners
+1862,International Financial Corporation
+1863,Ajith Nair
+1864,Cyber Carrier CL
+1865,Fireside Ventures
+1866,Anil Jain
+1866,Anirudh Damani
+1866,Anuj Golecha
+1866,Dr. Apoorv Ranjan Sharma
+1866,Krishna Jhunjhunwala
+1867,Indian Angel Network
+1867,Let's Venture
+1868,The Chennai Angels
+1869,HCS Venture capital fund
+1870,Harminder Sahani
+1870,KK Mehra
+1870,Kaushal Agarwal
+1870,Navjot Saini
+1870,Pranay Jivrajka
+1871,Taxmann
+1872,Quarizon
+1873,Ivy League Alumni Angel Network
+1874,Ajay Relan
+1875,Pradyumna Dalmia
+1875,S. Somasegar
+1876,Incubate Fund
+1876,Lead Angels Group
+1877,Binny Bansal
+1877,Sachin Bansal
+1878,Eight Roads Ventures
+1879,Aruna Ganesh Ram
+1879,Ritesh Mehta
+1879,The Chennai Angels
+1880,Nandan Nilekani
+1881,Anbu Pandian
+1881,Girish Mathrubootham
+1881,Lead Angels
+1881,LetsVenture
+1881,Mumbai Angels
+1882,NB Ventures
+1883,CoCreate Ventures
+1884,WaterBridge Ventures
+1885,Kaleden Holdings
+1885,RB Investments
+1886,Dream Incubator
+1887,PV Srinivasan
+1887,TV Mohandas Pai
+1887,V Balakrishnan
+1888,Anand Chandrasekaran
+1888,Rajiv Mehta
+1888,Ramakant Sharma
+1889,K2 Capital
+1890,Vishal Malik
+1891,Kae Capital
+1892,DanGold Investment Corp
+1893,Marico Innovation Foundation (MIF)
+1893,Villgro
+1894,India Nivesh Growth Fund
+1894,Sixth Sense
+1894,TCI Ventures
+1895,Jasper Infotech Pvt Ltd
+1896,Alibaba Pictures
+1897,Aavya Ventures
+1898,BlackSoil Capital Pvt Ltd
+1899,Ronnie Screwvala
+1900,Toos N Daruvala
+1900,Vedanta Capital
+1900,William Campbell
+1901,Evan Lim
+1901,Kanchan Ghoshal
+1901,Ram Kumar Kakani
+1901,Vinod Martin
+1902,Mayfield India
+1902,Trifecta Capital
+1903,Karan Chellani
+1903,Mohit Satyan
+1903,Zishaan Hayath
+1904,Endiya Partners
+1904,IDG Ventures
+1905,Andre Hoffman
+1905,Lohia Group
+1906,Aprameya Radhakrishna
+1906,Blume Ventures
+1906,Girish Mathrubootham
+1907,Vividhity Ventures
+1908,Deutsche Telekom Strategic Investments
+1909,Axilor Ventures
+1909,Parampara Early Stage Opportunities Fund
+1910,Blume Ventures
+1910,Nexus Venture Partners
+1911,Harsh V. Pant
+1911,Ratheesh Raveendran
+1912,Quarizon
+1913,Innoven Capital
+1913,Nexus Venture Partners
+1914,Menterra Social Impact Fund
+1914,Unitus Seed Fund
+1915,Ajith Nair
+1915,Anish K
+1916,India Quotient
+1917,RSI Fund
+1917,Tencent
+1917,Thrive Capital
+1917,ru-Net
+1918,Flipkart
+1919,Rajasthan Venture Capital Fund
+1920,Amajit Gupta
+1920,J.P. Bhatt
+1920,Praveen Dubey
+1921,Fireside Ventures
+1921,Mumbai Angels Network
+1921,Singapore Angel Network
+1922,SD Group
+1923,Indian Angel Network
+1923,Native Angels Network
+1924,SB Ventures
+1925,Singularity Ventures
+1926,Umang Moondra
+1927,Deepak Nathani
+1928,IvyCamp Ventures
+1929,Axis Capital
+1929,Bessemer Venture Partners
+1929,Jungle Venture Partners
+1929,Stellaris Venture Partners
+1930,Undisclosed investor
+1931,India Educational Investment Fund
+1932,YourNest Fund II
+1933,CapitalG
+1933,Sequoia Capital
+1934,Singapore based investor
+1935,East Ventures
+1936,Indochine International
+1937,GMO Japan
+1937,Neelesh Bhatnagar
+1938,Blume Ventures
+1938,IIFL
+1938,Iron Pillar
+1938,Omidyar Network
+1939,India Educational Investment Fund
+1940,Bennett
+1940,Coleman
+1940,Company Ltd
+1941,ABM Knowledgeware
+1942,Alexander Bruehl
+1942,Senovo
+1942,Unternehmertum Venture Capital
+1943,IvyCap Ventures
+1944,Alok Mittal
+1944,Amit Ranjan
+1944,Rajan Anandan
+1944,Sharad Sharma
+1945,V Aanand R
+1946,Brand Capital
+1947,Cole
+1947,Puthen
+1947,Rajesh Yohannan
+1948,The Ten Minute Million
+1949,The Ten Minute Million
+1950,Others ( The Ten Minute Million)
+1950,Sanjay Mehta
+1951,The Ten Minute Million
+1952,Chandigarh Angels Network (CAN)
+1953,Mumbai Angels
+1954,Gyanendra Singh
+1954,Satya D Sinha
+1955,IFMR Capital Finance
+1956,Jaarvis Accelerator
+1957,Batlivala
+1957,Karani Securities
+1957,Venture Works
+1958,Bessemer Venture Partners
+1958,RB Investments
+1958,SAIF Partners
+1959,Temasek Holdings
+1960,Facebook FB Start programme
+1961,Japan Vyas
+1961,Tarun Adlakha
+1962,Earlsfield Capital
+1963,Blume Ventures
+1963,pi Ventures
+1964,Ganesh Natarajan
+1965,RB Investments
+1965,Sequoia Capital
+1966,Amereus Group
+1966,Helion Ventures
+1966,Sistema Asia Fund
+1967,Al Dhaheri family
+1968,ThinQbate
+1969,Goldman Sachs
+1969,Kleiner Perkins
+1969,Pine Brook
+1970,Lumis Partners
+1970,Vertex Ventures
+1971,Pravega Ventures
+1972,Mohit Joshi
+1973,Accel
+1973,Axilor Partners
+1973,Endiya Partners
+1973,IDG Ventures
+1973,VH Capital
+1973,pi Ventures
+1974,Anil Jain & other HNIs
+1975,Infibeam
+1976,Vikram Sud
+1977,Girish Mathrubootham
+1977,Mahalingam K
+1978,Quake Capital
+1979,Anand Chandrasekaran
+1979,Girish Mathrubootham
+1979,Kunal Shah
+1979,Punit Soni
+1979,Rajan Anandan
+1979,Sunil Kalra
+1979,Utsav Somani
+1979,Vijay Shekhar Sharma
+1979,Vikram Limaye
+1979,Vishal Gondal
+1980,Omidyar Network
+1980,PayU
+1980,Ribbit Capital
+1981,Shunwei Capital
+1982,3ONE4 Capital Advisors
+1982,Kalaari Capital Partners
+1982,Qualcomm
+1982,UC-RNT
+1983,Konglo Ventures
+1983,LetsVenture
+1983,White Unicorn Ventures
+1984,SRI Capital
+1985,Facebook FBStart
+1986,Aprameya Radhakrishna
+1986,Deepak Natraj
+1986,Girish Mathrubootham
+1986,Mahesh Murthy
+1986,Pallav Nadhani
+1986,Pavan Ongole
+1986,Sandeep Mathur
+1986,Vijay Shekhar Sharma
+1987,BookMyShow
+1988,Kalaari Capital
+1988,SAIF Partners
+1988,Sequoia Capital
+1988,Steadview Capital
+1989,Facebook FBStart
+1990,Bennett
+1990,Co. Ltd (BCCL)
+1990,Coleman
+1991,IMM Investment
+1991,Softbank Ventures Korea
+1992,Facebook FBStart
+1993,BEENEXT
+1993,Indian Angel Network (IAN)
+1993,Sunil Munjal
+1993,The Chennai Angels
+1994,Gagan Goyal
+1994,Kunal Shah
+1994,Nitin Saluja
+1994,Sandeep Tandon
+1995,Pankaj Rungta
+1995,Yogesh Agarwal
+1996,Ashish Chand
+1996,Ashish Gupta
+1996,Chandigarh Angels
+1996,Rohit
+1996,Sunil Singh
+1997,Ishan Manaktala
+1998,Accel
+1998,Flipkart
+1998,IFC
+1998,Sands Capital
+1998,Sanjiv Rangrass
+1999,Brand Capital
+1999,Paragon Trust
+2000,Sequoia Capital
+2001,SoftBank Group Corp
+2002,Anupam Tyagi
+2002,Harsh Kundra
+2002,LN Buddharaju
+2002,Nandkumar Rane
+2002,Vishwadeep Bajaj
+2003,Augment Ventures
+2003,Calcutta Angels Network (CAN)
+2004,Eight Roads Ventures
+2004,Endiya Partners
+2004,F-Prime Capital Partners
+2004,Ventureast
+2005,Quona Capital
+2006,Ideaspring Capital
+2007,Langoor
+2008,Lightspeed Venture Partners
+2009,Undisclosed angel investors
+2010,Chandigarh Angels Network
+2010,Social Alpha and other unnamed angel investors
+2011,Gautam Chhaochharia
+2011,R Balachandar
+2011,Sandeep Aggarwal
+2012,Bennett
+2012,Coleman
+2012,Company Ltd
+2013,Alibaba
+2014,Bhupen Shah
+2014,Jayesh Parekh
+2014,Sanjay Sathe
+2015,CDC Group Plc
+2016,Atul Nishar
+2017,SIDBI Venture Capital Fund
+2018,Aneesh Seth
+2018,Tushar Mittal
+2019,Accel
+2020,Draper Associates
+2020,IDG Ventures India
+2020,Michael
+2020,Susan Dell Foundation
+2020,Unitus Seed Fund
+2021,National Science
+2021,Technology Entrepreneurship Development Board
+2022,IDFC Parampara Early Stage Opportunities Fund
+2023,Star India Pvt Ltd
+2024,Kae Capital
+2024,SEGNEL Ventures
+2025,Axilor Ventures
+2025,Emergent Ventures
+2025,IDG ventures
+2025,Indian Angel Network
+2026,Private Sector Banks (Debt Funding)
+2027,Y Combinator
+2028,Deepak Gurnani
+2029,Times Internet Ltd
+2030,Singapore Angel Network
+2031,Ideaspring Capital
+2032,Indian Angel Network
+2033,Asuka
+2033,BEENEXT
+2033,Pravega Ventures
+2034,Cyber Carrier
+2035,Undisclosed Investor
+2036,Bharat Sheth
+2036,Chidambaram Palaniappan
+2036,Florintree
+2036,Mathew Cyriac
+2037,Bhupender Singh
+2037,Sujeet Kumar
+2037,Yashish Dhaiya
+2038,Blume Ventures
+2038,IDG Ventures
+2038,Saha Fund
+2039,Atul Goel
+2039,GREE Ventures
+2039,Gurpreet Singh
+2039,IDG Ventures India
+2039,Kalaari Capital
+2039,Summit Media
+2040,Nimitt Desai
+2040,Puneet Gupta
+2041,Indian Angel Network
+2042,Kalaari Capital
+2042,Rajesh Jhunjhunwala
+2042,Rakesh
+2043,Microsoft
+2043,Tencent Holdings
+2043,eBay
+2044,L'Occitane
+2045,Ravi Saxena
+2045,Sandeep Raju
+2046,Nandu Nandkishore
+2046,Shripad Nadkarni
+2047,Kinzon Capital
+2047,Sequoia Capital
+2048,FTV Capital
+2048,Zodius Capital
+2049,Gaurav Luniya
+2049,Mahavir Sharma
+2049,Rohit Sethi
+2049,Vishal Jain
+2050,Ojas Ventures
+2051,Carlyle Group
+2051,Tiger Global
+2052,Amit Kharbanda
+2052,Vikas Bajaj
+2053,Brand Capital
+2054,Venture Catalysts
+2055,3one4 capital
+2056,Verlinvest
+2057,Ankit Gupta
+2057,Puneet Motihar
+2058,3one4 Capital
+2058,Mayfield India
+2058,Neoplux Technology Fund
+2058,Sistema Asia Fund
+2059,Hemant Kaul
+2059,Prof. Ram Kumar Kakani
+2059,Vinod Martin
+2060,KStart Capital
+2061,Krit Sankalp
+2061,Meet Kanodia
+2061,Meher Roy
+2061,Nikhil Arora
+2061,Nitish Singh
+2061,Risabh Gupta
+2062,JSW Ventures
+2062,VenturEast
+2063,Om Chaudhry
+2064,Trifecta Capital
+2065,LetsVenture
+2065,Mumbai Angels
+2065,Satveer Thakral
+2066,B Capital Group
+2066,Eight Roads Ventures
+2066,Greycroft
+2066,Ignition Partners
+2066,e.ventures
+2067,Anjani Prasad
+2067,Malini Patel
+2067,Stelcore Management Services
+2068,Samridhi Fund
+2069,Intex Technologies
+2070,Florintree Advisors
+2070,Mathew Cyriac
+2071,Bertelsmann India
+2072,Quadria Capital Advisors
+2073,Unicorn India Ventures
+2074,Matrix Partners India
+2075,Rohitash Gupta
+2076,Kalaari Capital
+2076,Norwest Venture Partners
+2077,Jeroen Mensen
+2077,Koen Bouwers
+2077,Lomesh Agarwal
+2077,Pablo van den Bosch
+2078,Bessemer Venture Partners
+2079,Keyur Joshi
+2079,Pavan Bakeri
+2080,Aspada Investments
+2081,Aneesh Reddy
+2081,Girish Mathrubootham
+2081,Gokul Rajaram
+2081,Helion Venture Partners
+2081,Powerhouse Ventures
+2081,Stellaris Venture Partners
+2081,Vispi Daver
+2082,Deepak Kulkarni
+2082,Sandeep Pangal
+2083,Blume Ventures
+2083,FreakOut Group
+2083,Herb Madan
+2083,WaterBridge Ventures
+2084,Zephyr Peacock India
+2085,Accel
+2085,Shunwei Capital
+2086,Eight Roads Ventures
+2086,F-Prime Capital Partners
+2086,Mahindra Partners
+2087,Bessemer Venture Partners
+2087,Orios Venture Partners
+2087,Trifecta Capital
+2088,Paytm
+2089,YouWeCan Ventures
+2090,Farhaan Shabbir
+2090,Ishwar Singh
+2091,Blume Ventures
+2091,CyberAgent Ventures
+2091,GrowX Ventures
+2091,IMJ Investment Partners
+2091,Lightspeed India Partners
+2092,Labruyere Eberlé
+2093,Mahindra
+2093,Mahindra Financial Services
+2094,L.D Sharma
+2094,Rajan Anandan
+2094,Saurabh Arora
+2095,Philippe Bouchet
+2096,Accel
+2096,M&S Partners
+2096,Mistletoe
+2096,Nandan Nilekani's NRJN Trust
+2096,Qualcomm Ventures
+2097,Sandeep Singh
+2097,Sushil Kumar
+2098,Ivycap Ventures Advisors
+2098,Ravi Dhariwal
+2098,Singularity Ventures
+2099,Dileep Nath
+2099,Mayfield
+2099,Nishant Rao
+2100,Beenext
+2100,Beenos
+2100,BizReach
+2100,DHI Group Inc
+2100,Digital Garage
+2100,Prime Venture Partners
+2101,Z Nation Lab
+2102,91springboard
+2102,Abstract Ventures
+2102,Anthill Ventures
+2102,Axilor Ventures
+2102,Blume Ventures
+2102,Contrarian Capital
+2102,Emergent Ventures
+2103,Corvus Ventures
+2103,MAPE Advisory Group
+2103,R Ramaraj
+2104,Redcliffe Capital
+2105,Urrshila Kerkar
+2106,SIMI Pacific Pte
+2107,mall Industries Development Bank of India (SIDBI)
+2108,Arun Malhotra
+2108,Gaurav Kachru
+2108,Jatin Aneja
+2108,Sundeep Singh Sahni
+2109,Mountain Pine Capital
+2109,Tolaram Inc
+2110,Anicut Capital
+2111,Benori Ventures LLP
+2112,Jacqueline Fernandez
+2113,Village Capital
+2114,Anandbir Singh
+2114,Anirudh Sheth
+2114,Murali Nair
+2114,Nibhrant Shah
+2114,Pratik Singhi
+2114,Vikram Mehta
+2115,Exfinity Venture Partners
+2116,IndiaNivesh Venture Capital Fund
+2117,Ideaspring Capital
+2118,Undisclosed Investor
+2119,Kalaari Capital
+2119,SIDBI Venture Capital Ltd
+2120,Ankit Nagori
+2121,Ashish Agrawal
+2121,LG Chandrasekhar
+2121,Ravi Garikipati
+2121,Sashi Reddi
+2121,Surot Chatterjee
+2122,Lightbox Expansion Fund
+2122,Ligthbox Ventures II
+2122,RB Investments
+2122,RuNet South Asia
+2122,Sequoia Capital
+2123,500 Startups
+2123,Axilor Ventures
+2123,Binny Bansal
+2123,pi Ventures
+2124,Greenoaks Capital Partners
+2124,Lightspeed Venture Partners
+2124,Sequoia Capital India Advisors
+2124,SoftBank Vision Fund
+2125,WGG International
+2126,Aditya Verma
+2126,Arun Tadanki
+2127,Trifecta Capital
+2128,Sequoia Capital
+2129,DAH Beteiligungs GmbH
+2130,S. Xavier Britto
+2131,Matrix Partners
+2131,Times Internet
+2132,Trifecta Capital
+2133,Omidyar Networks
+2133,Orios Ventures Partners
+2133,Team Builder Ventures
+2134,GardX International
+2135,Cross Border Angels
+2135,Experts
+2136,BlackSoil Capital Pvt. Ltd
+2137,Agnus Capital
+2137,Khattar Holdings
+2138,Poshika Financial Ecosystem
+2139,Accel
+2140,NB Ventures
+2141,Clairvest Group
+2142,International Finance Corporation
+2143,Accel
+2143,Nandan Nilekani
+2144,Hyderabad Angels
+2145,Dutch government fund
+2146,Capital Advisers
+2146,Falcon Edge Capital
+2147,Asuka Holdings
+2147,Beenext
+2147,Beenos
+2147,M&S Partners
+2147,YouWeCan Ventures
+2148,Rainmatter
+2149,Accel
+2150,Nimit Panigrahi
+2151,50K Ventures
+2152,Hinduja family
+2153,C31 Ventures
+2153,Vertex Ventures
+2154,Aditya Agarwal
+2154,Gokul Rajaram
+2154,Prathithi Investment Trust
+2154,RNT Capital
+2154,Ruchi Sanghvi
+2154,Trifecta Capital Advisors LLP
+2155,Deepak Nathani
+2156,Ajay Relan
+2156,LetsVenture
+2157,Indian Angels Network
+2157,LetsVenture
+2158,ILearnFinance Academy Pvt. Ltd
+2158,Rainbow Digital Services Pvt. Ltd
+2159,Luxasia Group
+2160,Satoshi Studios
+2161,GVFL
+2161,Unicorn India Ventures
+2162,Anand Chandrasekaran
+2163,Nirav Choksi
+2163,Surojit Chatterjee
+2163,Varsha Rao
+2164,1Crowd
+2165,Amit Ranjan
+2165,Govind Rajan
+2165,Jonathan Boutelle
+2165,Rahul Chawla
+2165,Rajan Anandan
+2165,Salil Donde
+2165,Vellayan Subbiah
+2166,InnoVen Capital
+2167,GVFL
+2167,Times Internet
+2168,Chirag Nikunj Sheth
+2169,DG Ventures India
+2169,Dewan Housing Finance Corp
+2170,Aakrit Vaish
+2170,Sushill Jiwarajka
+2170,Swapan Rajdev
+2171,Impanix Capital
+2172,GEMs
+2173,CCavenue
+2173,Infibeam
+2174,Kstart Capital
+2175,IdeaSpring Capital
+2176,Rocketship
+2177,SAP
+2178,Innovations East
+2179,Jungle Ventures
+2180,SoftBank
+2181,Dr. Ritesh Malik
+2182,Abu Farhan Azmi
+2182,Ayesha Takia Azmi
+2183,Akash Garg
+2183,Dheeraj Pandey
+2183,Rajesh Yohannan
+2184,Ankur Capital
+2184,Hyderabad Angels
+2185,Gokaldas Exports Ltd
+2186,Fosun International
+2187,1Crowd
+2187,JLL
+2188,Trifecta Capital
+2189,Lightspeed Venture Partners
+2189,Vy Capital
+2190,Kiran Mazumdar-Shaw
+2190,Nandan Nilekani
+2190,Rajiv C Mody
+2190,Ratan Tata
+2190,Uday Kotak
+2190,Vijay Shekhar Sharma
+2191,Eagle10 Ventures
+2192,Blue Orchard
+2193,Lahiri Music's family office
+2194,Carpediem Capital
+2195,PV Sahad
+2195,Rahul Gupta
+2195,Sandeep Shroff
+2196,Matrix Partners
+2197,122 West Ventures
+2197,Great Oaks Ventures
+2197,Soma Capital
+2198,Accel India
+2198,Bessemer Venture Partners
+2198,Harmony Partners
+2198,Nasper
+2198,Norwest Venture Partners
+2198,SAIF Partners
+2199,Lightspeed India Partners
+2199,Waterbridge Ventures
+2200,Rohto Pharmaceutical
+2201,Grace Grace Techno Ventures LLP
+2201,Other undisclosed investors
+2201,Rajul Garg
+2202,TVS Motor Company
+2203,Emerging India
+2204,Horseferry
+2204,blockchain ecosystem Global Advisors
+2205,Blume Ventures
+2206,500 Startups
+2206,IvyCap Ventures
+2207,Sundaram Finance Holdings
+2208,Arun Patodia
+2208,Bharat Kedia
+2209,SBI (Stand Up India Scheme)
+2210,Blume Ventures
+2210,Indian Angel Network
+2210,Kunal Shah
+2210,Sandeep Tandon
+2211,Farhan Naqvi
+2211,Harsh Mahajan
+2211,Sreepathy Viswanathan
+2212,SQue Capital
+2213,WaterBridge Ventures
+2214,Norwest Venture Partners
+2215,Norwest Venture Partners
+2216,Amit Sinha
+2216,Mohan Alexander
+2216,R. Natarajan
+2216,Vikrant Varshney
+2217,Bodhtree Consulting Limited
+2218,Dr Ramesh Ayyala
+2218,Satya Muthyala
+2219,Abhai S. Rao
+2219,Manish Prasad
+2219,Nick Haulkoury
+2219,Nirmal Singh
+2219,Pawan Borle
+2219,Vineet Varma
+2220,Suresh Shankar
+2220,Unicorn India Ventures
+2220,Venky Krishnakumar
+2220,Vivek Bhargava
+2221,Transamerica
+2222,Yes Bank
+2223,Cao Yibin
+2223,Huang Wei
+2223,Madhusudan E
+2224,Alfa Capital
+2224,Green Shots Capital
+2224,Real Time Ventures
+2224,Venture Catalysts
+2225,Artha India Ventures
+2225,Girish Mathrubootham
+2225,Rajan Anandan
+2225,Singularity Holdings
+2226,Fairfax Holdings
+2227,Nexus Venture Partners
+2227,Omidyar Network
+2228,Founders Fund
+2228,Nexus Venture Partners
+2229,Tekne Capital Management LLC
+2230,RB Investments
+2231,NEA
+2231,Prime Venture Partners
+2231,Sequoia Capital
+2232,YouWeCan Ventures
+2233,Cross Border Angels
+2233,Experts
+2233,Rajasthan Angel Innovators Network
+2233,The Chennai Angels
+2234,Mohammed Khan
+2234,Sameer Narayan
+2235,Mekin Maheshwari
+2235,Nexus Venture Partners
+2236,BLIP Initiatives
+2237,Alphard Maritime Group
+2238,3one4 Capital Advisors LLP
+2238,Endiya Partners
+2238,Lightspeed India Partners
+2238,Startupxseed Ventures LLP
+2239,Eight Roads Ventures
+2240,91maker.com
+2241,Paytm
+2242,iBhubs
+2243,Axis Capital
+2243,FJ Labs
+2243,GrowX
+2243,IIFL Seed Ventures
+2243,Kae Capital
+2243,Singularity Ventures
+2243,Tracxn Labs
+2244,Manipal Education
+2244,Medical Group (MEMG)
+2244,SAR Group
+2244,The Grover Trust
+2245,DSG Consumer Partners
+2245,Matrix Partners
+2245,UC-RNT Fund
+2245,alcon Edge Capital
+2246,Sequoia Capital
+2247,Amar Arsikere
+2247,Bharat Vijay
+2247,Krish Seshadri
+2247,Mekin Maheshwari
+2248,Founder Collective
+2248,General Catalyst
+2249,Endiya Partners
+2249,Ventureast
+2250,IFMR
+2250,India Quotient
+2250,Kae Capital
+2250,MAS Financial Services Ltd
+2251,Naspers
+2252,Kishore Ganji
+2252,Mohit Srivastav
+2252,Rajeev Menon
+2252,Venkat Vallabhaneni
+2253,RB International
+2253,Seedfund
+2254,Gujarat Venture Finance Ltd
+2255,Anthill Scale Ventures
+2255,Esvee Technologies Inc
+2255,Inc95 Consulting
+2255,The Chennai Angels
+2256,Alto Partners
+2256,Snow Leopard Ventures
+2257,Aparup Sengupta
+2257,Devendra Reddy
+2258,SAP.iO
+2258,Unilazer Ventures
+2259,Kalaari Capital
+2259,Udayan Goyal
+2260,Abhinav Bindra
+2260,Gaurav Marya
+2261,Zeta
+2262,Accel Partner
+2262,Bessemer Venture Partners
+2262,SAIF Partners
+2262,Vy Capital
+2263,Reliance Corporate Advisory Services Ltd
+2264,Infuse Ventures
+2264,JLL
+2265,Asset Management (Asia) Ltd
+2265,Digital Garage Inc
+2266,Kalaari Capital
+2266,Nexus India Capital Advisors
+2267,Accel
+2267,International Finance Corporation
+2267,Jungle Ventures
+2267,Rocketship
+2267,Shailesh Rao
+2267,Venture Highway
+2268,BCCL
+2269,Ashish Gupta
+2269,Blume Ventures
+2269,Contrarian Capital India Partners
+2269,Emergent Ventures India
+2269,Pallav Nadhani
+2269,Sharad Sharma
+2269,Sirion Labs
+2270,India Quotient
+2270,Shunwei Capital
+2271,Anita Gupta
+2271,Likemind Ventures
+2271,Sreeram Iyer
+2271,Suvo Sarkar
+2272,Co
+2272,Mitsui
+2273,Apurva Salarpuria
+2273,Fireside Ventures
+2273,Sidharth Pansari
+2273,Sprout Capital
+2274,Dunamis Ventures Pte Ltd
+2275,Ankit Aditya
+2275,Moksh Sports Ventures
+2275,Sourav Ganguly
+2275,Venture Catalysts
+2276,Indian Angel Network
+2277,500 Startups
+2277,Abhishek Gupta
+2277,Purvi Capital
+2277,Rajan Anandan
+2278,Bessemer Venture Partners
+2278,Catamaran Ventures
+2278,SBI-FMO Fund
+2279,Corvus Ventures
+2279,MAPE Advisory Group
+2280,Blacksoil Capital Pvt. Ltd
+2281,Bobby Reddy
+2281,Brigade Innovations LLP
+2281,M George Oommen
+2281,Suhail Rahman
+2281,TV Mohandas Pai
+2282,Anshuman Das
+2282,Grey Orange
+2282,Rajesh Ramaiah
+2282,Rishi Das
+2282,Sequoia Capital
+2283,IDG Ventures India Advisors
+2283,Jungle Ventures
+2284,Amaya Capital LLP
+2284,Uber Technologies Inc
+2285,Kae Capital
+2286,Xelpmoc
+2287,One97 Communication Ltd
+2288,Francesco Cara
+2289,ABI-Showatech (India) Ltd
+2290,Renaud Laplanche
+2290,ain Capital Ventures
+2291,Kae Capital
+2291,M&S Partners
+2292,Mayank Mittal
+2292,Subramani Somasundaram
+2292,Sundeep Sahni
+2293,Fusiontech Ventures
+2293,Harmeet Bajaj
+2293,Pameela P
+2294,Blume Ventures
+2294,NB Ventures
+2294,Nspira
+2295,Aditya Singh
+2295,Rajan Anandan
+2295,Rishi Srivastava
+2295,Sunil Kalra
+2296,Tencent Holdings
+2297,Stellaris Venture Partners
+2298,Yuvraj Singh
+2299,Goldman Sachs
+2300,Anand Mahindra
+2300,Indian Angel Network
+2301,HBM Healthcare Investments
+2301,Kae Capital
+2301,Maverick Capital Ventures
+2301,Omidyar Network
+2301,Sequoia Capital
+2302,Info Edge (India) Ltd
+2303,RoundGlass Partners
+2304,Amen Dhyllon
+2305,Kae Capital
+2306,Narottam Thudi
+2306,Shireesh Palle
+2307,Triton Investment Advisors
+2308,Anand Sankeshwar
+2308,Anindya Ghose
+2308,Arjun Mehta
+2308,Deepak Jain
+2308,Kashyap Deorah
+2308,Sadashiva NT
+2308,Satish Kaul
+2309,Anupam Mittal
+2309,Hetal Sonpal
+2309,Kunal Shah
+2309,LetsVenture
+2310,DSG Consumer Partners
+2310,Eight Roads Ventures India
+2311,Rajasthan Angel Investor Network
+2312,Cismat Cargo Services Pvt. Ltd
+2313,SIDBI
+2314,AVN Business Solutions
+2314,Aditya Vazirani
+2314,Dreamweaver Investments
+2314,R. Jayakumar
+2314,Rhea Vazirani
+2314,Vaibhav Vohra
+2315,Anuj Puri
+2315,Apoorv Ranjan Sharma
+2315,Artha India Ventures
+2315,Redcliffe Capital
+2315,Siddharth Kothari
+2316,JSW Ventures
+2317,Anicut Capital
+2318,Ankit Sharma
+2318,Rahul Dev Kumar
+2318,Rajesh Mahajan
+2319,Factor[e] Ventures
+2320,Tom Varkey
+2321,Ajay Bhatia
+2321,Ganpat Singhvi
+2321,Mandhian family
+2321,Tarun Khandelwal
+2321,Venugopal Dhoot
+2322,Incubate Fund
+2322,Mridul Upreti
+2322,Sanjay Shenoy
+2323,SoftBank
+2324,Nazara Games
+2325,Tekne Capital Management
+2326,Fullerton India Credit Company Ltd
+2326,InCred Finance
+2327,Bennett
+2327,Coleman
+2327,Company Ltd (BCCL)
+2328,InCred
+2328,Krishnakumar Natarajan
+2328,Ravi Bhardwaj
+2329,Boillot Family Trust
+2329,Green Visor Capital LP II
+2329,IA Venture Strategies Fund II LP
+2329,Jr. Millennium Trust
+2329,Russell M Byrne
+2329,SF Capital Investments LP
+2329,The Oliver R. Grace
+2330,Abhinav Gupta
+2331,Undisclosed HNI's
+2332,IDG Ventures
+2333,Kshitij Arora
+2333,Rajan Anandan
+2333,Rajeev Ahuja
+2333,Social Alpha
+2334,iSquare Global
+2335,IIT Ropar
+2335,Imanpreet Singh Arora
+2335,Saurabh Abichandani
+2335,Shikhar Gupta
+2335,Sidharth Rozario
+2336,Fireside Ventures
+2337,Nexus Venture Partners
+2337,Riverwood Capital
+2337,Sequoia Capital
+2337,Tenaya Capital
+2338,Haresh Chawla
+2339,Blume Ventures. Lenovo Capital
+2339,Incubator Group (LCIG)
+2340,Horizons Ventures
+2340,JS Capital Management
+2340,Social Capital
+2341,Dena
+2341,Raksul
+2341,VAMM Ventures
+2342,PBS Srinivas
+2342,Vinod Martin
+2343,C31 Ventures
+2343,Qualgro
+2343,Sistema Asia Fund
+2344,Accel
+2344,IDG Ventures
+2344,Kalaari Capital
+2344,UC-RNT fund
+2345,Capier Investments
+2345,Globevestor
+2345,growx ventures
+2345,idal Health
+2346,Small Industries Development Bank of India (SIDBI)
+2347,Kris Gopalakrishnan
+2347,Lakshmi Narayanan
+2347,Sequoia Capital
+2347,Sofina s.a
+2347,Zodius Capital
+2348,Karst Peak Capital
+2348,Ward Ferry Management
+2349,YourNest Angel Fund
+2350,InfoEdge
+2351,Mayur Abhaya
+2351,Rohit MA
+2351,Stellaris Venture Partners
+2352,Accel
+2352,Exfinity Ventures
+2352,Partech Ventures
+2353,Anand Mahindra
+2353,Michael
+2353,Susan Dell Foundation
+2354,BeeNext
+2354,Pravega Ventures
+2354,SRI Capital
+2355,HIS Co. Ltd
+2355,MakeMyTrip
+2356,Bertelsmann India
+2356,Darrin Capital
+2356,Mayfield Capital
+2356,Saama Capital
+2357,Artiman Ventures
+2357,Sequoia Capital
+2358,Accel
+2358,International Finance Corporation (IFC)
+2358,Inventus Capital Partners
+2358,Kalaari Capital
+2358,Nandan Nilekani
+2359,Matrix Partners
+2360,IFMR Capital
+2361,Fireside Ventures
+2362,Greenoaks Capital
+2362,Hero Enterprise
+2362,Lightspeed Venture Partners
+2362,Sequoia Capital
+2362,SoftBank
+2363,RPG Enterprises
+2364,V Balakrishnan
+2365,Triodos Investment Management
+2366,Alok Mittal
+2366,Anuj Gupta
+2366,Mohit Agarwal
+2366,Venture Highway
+2367,P.V SIndhu
+2367,Pullela Gopichand
+2367,Sachin Tendulkar
+2368,Warburg Pincus
+2369,Undisclosed Investor
+2370,Beenext
+2370,IAN Fund
+2370,Indian Angel Network
+2371,Arvind Uppal
+2371,G Ravishankar
+2371,Raman Roy
+2371,Sonu Bhasin
+2372,Artiman Ventures
+2372,Edelweiss Private Equity
+2372,Qualcomm Ventures
+2372,WRV Capital
+2373,Accel
+2374,Chennai Angels
+2374,Keiretsu Forum
+2375,China Lodging Group
+2376,Blume Ventures
+2376,Nexus Venture Partners
+2376,SAIF Partners
+2376,Sequoia Capital
+2377,Ajeet Khurana
+2377,Anand Chandrasekaran
+2377,Apurva Chamaria
+2377,Ashish Toshniwal
+2377,Ritesh Malik
+2378,Rajit Nanda
+2378,Rohit Nanda
+2378,Sashwat Brahma
+2378,Smarak Bhuyan
+2379,ECL Finance
+2380,Y Combinator
+2381,Chavi Jafa
+2381,Manish Amin
+2381,Pallav Pandey
+2381,Rising Stars
+2382,DSG Consumer Partners
+2382,Saama Capital
+2383,Susquehanna Growth Equity LLC
+2384,Aprameya Radhakrishna
+2384,Shamik Sharma
+2385,Al Nour
+2385,Pearl Brook Holdings
+2385,Sandway Investment Ltd
+2385,Silo Holdings
+2386,AdvantEdge
+2387,LG Chandrasekhar
+2388,Incofin Investment Management
+2389,InnoVen Capital
+2390,InnoVen Capital India
+2391,Beenext
+2392,Battery Road Digital Holdings LLC
+2393,Mehul Shah
+2394,Prime Venture Partners
+2394,Vertex Ventures
+2395,Zomato Media Pvt. Ltd
+2396,AV Thomas Group
+2397,Kae Capital
+2398,Jamil Khatri
+2398,Raghav Bahl
+2398,Rajan Anandan
+2398,Ravi Iyer
+2399,Aniruddha Malpani
+2399,Startup Oasis
+2400,Capillary Technologies
+2400,Rajul Garg
+2400,Whiteboard Capital
+2400,YourNest Angel Fund
+2401,Rivergate Capital
+2402,LetsVenture
+2403,Amiya Pathak
+2403,Anurag Srivastava
+2403,Blume Ventures
+2403,Goldbell Group
+2403,Rahul Garg
+2403,Rajesh Yohanan
+2403,Shailesh Rao
+2404,IL&FS Investment Managers
+2404,Omidyar Network
+2405,Keiretsu Forum
+2406,Amit Manocha
+2406,Apurva Chamaria
+2406,Bharat Gupta
+2406,Sachin Arora
+2406,Startup Buddy
+2407,Venture Catalysts
+2408,SoftBank
+2408,Tencent
+2409,Sprout Angels
+2410,Digital Garage
+2411,Flipkart
+2412,Blume Ventures
+2412,IDG Ventures
+2412,Indian Angel Network
+2413,Globevestor
+2414,Beenext
+2414,Helion Venture Partners
+2414,Sequoia Capital
+2415,Axan Partners
+2415,Das Capital
+2415,IT Farm
+2416,Epsilon Venture Partners
+2416,Tara India Fund IV
+2417,Das Capital
+2417,Simile Ventures
+2418,Carpediem Capital
+2419,Daffodil Software
+2420,Shailesh Haribhakti
+2421,Aequs Group
+2422,Ananda Kallugadde
+2422,Firoze Irani
+2422,Rajesh K Murthy
+2422,Vipul Parekh
+2423,Orient BlackSwan
+2424,Batlivala
+2424,Karani Securities
+2424,Keshav Sanghi
+2424,Rahul Agarwalla
+2425,DSG Consumer Partners
+2425,Saama Capital
+2426,Multipoint Capital
+2427,SAIF Partners
+2427,Venture Highway
+2427,YCombinator
+2428,KStart Capital
+2429,Tiger Global
+2430,Anshu Bahadur
+2430,Snehal Mantri
+2430,Vida Ventures
+2431,DG Ventures India
+2431,True North
+2431,Wellington Management
+2432,Shunwei Capital
+2432,Xiaomi Technologies
+2433,Amicus Capital
+2434,Accel
+2434,Zephyr Peacock
+2435,Experian
+2436,Innoven Capital
+2437,GREE Ventures
+2437,Nexus
+2438,Undisclosed Investor
+2439,IFMR Capital
+2440,Rockstart Accelerator
+2441,DSG Consumer Partners
+2441,Saama Capital
+2441,Sequoia Capital
+2442,FIL Capital Management
+2442,Helion Ventures
+2442,SAIF Partners
+2443,Greenfield Advisory
+2444,Venture Catalysts
+2445,Blume Ventures
+2445,Indian Angel Network
+2446,IAN Fund
+2446,Indian Angel network
+2447,Matrix Partners India
+2447,Sarbvir Singh
+2447,WaterBridge Ventures
+2447,Whiteboard Capital
+2448,Abhishek Bhatewara
+2448,Haitong Securities
+2448,Paras Arora
+2448,Suraj Saharan
+2448,Vivek Shah
+2449,500 Startups
+2449,Citrus Payments
+2449,Hunch Ventures
+2449,Singapore Angel Network
+2449,Spiral Ventures
+2450,Helion Ventures Partners
+2451,Kotak Mahindra Bank
+2452,Anand Kumar
+2452,Incubate Fund
+2452,Sandesh Kirkire
+2452,Yogesh Chaudhary
+2453,Y Combinator
+2454,ANI Technologies Pvt. Ltd
+2455,Infuse Ventures
+2455,Mahindra
+2456,IL&FS
+2456,Radhakrishan Damani
+2456,Rakesh Jhunjhunwala
+2456,Rosy Blue Securities
+2456,Trust Capital
+2457,Sistema Asia Fund
+2457,TannCam Investment
+2458,CIO Angel Network
+2459,Jayant Humbarwadi
+2460,Arun Garg
+2460,Manish Poddar
+2460,Parmeshwar Sharma
+2461,Kae Capital Management
+2461,Nazara Technologies
+2462,Venture Catalysts
+2463,IDG Ventures India
+2464,Alok Mittal
+2464,Deepak Jain
+2464,Jim Schimdktke
+2464,Ritesh Malik
+2465,IDG Ventures India
+2466,Tata Group's watch and jewellery retailing firm
+2466,Titan Co Ltd
+2467,Infosys co-founder Kris Gopalakrishnan
+2468,Khosla Ventures
+2468,Matrix Partners India
+2469,Pioneering Ventures
+2469,Syngenta AG
+2470,Quona Capital Management
+2471,Axilor Ventures
+2471,Kumar Vembu
+2472,Lumis Partners
+2473,IDFC-Parampara Fund
+2473,IDG Ventures
+2474,Info Edge (India)
+2475,Matrix Partners
+2476,Wipro Consumer Care
+2477,Harmony Partners
+2477,Innov8
+2477,Singtel
+2478,Accel
+2479,Vertex Ventures
+2480,GAIL India Ltd
+2481,Rugmini Menon
+2482,Apurva Chamaria
+2482,Girish Mathrubootham
+2482,Rohit Chanana
+2483,Omidyar Network
+2484,Alok Srivastava
+2484,Nishit Sharma
+2485,Incubation Foundation (SIIF)
+2485,SSCBS Innovation
+2486,Z Nation Lab
+2487,Paytm
+2488,Global Institutional Investors
+2489,IDG Ventures
+2489,Notion Capital
+2490,1Crowd
+2491,MEMG CDC
+2491,Sabre Partners
+2492,Aravind Sanka
+2492,Skycatcher Fund
+2493,Dr. Aniruddha Malpani
+2493,Vida Ventures
+2494,Axilor Ventures
+2495,Sandeep Aggarwal
+2496,Uniliver Ventures
+2497,Javelin StartupO Victory Fund
+2498,Amit Patni
+2499,Sixth Sense Ventures
+2500,Gaja Capital
+2501,IFMR Capital
+2502,MediAssist
+2502,NB Ventures
+2503,Accel
+2503,Matrix PArtners
+2504,Scale Minds
+2505,Google
+2506,NB Ventures
+2507,Hines
+2508,Lightbox
+2509,Apis Partner
+2509,Bamboo Capital Partners
+2509,Eight Roads Ventures
+2510,Somerset Indus Capital Ventures
+2511,IDG Ventures
+2512,Eduardo Saverin
+2513,Kalpvriksh
+2514,Tiger Global
+2515,Aamir Khan
+2516,Village Capital
+2517,Village Capital
+2518,Mumbai Angel
+2518,Singapore Angel Network
+2519,Hyderabad Angels
+2520,HT Media
+2521,Munesh Khanna
+2522,Accel
+2523,Darshak Shah
+2523,Kiran Shetty
+2523,Mandar Mhatre
+2523,Mohan Tanksale
+2524,Bessemer Venture Partners
+2525,Canaan Partners
+2526,Rakesh Jhunjhunwala
+2527,RoundGlass Partners LLC
+2528,Accel
+2528,RB Investments
+2528,Sequoia Capital
+2529,RB Investments
+2530,Matrix Partners
+2531,Mumbai Angels Network
+2532,Mountain Pain Capital
+2532,Suncoast Investments
+2533,InsuResillience Investment Fund
+2534,Maheshwar Peri
+2534,Purnima Khandelwal
+2534,Sanjay Singh
+2534,Swati Gupta
+2535,Unilever Ventures
+2536,Costanoa
+2536,Jyoti Bansal
+2536,Learn Capital
+2537,Kedaraa Capital
+2537,Ontario Teachers'
+2538,Axilor Ventures
+2538,E-City VEntures Atul Goel
+2539,Ambarish Gupta
+2539,Aneesh Reddy
+2539,Bold Ventures
+2539,Vona Investments
+2540,Venture Catalysts
+2541,Omidyar Network
+2542,Eight Roads Ventures India
+2543,Jones Lang LaSalle
+2544,Gaurav Gupta
+2545,Accel
+2545,Recruit Holdings
+2545,Sequoia Capital
+2546,Eight Roads Ventures India
+2547,Claris Capital
+2547,Mumbai Angels Network
+2548,Rohan Agila
+2549,Nederlandse Financierings-Maatschappij voor Ontwikkelingslanden N.V
+2550,Amazon-Patni JV
+2551,Morgan Stanley Private Equity Asia
+2552,Accel
+2552,Elevar Equity
+2552,responsAbility
+2553,RuNet
+2554,Ankush Gupta
+2554,Pankaj Chopra
+2555,Tiger Global
+2555,Y Combinator
+2556,Goldman Sachs
+2556,hedge fund
+2557,Electronic Development Fund
+2557,Hero Electronix's corporate financing arm
+2557,Sunil Kant Munjal
+2558,Indian fintech fund
+2558,Rainmatter
+2559,Polaris Fund
+2560,Shunwei Capital
+2560,Xiaomi Singapore
+2561,Dr. Ranjan Pai
+2562,Lionrock Capital
+2563,DMI Finance
+2564,The Chennai Angels
+2565,Anuj Agrawal
+2565,Incubate Fund India
+2566,Unilever Ventures
+2567,IFMR Capital
+2568,Aspada Investment
+2568,LeapFrog Investments
+2568,Quona Capital
+2569,Avendus Finance
+2570,Chennai Angels
+2570,Lead Angels
+2570,LetsVenture
+2571,Pravega Ventures
+2572,RNT Capital
+2573,BVR Mohan Reddy
+2573,Eight Roads Ventures
+2573,Endiya Partners
+2573,Touchstone Equities
+2573,Ventureast
+2574,Blume Ventures
+2575,Accel
+2576,Axis Bank
+2576,HDFC Bank
+2577,Alfa Capital
+2577,Green Shots Capital
+2577,Mitesh Shah
+2577,Rahul Maroli
+2577,Real Time Ventures
+2577,Shivani Singh
+2577,Venture Catalysts
+2578,Axilor Ventures
+2578,Newfort Capital
+2579,Ventureast
+2580,Alibaba
+2580,Ascent Capital
+2580,Bessemer Venture Partners
+2580,Helion Venture Partners
+2581,Ant Financial
+2582,CDC Group Plc
+2583,Girnar Software
+2583,Man Capital LLP
+2584,Omidyar Network
+2585,Bhavesh Manglani
+2585,Darshan Upadhyay
+2585,Sanjay Notani
+2585,Suraj Saharan
+2586,Montane Ventures
+2587,Naspers
+2588,Meritech Capital Partners
+2589,Sandeep Mathur
+2590,Sistema Asia Fund
+2591,British
+2591,Indian Governments
+2592,Accel
+2592,Sequoia Capital
+2593,Social Capital
+2594,Trifecta Capital
+2595,Fullerton Financial Holdings Pte Ltd
+2596,Axis Capital
+2596,Bessemer Venture Partners
+2596,Jungle Venture Partners
+2596,Singapore
+2596,Stellaris Venture Partners
+2597,Tribe Impact Capital LLP
+2598,Ashok Kumar Gajera
+2599,LGT Impact Ventures
+2599,Michael
+2599,Susan Dell Foundation
+2600,Kalpavriksh
+2601,S7 Group
+2602,DiDi Chuxing
+2603,Atul Agarwal
+2603,Dewang Neralla
+2603,Mahesh Kothurkar
+2604,Axis Capital Partners
+2605,Network 18
+2606,Michael Patrick Hickey
+2607,Mohammed Khan
+2607,Sameer Narayan
+2608,Jerry Yang
+2608,Sequoia
+2609,Hinduja Leyland Finance
+2609,IntelleGrow
+2610,Ankur Capital
+2611,Sequoia
+2611,Wargburg Pincus
+2612,Citi Ventures
+2612,PNC
+2613,Blume Ventures
+2613,Fireside Ventures
+2613,HealthQuad
+2614,Lightspeed
+2614,Yuri Milner
+2615,Auxano Deals
+2616,Kris Gopalakrishnan
+2616,MEMG Family Office
+2616,Pratithi Investment Trust
+2616,S Gopal
+2617,Dr Devi Shetty
+2618,Amit Manocha
+2618,Startup Buddy
+2619,Khosla Ventures
+2619,Vy Capital
+2619,Y Combinator
+2620,Tencent Holdings Ltd
+2620,Times Internet
+2621,Unitus Seed Fund
+2622,CBA Capital
+2623,Bessemer Venture Partners
+2623,JM Financials
+2623,MEMG
+2623,Orios Venture Partners
+2624,Kalaari capital
+2624,SAIF Partners
+2624,Sequoia Capital
+2625,Ankit Kesarwani
+2625,Baskar Subramanian
+2625,Gaurav Suri
+2625,Saket Kumar
+2626,InfoEdge
+2627,Nexus Venture Partners
+2628,Sequoia Capital
+2629,Accel
+2629,Saama Capital
+2629,Vertex Ventures
+2630,HDFC Asset Management
+2630,HDFC Life
+2631,Apoorva Patni
+2631,Beenext Ventures
+2631,GrowX Ventures
+2631,Ranjan Pai
+2632,Avendus Finance Pvt. Ltd
+2633,Aegon NV
+2634,Trifecta Capital
+2635,State Street Global Advisors
+2636,HR Fund
+2637,Actis
+2637,Altimeter Capital
+2638,Ankit Bhati
+2638,Bhavish Aggarwal
+2638,Binny Bansal
+2638,Kunal Shah
+2638,Manish Patel
+2638,Matrix Partners
+2639,Sudhakar Pennam
+2639,Venkat Subramanian
+2639,and other tech investors from Silicon Valley
+2640,Apoletto Managers
+2640,SoftBank
+2640,Tiger Global
+2641,Axilor Ventures
+2641,Pi Ventures
+2642,Alteria Capital
+2643,1Crowd
+2643,Ankur Capital
+2644,Amit Burman
+2644,SIDBI Venture Capital
+2645,Micromax Informatics Ltd
+2646,Hiro Mashita
+2646,Jessica Wong
+2646,Xue Manzi
+2646,Yiyun Zhang
+2647,Accel
+2647,Insight Venture Partners
+2647,Tiger Global
+2648,SucSEED Venture Partners
+2649,Endiya Partners
+2650,Axilor Ventures
+2650,Kumar Vembu
+2651,Initia Holdings
+2651,Vipin Agarwal
+2652,Amit Singhal
+2652,Unitus Seed Fund
+2653,Ratan Tata
+2654,Accion Venture Lab
+2654,ISME ACE
+2654,Unicorn India Ventures
+2655,Axis Capital
+2655,Google
+2655,GrowX
+2655,IIFL
+2655,Kae Capital
+2655,Patni family office
+2655,Singularity Ventures
+2655,Tracxn Labs
+2655,Venture Catalyst
+2656,Thomas Assessments
+2656,Vishal Bali
+2656,Yogesh Misra
+2657,Anjali Bansal
+2657,Arihant Patni of Patni Family Office
+2657,Exfinity Venture
+2657,Saha fund Partners
+2657,Satish Khanna
+2657,Shardul Amarchand Mangaldas
+2657,Taparia family office
+2658,Mohit Khadaria
+2658,Subhkam Ventures
+2659,ChrysCapital
+2659,Elevar Equity
+2659,Kaizen Private Equity also participated in the round
+2659,LGT Impact
+2659,Omidyar Network
+2660,Jamshed Jeejeebhoy
+2660,Maheshwar Peri
+2660,director at Byramjee Jeejeebhoy Pvt. Ltd were among the angels
+2660,founder and chairman of career information portal Careers360
+2661,Accel
+2661,Tiger Global
+2662,Amit Ranjan
+2662,Amrish Rau
+2662,Digital Currency Group
+2662,Eight Innovate
+2662,Hinduja Group
+2662,Investopad
+2662,Lightspeed India
+2662,Matrix Partner
+2662,Prashant Malik
+2663,Omidyar Network. Blume Ventures
+2663,Professor Shlomo Ben-Haim
+2664,Fireside Ventures
+2665,Kae Capital Management
+2666,Bessemer Venture Partners
+2666,Fundamentum
+2666,RB investments
+2666,SAIF Partners
+2667,BlueOrchard Finance Ltd
+2667,Hinduja Leyland Finance
+2667,IntelleGrow
+2668,SRI Capital
+2668,ThinKuvate
+2668,Waterbridge Ventures
+2669,Lok Capital
+2670,Mr. Manoj Prasad
+2671,Jayant Kadambi
+2671,Madhusudhan Kannan
+2671,Pradeep K Jaisingh
+2671,Puneet Gupta
+2671,Rajan Anandan
+2672,International Finance Corporation
+2672,Transamerica
+2673,Beenext
+2673,Pravega Ventures
+2674,TR Capital
+2675,Shilpa Shetty Kundra
+2676,Line Corp
+2676,Line Ventures Corporation
+2676,Naver
+2676,Shinhan Bank
+2676,TS Investment
+2677,Vidal Healthcare
+2678,Dalip Pathak
+2678,Harsh Mariwala
+2678,Sunil Munjal
+2679,Alagu Periyannan
+2679,Biz Stone
+2679,Karthee Madasamy
+2679,Kunal Bahl
+2679,Rohit Bansal
+2680,Amazon
+2681,Alok Mittal
+2681,GEMS Advisory
+2681,Sachin Bhatia
+2682,GREE Ventures
+2682,IDG Ventures India
+2682,Kalaari Capital
+2682,Neoplux
+2682,OPPO
+2682,Summit Media
+2683,Blume Ventures
+2683,Helion Venture Partners
+2683,Nandan Nilekani
+2683,Omidyar Network
+2684,HBM Healthcare Investments Ltd
+2684,Maverick Capital Ltd
+2684,Sequoia Capital
+2685,Blacksoil
+2685,Emery Capital
+2685,Kalaari Capital
+2686,SAR Group
+2687,Bay Capital Investments
+2688,Accel
+2688,B Capital
+2688,IDG Ventures
+2688,International Finance Corporation (IFC)
+2689,Unknown High Net-Worth Individuals
+2690,IL&FS Private Equity
+2690,Kae Capital
+2691,Behram Vakil
+2691,Jerxis Vandrevala
+2691,Unitus Ventures
+2692,Rairah Corporation
+2693,Dalip Pathak
+2693,Harsh Mariwala
+2693,Sunil Munjal
+2694,Mayur Abhaya Srisrimal
+2694,Prime Venture Partners
+2694,Stellaris Venture Partners
+2695,Blume Ventures
+2695,Kalaari Capital
+2695,Unilever Ventures
+2696,Blume ventures
+2697,LetsVenture
+2698,Credika and unnamed angel investors
+2699,Insistor
+2699,Oikocredit
+2700,RS Shanbag
+2701,Atul Gupta
+2701,Saurabh Rastogi
+2702,Ashish Kacholi
+2702,S Chand Group
+2703,Amazon
+2703,Ashish Dhawan
+2703,Catamaran Ventures
+2703,NR Narayana Murthy
+2704,Bhavesh P
+2704,Medintel Services Pvt. Ltd
+2704,Mitali Pawar
+2704,Nikhil G
+2704,ONCOTRUST
+2704,Prashant Mehta
+2704,R Ranganathan
+2705,Accion Venture Labs
+2705,Kalaari Capital
+2705,Omidyar Network
+2706,Amazon Inc
+2706,Mastercard
+2707,Treebo
+2708,ABB Technology Ventures
+2708,BEENEXT
+2708,Bill
+2708,Blume Ventures
+2708,IndusAge Partners
+2708,Melinda Gates Foundation
+2708,Omnivore
+2708,Qualcomm Venture
+2708,Venture Highway
+2709,Accion Venture Lab
+2709,YourNest Venture Capital And Other Angel Investors
+2710,Puneet Dalmia
+2710,Sabre Partners
+2711,Aspire Logistics LLC
+2712,Aijaz Saleem
+2712,Alok Divatia
+2712,Bhairavi Jani
+2712,Namrata Kaul
+2712,Sohail Hashemi
+2713,Amrendra Reddy
+2713,Anil Advani
+2713,Manish Satnaliwala
+2713,Pramod Jain
+2714,NB Ventures
+2715,Oman India Joint Investment Fund (OIJIF)
+2716,SAIF Partners
+2716,Sequoia Capital
+2716,Venture Highway
+2716,Y Combinator
+2717,CapitalG
+2717,LGT Impact Ventures
+2717,SAIF Partners
+2718,Mumbai Angels Network
+2719,Alpha Capital
+2720,Saama Capital
+2720,Sequoia Capital
+2721,Paragon Partners
+2722,Samir Kumar
+2722,Spiral Ventures
+2722,Subho Ray
+2723,Basab Pradhan
+2723,Bijoy George
+2723,LetsVenture
+2723,Rajan Anandan
+2723,Vivek Khare
+2724,Rannvijay Singha
+2725,Brand Capital
+2726,Helix Investments
+2727,Hyperplane Venture Capital and several angel investors
+2728,Lighthouse Funds
+2728,Thuasne Participations
+2729,Artha Initiatives
+2729,Menterra Venture
+2730,LetsVenture
+2730,Shorooq Investments
+2731,Accel
+2731,Sequoia Capital
+2731,Y Combinator
+2732,Accel
+2732,Raghunandan Gangappa
+2732,Sequoia Capital
+2733,Diageo India
+2734,Info Edge (India) Ltd
+2734,SoftBank Vision Fund
+2735,Equanimity Venture Fund
+2736,One 97 Communications
+2737,Accel
+2737,Axilor Ventures
+2737,Binny Bansal
+2737,Endiya Partners
+2737,IDG Venture
+2737,VH Capital
+2737,pi Ventures
+2738,Undisclosed Existing Investors As Well As The Tamarind Family Trust
+2739,Leo Capital
+2740,Speciale Invest
+2741,Shiva Gunapu
+2742,Y Combinator
+2743,Ajay Relan
+2743,Vinay Mittal
+2744,MDI Ventures
+2744,Telkom Indonesia
+2745,Ashish Goenka
+2745,Kae Capital
+2745,Shunwei Capital
+2745,Tuscan Ventures
+2745,VC firms India Quotient
+2746,Info Edge (India) Ltd
+2746,Temasek
+2747,Insignia Ventures Partners
+2747,Kairos
+2747,Lightbridge Partners
+2748,Info Edge (India) Ltd
+2749,Aditya Malik
+2749,Avtar Monga
+2749,chief operating office at IDFC Bank
+2750,Venture Catalysts
+2751,ResponsAbility
+2752,Raghunandan G
+2752,Ramakant Sharma
+2752,Stellaris Venture Partners
+2752,Vy Capital
+2753,Base of Pyramid Asia (BOPA) Pte Ltd
+2754,Excelsior Investments
+2754,Prashant Gupta
+2754,Praveer Kumar
+2754,Rishi Vasudev
+2754,Ritesh Vohra
+2755,Brand Capital
+2756,100 Co-founders Lab
+2756,Amit Singal
+2756,Mahavir Sharma
+2756,Siddharth Agarwal
+2757,KCK Global
+2757,Kingsway FCI Fund
+2758,Creation Investments
+2758,Falcon Edge
+2758,Matrix Partners India
+2758,Zodius Capital
+2759,Omidyar Network
+2760,TPG Growth
+2760,The Rise Fund
+2761,PayU
+2762,Hemant Luthra
+2762,Metaform Ventures
+2762,Micro venture capital firm GEMS Partners
+2763,AngelList
+2763,Rahul Khanna
+2763,Rajeev Arora
+2763,Ram Ramsundar
+2764,Fairfax
+2765,Gray Matters
+2766,Allcargo Logistics
+2766,Mahavir Agency
+2766,Navneet Education
+2767,Exfinity
+2767,Ventureast
+2768,BeeNext
+2768,Sprout Ventures
+2768,WEH Ventures
+2769,MakeMyTrip
+2770,Arthavida Ventures
+2770,Bharat Innovation
+2770,IDFC-Parampara Capital
+2770,Jitendra Gupta
+2771,Lindwall Family Investments LLC (LFI)
+2772,Accel
+2772,IDG Ventures
+2772,Kalaari Capital
+2773,Amazon Alexa Fund
+2773,Dentsu Ventures
+2774,Matrix Partners
+2774,Norwest Venture Partners
+2774,Sequoia Capital
+2774,TPG
+2775,Kantilal Patel
+2776,Artesian Venture Partners
+2776,Arts Alliance
+2776,Farm To Fork
+2776,Sven Hensen
+2776,The Syndicate Fund
+2776,Zeroth
+2777,Axilor
+2777,Sprout Venture Partners
+2778,Sequoia Capital
+2778,Xiaomi
+2779,Y Combinator
+2780,MakeMyTrip Limited
+2781,Fung Strategic Holdings
+2782,Vertex Ventures
+2783,Accel
+2783,G Raghunandan
+2783,Sequoia Capital India Advisors
+2784,Flipkart
+2785,AJ Ventures
+2785,Jain International Trade Organisation (JITO)
+2786,Nexus Venture Partners
+2786,Prime Venture Partners
+2787,Orios Venture Partners and the IAN Fund
+2787,Ventureast
+2788,Emergent Ventures
+2788,Hack VC
+2788,Liquid 2 Ventures
+2788,MGV
+2788,Nexus Venture Partners
+2788,Y Combinator
+2789,Beenext
+2789,Denlow Investment Trust
+2790,Alteria Capital
+2791,CDC Group plc
+2792,Beenext
+2792,Dream Incubator
+2792,Edelweiss
+2792,Hyundai
+2792,Sunjay Kapoor
+2792,Telama Investment
+2793,Beenext
+2793,Pravega Ventures
+2793,SRI Capital
+2793,Saama Capital
+2794,Omidyar Network
+2794,PayU
+2794,Ribbit Capital
+2794,Xiaomi
+2795,Nexus Venture Partners
+2795,Omidyar Network
+2795,Shunwei Capital
+2796,Accel (formerly known as Accel Partners)
+2797,Sistema Asia Fund
+2797,Sistema JSFC
+2797,Tanncam Investment
+2798,Falcon Edge
+2799,DST Global
+2799,Lightspeed Venture Partners' global fund
+2800,China-based CITIC Capital
+2800,Korea Investment Partners (KIP)
+2800,Samsung
+2801,KDDI
+2802,Lighthouse
+2803,Kalaari Capital
+2803,Private equity firm Multiples Alternate Asset Management
+2803,Tencent
+2804,Stellaris Ventures
+2805,CLP Holdings Group
+2805,Innogy
+2805,Tenaska
+2805,Ørstead
+2806,InnoVen Capital
+2807,Mayfield
+2807,Quotient
+2807,Shunwei Capital
+2808,Endiya Partners
+2808,Fosun RZ Capital
+2808,India
+2808,Sistema Asia Fund
+2808,Ventureast
+2808,Vertex Ventures Southeast Asia (SEA)
+2809,Prashant Jaiswal
+2810,Caspian
+2810,Cooperative Oikocredit
+2810,Hivos-Triodos Fund
+2811,Ravi Viswanathan
+2812,ZigExN
+2813,Credence Family Office
+2814,Sequoia Capital
+2815,Fosun International
+2816,Lead Angels Network
+2817,CDC Group
+2817,Norwest Venture Partners
+2817,P Surendra Pai
+2817,the UK's Development Finance Institution
+2818,DST Partners
+2818,RPS Ventures
+2818,Shunwei Capital
+2819,RB Investments
+2819,Singapore
+2820,Tiger Global
+2821,Mayfield Fund
+2822,Stevens Creek Ventures
+2823,Venture Catalysts
+2824,SoftBank Vision Fund
+2825,Blume Ventures
+2825,Chiratae Ventures
+2825,Innoven Capital
+2825,Inventus Capital
+2825,Sistema Asia Fund
+2825,VC Samsung NEXT
+2826,Annuity Association (TIAA)
+2826,Teachers Insurance
+2827,Amrish Rau from PayU India
+2827,Dilip Khandwelwal from SAP Labs India
+2827,Kalaari Capital
+2827,Rajan Anandan from Google
+2827,Stellaris Venture Partners
+2828,Jungle Ventures
+2828,Lakestar
+2828,Softbank's DeepCore
+2829,Paragon Partners
+2830,Bertelsmann India Investments
+2831,Steadview Capital
+2831,Vy Capital
+2832,Stellaris Venture Partners
+2833,Omphalos Ventures India LLP
+2834,GREE Ventures
+2834,Space Matrix
+2834,Venture Highway
+2835,AET Fund
+2835,Akatsuki
+2835,Better Capital AngelList syndicate
+2835,Incubate Fund from Japan
+2835,Info Edge (India)
+2836,Alphabet's growth investment arm Capital G
+2836,Axis Bank
+2836,Hillhouse Capital
+2836,Sequoia Capital
+2837,MASSIF
+2837,a Dutch government fund
+2838,Iron Pillar
+2838,Kalaari Capital
+2838,Perceptive Advisors
+2838,Romulus Capital
+2839,India Quotient
+2839,LetsVenture's Angel Fund
+2840,Burda Principal Investments
+2840,EDBI
+2840,Sequoia Capital
+2840,Sofina
+2840,Temasek Holdings
+2841,91SpringBoard
+2841,AL Nour International Holdings
+2841,LetsVenture
+2841,Mark V Investments
+2841,PitchRight Venture
+2842,Supera Pte Ltd
+2843,ABCOM Investments
+2843,Beehive Capital Advisor
+2843,Parekh Marine Transport
+2843,Unilever
+2844,Milestone
+2845,Kalyan Krishnamurthy
+2846,Accel
+2846,Sequoia Capital
+2846,Tiger Global
+2847,Lightspeed India Partners
+2848,Unnamed angel investors
+2849,Prasid Uno Family Trust
+2850,3one4 Capital
+2850,Chiratae Ventures (formerly IDG Ventures)
+2850,Hornbill Orchid India Fund
+2850,Lasmer NV
+2850,Orchid India
+2851,Eight Roads
+2852,021 Capita
+2852,Binny Bansal
+2853,New Atlantic Ventures
+2854,BAC Acquisitions
+2854,BRD Securities
+2854,Northern R Capital
+2854,Unifi AIF
+2855,Sixth Sense Ventures
+2856,B Capital
+2856,Goldman Sachs Investment Partners
+2856,International Finance Corporation
+2856,LightStreet
+2856,Sands Capital
+2856,Sequoia Capital
+2856,Silicon Valley-based Accel
+2856,Wellington
+2857,Tiger Global
+2858,Indian Angel Network and other angel investors
+2858,Innov8 founder Ritesh Malik
+2858,Josh Talks founders Supriya Paul
+2858,Shobha Banga
+2858,and former Hero Corporate president Rohit Chanana
+2859,Tata Sons
+2860,C4D Partners
+2861,Sachin Bansal
+2862,Equanimity Ventures
+2863,Korea Investment Partners
+2863,Vertex Ventures
+2864,Sixth Sense Ventures
+2865,Blume Ventures
+2865,RTP Global
+2866,Matrix Partners
+2867,Accel
+2867,Goldman Sachs
+2867,Qualcomm
+2868,Insight Partners
+2869,Anicut Capital
+2870,Mumbai Angels
+2871,Pidilite Industries director Ajay Parekh
+2871,Triton Investment Advisors
+2872,General Atlantic
+2873,WestBridge Capital
+2874,IAN Fund
+2875,Qiming Venture Partners
+2876,Alpha Mundi
+2876,CoCapital
+2876,DILA CAPITAL
+2876,EDFIMC (ElectriFI)
+2876,EcoEnterprise Fund
+2876,Endeavor Catalyst Fund
+2876,Engie RDE Fund
+2876,Lendahand
+2876,Shell Foundation
+2876,Triodos
+2877,Alteria Capital
+2878,Nexus Venture Partners
+2879,Tiger Global
+2880,March Capital Partners
+2881,Kapil Dev
+2882,WaterBridge Ventures
+2883,IIFL Wealth
+2883,Lok Capital
+2884,DIG Investment Ab
+2884,Deshe Holdings
+2884,Hussam Khoury
+2884,Samih Toukan
+2885,Artha Venture
+2886,Multiple Angel Investors
+2887,Binny Bansal
+2888,Qatar Investment Authority
+2889,Blume Ventures
+2890,Ventureast
+2891,Composite Capital Management
+2891,Sequoia Capital
+2891,Tiger Global
+2892,Azim Premji
+2892,Binny Bansal
+2893,SC GG India Mobility Holdings LLC
+2894,Pine Labs Pte Ltd
+2895,Sequoia Capital
+2896,Naspers
+2897,MS Dhoni
+2898,March Capital Partners
+2899,Softbank Vision Fund
+2900,Vir Sanghvi
+2901,One97 Communications Ltd
+2902,Tiger Global
+2903,Growth DNA
+2904,BookMyShow)
+2904,FreshMenu)
+2904,Mitesh Shah (finance chief
+2904,Myntra)
+2904,Rashmi Daga (founder
+2904,Raveen Sastry (co-founder
+2905,RPS Ventures
+2906,XL Innovate
+2907,Westbridge Capital
+2908,Axilor Ventures
+2908,India Quotient
+2909,Exfinity Venture Partners
+2910,Breakthrough Energy Ventures
+2911,A91 Partners
+2912,SAIF Partners
+2913,TIW Private Equity
+2914,Bennett Coleman
+2914,Company Ltd (BCCL)
+2915,Endiya Partners
+2916,Matrix Partners India
+2916,Sequoia Capital
+2917,Altimeter Capital
+2917,DST Global
+2918,Lightbox
+2919,Ayushmann Khurana
+2920,Startup Buddy
+2921,Dream Incubator
+2922,Accel
+2922,CapitalG
+2922,Sequoia
+2923,GlobalLogic co-founder Rajul Garg
+2923,LetsVenture
+2923,PS1 Venture
+2923,Prime Venture Partners
+2924,Rainforest Ventures
+2924,Sauce.vc
+2925,Trifecta Capital Advisors
+2926,Kalaari Capital
+2926,Matrix Partners
+2926,Stellaris Venture Partners
+2927,RB Investments
+2928,DG Daiwa Ventures
+2928,DG Incubation
+2929,Ackermans & van Haaren
+2929,HealthQuad
+2929,Rebright Partners
+2929,Toppan Printing
+2930,Amour Infrastructure
+2931,DSG Consumer Partners
+2931,IAN Fund
+2932,FinTech
+2933,Altimeter Capital
+2933,Sutter Hill Ventures
+2934,Vijay Shekhar Sharma
+2935,Mumbai Angels
+2935,Ravikanth Reddy
+2936,Ping An Global Voyager Fund
+2937,Manipal Education
+2937,Medical Group (MEMG)
+2938,Sathguru Catalyzer Advisors
+2939,SAIF Partners
+2939,Spring Canter Investment Ltd
+2940,Ruizheng Investment
+2941,Vertex Growth Fund
+2942,NPTK
+2942,Neoplux
+2942,Paytm
+2942,Sabre Partners
+2943,SoftBank Vision Fund
+2944,Prosus Ventures
+2945,Sprout Venture Partners
+2946,LCatterton
+2947,Vinod Khatumal
+2948,LCatterton
+2948,SoftBank Vision Fund
+2948,Tiger Global
+2949,Tiger Global
+2950,Sequoia Capital
+2951,IFC
+2951,Lightspeed India
+2951,Ventures India
+2952,Ant Financial
+2953,Chiratae Ventures
+2954,Susquehanna Growth Equity
+2955,Sequoia Capital
+2956,Lightspeed India
+2957,Info Edge (India)
+2957,Ribbit Capital
+2958,Kalaari Capital
+2959,Falcon Edge
+2959,IFC
+2959,Ventures India
+2960,Frontline Strategy Funds
+2960,SucSEED Venture Partners
+2961,BAce Capital
+2962,Kalaari Capital
+2962,Lightspeed India
+2963,Tencent Holdings
+2964,Peak XV Partners
+2965,Sequoia Capital
+2966,Bill
+2966,Melinda Gates Foundation
+2967,Reliance Industries Limited (RIL)
+2968,GrowX Ventures
+2969,Falcon Edge
+2969,Prosus Ventures
+2970,Falcon Edge
+2970,Kedaara Capital
+2971,Avaana Capital
+2971,Titan Capital
+2972,Incubate Fund India
+2972,Insitor Impact Asia Fund
+2973,Fosun RZ Capital
+2973,PayU
+2974,A91 Partners
+2974,IFC
+2974,Kedaara Capital
+2975,Softbank Vision Fund
+2976,Pidilite Industries
+2977,Innoven Capital
+2977,Integrated Capital
+2977,Neeraj Arora
+2977,SAIF Partners
+2977,Think Investment
+2977,Tiger Global
+2978,Eight Roads Ventures
+2979,Zodius Capital
+2980,Tarun Bhalla
+2981,Accel
+2982,Lightspeed India
+2983,Omidyar Network
+2983,Prosus Ventures
+2984,Al Falaj Investment Co
+2984,IAN Fund
+2985,Mirae Asset
+2985,Nexus Venture Partners
+2986,Matrix Partners India
+2986,SoftBank Vision Fund
+2987,Facebook
+2987,General Atlantic
+2987,Sequoia Capital
+2988,A91 Partners
+2989,Lightspeed India
+2990,Y Combinator
+2991,Y Combinator
+2992,IFC
+2993,Bessemer Venture Partners
+2994,Mirae Asset
+2995,Aavishkaar Capital
+2996,Angel Networks
+2997,A91 Emerging Fund
+2997,Advent Management
+2997,Trifecta Venture
+2998,Zodius Capital
+2999,Kedaara Capital
+2999,Omidyar Network
+3000,GFC (Global Founders Capital)
+3000,Sequoia Capital
+3000,Venture Highway
+3000,Y Combinator
+3001,Ajinkya Rahane
+3002,Lodha Ventures
+3003,Pawan Munjal Family Trust
+3004,Vdiec Global
+3005,Ribbit Capital
+3005,Tiger Global
+3006,Falcon Edge
+3006,Kalaari Capital
+3007,Lightspeed India
+3007,Y Combinator
+3008,Omidyar Network
+3008,Tiger Global
+3008,Y Combinator
+3009,Mirae Asset
+3009,Y Combinator
+3010,Lightspeed India
+3011,Elevation Capital
+3011,Prosus Ventures
+3012,A91 Partners
+3013,Lightspeed India
+3014,Zodius Capital
+3015,A91 Partners
+3016,Elevation Capital
+3016,Kalaari Capital
+3016,Lightspeed India
+3017,Steadview Capital
+3018,Sequoia Capital
+3019,Lightspeed India
+3020,SoftBank Vision Fund
+3020,Tiger Global
+3021,India
+3021,Prime Venture Partners
+3021,Vertex Ventures Southeast Asia
+3022,Falcon Edge
+3023,Prosus Ventures
+3024,Ark Impact
+3024,Korea Investment Partners
+3024,Mirae Asset Capital Markets
+3024,Samsung Ventures
+3024,Tencent
+3025,AgFunder
+3025,FMO
+3025,Omnivore
+3025,Sequoia Capital
+3026,Accel
+3026,RB Investments
+3026,Swiggy
+3026,Zephyr Peacock
+3027,Falcon Edge Capital
+3027,Matrix Partners India
+3027,Orios Venture Partners
+3027,Smile Group
+3027,WestCap Group
+3028,Peak XV Partners
+3028,Zodius Capital
+3029,Legend Capital
+3030,Kedaara Capital
+3031,Mirae Asset
+3032,Blume Ventures
+3032,Mirae Asset
+3033,Alibaba Group
+3034,Ribbit Capital
+3034,Tiger Global
+3034,Zodius Capital
+3035,Accel
+3035,Lightspeed India
+3035,Ribbit Capital
+3036,Bessemer Venture Partners
+3036,Blume Ventures
+3037,Elevation Capital
+3037,Omidyar Network
+3037,Prosus Ventures
+3038,Nexus Venture Partners
+3038,Peak XV Partners
+3039,Falcon Edge
+3040,Falcon Edge
+3041,Peak XV Partners
+3041,Tiger Global
+3041,Y Combinator
+3042,SoftBank Vision Fund
+3043,Info Edge (India)
+3044,Matrix Partners India
+3044,Tiger Global
+3045,SoftBank Vision Fund
+3046,Blume Ventures
+3046,Matrix Partners India
+3046,Ventures India
+3047,Matrix Partners India
+3048,Falcon Edge
+3048,Ribbit Capital
+3049,SoftBank Vision Fund
+3050,Mirae Asset
+3050,SoftBank Vision Fund
+3050,Tiger Global
+3051,RTP Global
+3051,Sequoia Capital India's Surge
+3051,Spiral Ventures
+3051,Strive
+3051,lume Ventures
+3052,Kalaari Capital
+3052,Matrix Partners India
+3052,Tiger Global
+3053,Omidyar Network
+3053,Tiger Global
+3054,Bessemer Venture Partners
+3054,Elevation Capital
+3054,Info Edge (India)
+3055,Steadview Capital
+3056,Elevation Capital
+3057,Lightspeed Venture Partners
+3057,Srivatsan Rajan
+3057,The Bunting Family Private Fund
+3057,WaterBridge Venture
+3057,along with the participation of Moonstone Investments
+3058,Prosus Ventures
+3059,Elevation Capital
+3060,Kalaari Capital
+3061,Matrix Partners India
+3062,InnoVen Capital
+3063,Ribbit Capital
+3063,Tiger Global
+3064,Elevation Capital
+3065,Bertelsmann India Investments
+3065,Fullerton Financial Holdings Pte Ltd (FFH)
+3065,India Quotient
+3065,Sistema Asia Fund
+3066,IFC
+3066,Kalaari Capital
+3066,Peak XV Partners
+3067,Sujeet Kumar
+3067,Udaan co-founder
+3068,Y Combinator
+3069,Alexander Will
+3069,B Capital Group
+3069,Falcon Edge Capital
+3069,GGV
+3069,Hummingbird Ventures
+3069,Kevin Weil
+3069,Kunal Bahl
+3069,Kunal Shah
+3069,Partners of DST Global
+3069,RTP Global
+3069,Rocketship.vc
+3069,Rohit Bansal
+3069,Sequoia Capital
+3069,Tencent
+3069,Unilever Ventures
+3070,Ark Impact
+3070,Gaurav Munjal of Unacademy
+3070,Hemesh Singh of Unacademy
+3070,Keshav Sanghi of VentureWorks India
+3070,KoKalyan Krishnamurthy of Flipkart
+3070,Roman Saini of Unacademy
+3070,Sujeet Kumar of Udaan
+3070,Sumit Jain of Opentalk amongst
+3070,Tencent
+3071,Amrish Rau (CEO Pinelabs
+3071,Artha India Ventures
+3071,Co-Cubes)
+3071,Deepak Abbot (Former SVP
+3071,FirstCheque
+3071,Founder Citrus Pay)
+3071,Harpreet Singh Grover (Co-founder
+3071,Paytm)
+3071,Sweta Rau (Founder
+3071,White Ventures)
+3071,Whiteboard Capital (Sandeep Tandon's VC fund)
+3072,Amit Burman
+3072,Chairman of Dabur India
+3073,LCatterton
+3073,Prosus Ventures
+3073,Ribbit Capital
+3074,Kedaara Capital
+3074,Tiger Global
+3074,Ventures India
+3075,Kedaara Capital
+3075,Mirae Asset
+3075,Sequoia Capital
+3076,Peak XV Partners
+3076,Tiger Global
+3077,SoftBank Vision Fund
+3078,Omidyar Network
+3079,Y Combinator
+3080,Falcon Edge
+3080,Y Combinator
+3081,Info Edge (India)
+3081,Ribbit Capital
+3081,Tiger Global
+3082,Kedaara Capital
+3082,SoftBank Vision Fund
+3083,IFC
+3083,Ribbit Capital
+3084,Anand Mahindra
+3085,A91 Partners
+3085,Info Edge (India)
+3086,Indusland Bank
+3087,Kris Gopalakrishnan's family office — Pratithi
+3088,Stride Ventures
+3089,Matrix Partners India
+3090,Suniel Shetty
+3091,ArthaVida Ventures
+3091,Beyond Next Ventures
+3091,Dr. Aniruddha Malpani
+3092,A91 Partners
+3092,Sequoia Capital
+3093,Arkam Ventures
+3093,NABVENTURES Fund I
+3094,Zodius Capital
+3095,Naveen Kshatriya
+3095,Venture Catalysts
+3096,Stride Ventures
+3097,Sozo Ventures
+3098,Sequoia Capital
+3098,Ventures India
+3099,Matrix Partners India
+3100,Kedaara Capital
+3100,Ventures India
+3101,Blume Ventures
+3101,Mirae Asset
+3102,Y Combinator
+3103,Nexus Venture Partners
+3104,Kalaari Capital
+3104,LCatterton
+3104,Ribbit Capital
+3105,Lightspeed India
+3106,Peak XV Partners
+3107,SoftBank Vision Fund
+3108,Adar Poonawalla
+3108,Kris Gopalakrishnan
+3109,Beyond Next Ventures
+3109,Incubate Fund India
+3110,Sequoia Capital
+3111,Recruit Co. Ltd
+3112,Unicorn India Ventures
+3113,Info Edge (India)
+3113,Nexus Venture Partners
+3113,Tiger Global
+3114,Raj Mishra
+3114,founder of AIT Global Inc
+3115,Global Founders Capital
+3115,Matrix India
+3115,Soma Capital
+3115,VentureSouq
+3115,Y Combinator
+3116,Ribbit Capital
+3116,Sequoia Capital
+3117,Walmart Inc
+3118,Early Adapters Syndicate
+3119,021 Capital
+3120,Coatue Management
+3121,Lightspeed India
+3122,Elevation Capital
+3123,Ventures India
+3124,Accel
+3124,Info Edge (India)
+3125,Blume Ventures
+3126,Bessemer Venture Partners
+3126,Omidyar Network
+3126,Sequoia Capital
+3127,Falcon Edge
+3128,IFC
+3129,Ribbit Capital
+3130,Accel
+3130,Mirae Asset
+3131,Falcon Edge
+3132,Elevation Capital
+3132,IFC
+3132,Zodius Capital
+3133,IFC
+3133,Info Edge (India)
+3133,Kalaari Capital
+3134,Tiger Global
+3135,Kedaara Capital
+3135,Nexus Venture Partners
+3136,Elina Investments Pvt. Ltd
+3137,ON Mauritius
+3137,Sequoia Surge
+3138,Sequoia Capital
+3139,Info Edge (India)
+3140,Falcon Edge
+3140,Sequoia Capital
+3141,Lightspeed India
+3142,Elevation Capital
+3143,Ascent Capital
+3144,Elevation Capital
+3145,Nexus Venture Partners
+3146,Tiger Global
+3147,A91 Partners
+3148,Info Edge (India)
+3148,Prosus Ventures
+3149,Primrose Hills Ventures
+3150,BEENEXT Emerging Asia
+3150,Entrepreneurs (India)
+3150,Rainmatter Capital
+3150,Stanford Angels
+3151,Falcon Edge
+3152,Bessemer Venture Partners
+3152,Omidyar Network
+3153,Sequoia Capital
+3153,Unitus
+3154,One97
+3154,Pratithi Investment Trust
+3154,Sabre Partners Trust
+3154,Srihari Kumar
+3155,Prasid Uno Family Trust
+3155,SC Credit Fund
+3156,Falcon Edge
+3157,Niyo Solutions Inc
+3158,Blume Ventures
+3158,Info Edge (India)
+3159,A1A Company
+3160,Bessemer Venture Partners
+3161,Blume Ventures
+3162,Mirae Asset
+3163,Lightspeed India
+3163,Sequoia Capital
+3164,Caretech Pte Inc
+3165,IndigoEdge Management Consultancy
+3165,Kalaari Capital Partners
+3166,Falcon Edge
+3166,Sequoia Capital
+3166,SoftBank Vision Fund
+3167,Chiratae Ventures
+3168,Lightspeed India
+3168,Zodius Capital
+3169,Kalaari Capital
+3170,IFC
+3171,Gaja Capital
+3171,Partners Group
+3171,Tata Capital
+3172,Lightbox
+3172,Shadow Holdings
+3173,General Atlantic
+3173,Owl Ventures
+3173,Silver Lake
+3173,Tiger Global
+3174,Micelio
+3174,growX Ventures
+3175,Alpha Wave Incubation
+3175,Exfinity Venture Partners
+3176,Rainmatter Capital
+3177,Ventures India
+3177,Y Combinator
+3178,Omidyar Network
+3178,Sequoia Capital
+3178,Y Combinator
+3179,Amicus Capital Partners India Fund I
+3179,Amicus Capital Private Equity I LLP
+3179,RP-SG Venture Fund 1
+3180,Falcon Edge
+3180,Mirae Asset
+3180,Y Combinator
+3181,Peak XV Partners
+3182,Accel
+3182,Lightspeed India
+3183,Prosus Ventures
+3183,Zodius Capital
+3184,Mirae Asset
+3185,SoftBank Vision Fund
+3186,A91 Partners
+3186,IFC
+3187,IFC
+3187,Y Combinator
+3188,LCatterton
+3188,Omidyar Network
+3188,Sequoia Capital
+3189,Mirae Asset
+3190,Info Edge (India)
+3191,Ribbit Capital
+3191,Ventures India
+3192,A91 Partners
+3192,Kalaari Capital
+3192,SoftBank Vision Fund
+3193,Falcon Edge
+3193,Kedaara Capital
+3193,Tiger Global
+3194,A91 Partners
+3194,Blume Ventures
+3195,Bertelsmann India
+3195,Matrix Partners India
+3195,SAIF Partners
+3195,Ward Ferry Management
+3196,Nexus Venture Partners
+3197,A91 Partners
+3197,Bessemer Venture Partners
+3197,Blume Ventures
+3198,Info Edge (India)
+3198,Prosus Ventures
+3199,Lightspeed India
+3199,Tencent
+3199,Times Group
+3200,IFC
+3200,Tiger Global
+3201,IFC
+3201,Sequoia Capital
+3202,Bessemer Venture Partners
+3202,Kedaara Capital
+3202,Prosus Ventures
+3203,Peak XV Partners
+3203,Y Combinator
+3204,Lightspeed Venture Partners
+3205,Lightspeed India
+3206,Ascent Capital
+3206,Corporation of Dubai (ICD)
+3206,DFC
+3206,the Allana Group
+3207,Chiratae Ventures
+3207,Dream Incubators
+3208,Kalaari Capital
+3208,LCatterton
+3208,Ribbit Capital
+3209,Northern Arc Capital
+3210,Sequoia Capital
+3211,Jungle Ventures
+3212,Oaks Asset Management
+3212,V'Ocean Investment
+3213,Falguni
+3213,Sanjay Nayar Family Office
+3214,Alia Bhatt
+3215,Kedaara Capital
+3215,Nexus Venture Partners
+3216,Lightspeed India
+3216,Nexus Venture Partners
+3217,Kalaari Capital
+3218,Tiger Global
+3219,Prosus Ventures
+3220,Kalaari Capital
+3220,Ventures India
+3221,Blume Ventures
+3222,Bessemer Venture Partners
+3223,Tiger Global
+3224,Elevation Capital
+3225,Bertelsmann India
+3225,Matrix Partners India
+3225,SAIF Partners
+3225,Ward Ferry Management
+3226,Lightspeed India
+3226,Mirae Asset
+3226,Prosus Ventures
+3227,Lightbox Ventures
+3228,Info Edge (India)
+3228,Sequoia Capital India's Surge
+3229,Dragoneer Investment Group
+3229,Tiger Global
+3230,Elevation Capital
+3230,Kedaara Capital
+3230,Prosus Ventures
+3231,Gaja Capital Fund (GCFII-A)
+3232,Neoplux
+3232,Sequoia Capital
+3232,Sixth Sense Ventures
+3232,Sofina
+3233,GSF Accelerator
+3233,Java Capital
+3233,Rebright Partners
+3234,DST Global
+3235,Accel
+3235,DMI Finance
+3235,Venture Capital firm
+3236,Ventures India
+3237,LCatterton
+3237,Mirae Asset
+3237,Nexus Venture Partners
+3238,Blume Ventures
+3238,Matrix Partners India
+3239,LCatterton
+3240,Kedaara Capital
+3240,Peak XV Partners
+3241,Lightspeed India
+3241,Nexus Venture Partners
+3241,Y Combinator
+3242,A91 Partners
+3242,Bessemer Venture Partners
+3243,Kalaari Capital
+3244,Falcon Edge
+3245,Accel
+3245,Blume Ventures
+3245,IFC
+3246,Elevation Capital
+3247,Nishant Mittal
+3247,Pankaj Chaddah
+3247,Shikha Sunil Chandak
+3248,Steadview Capital
+3249,Advent International
+3250,Sequoia Capital
+3251,LCatterton
+3251,SoftBank Vision Fund
+3252,Lone Pine Capital
+3253,LCatterton
+3254,Zenith Global
+3255,Y Combinator
+3256,Y Combinator
+3257,LCatterton
+3258,LCatterton
+3258,Omidyar Network
+3259,A91 Partners
+3260,Info Edge (India)
+3260,Ventures India
+3261,Ventures India
+3262,SoftBank Vision Fund
+3263,Y Combinator
+3264,Kalaari Capital
+3264,Tiger Global
+3265,Ventures India
+3266,Kedaara Capital
+3267,SIDBI Venture Capital
+3268,Matrix Partners India
+3268,RTP Global
+3269,A91 Partners
+3269,Faering Capital
+3269,TVS Capital Funds
+3270,Heritas Capital Management
+3271,Zodius Capital
+3272,Sequoia Capital
+3273,Salesforce Ventures
+3274,Prosus Ventures
+3275,Blume Ventures
+3275,Y Combinator
+3276,Tiger Global
+3277,Falcon Edge
+3277,IFC
+3278,Y Combinator
+3279,Elevation Capital
+3280,Reckitt Benckiser
+3281,Elevation Capital
+3282,Bessemer Venture Partners
+3283,Prosus Ventures
+3284,Bessemer Venture Partners
+3284,Falcon Edge
+3285,Falcon Edge
+3285,Tiger Global
+3286,SoftBank Vision Fund
+3287,Info Edge (India)
+3287,LCatterton
+3287,Nexus Venture Partners
+3288,GV
+3289,Owl Ventures
+3290,Sequoia Capital
+3291,ON Mauritius
+3291,SIG Global
+3291,Sequoia Capital
+3291,WaterBridge Ventures
+3292,SoftBank Vision Fund (SVF)
+3293,Ribbit Capital
+3294,InnoVen Capital
+3295,Zodius Capital
+3296,Azim Premji's PremjiInvest
+3296,South Korea's Mirae Asset Venture
+3297,Accel
+3297,Lightspeed Venture Partners
+3298,Accel
+3298,Rhodium Trust
+3298,Swiggy
+3299,Omidyar Network
+3299,Peak XV Partners
+3299,Sequoia Capital
+3300,Kora
+3300,Tiger Global
+3301,Accel
+3301,Bessemer Venture Partners
+3301,Kalaari Capital
+3302,Accel
+3302,Falcon Edge
+3302,Omidyar Network
+3303,Ventures India
+3304,IFC
+3304,Zodius Capital
+3305,Lightspeed India
+3305,Zodius Capital
+3306,Kalaari Capital
+3307,Accel
+3307,LCatterton
+3307,Mirae Asset
+3308,Innoven Capital
+3309,Bessemer Venture Partners
+3309,Zodius Capital
+3310,Kedaara Capital
+3311,Bessemer Venture Partners
+3312,Info Edge (India)
+3313,Ventures India
+3314,Mirae Asset
+3315,Nexus Venture Partners
+3315,Peak XV Partners
+3316,Zodius Capital
+3317,Nexus Venture Partners
+3317,Y Combinator
+3318,Mirae Asset
+3319,Accel
+3319,Mirae Asset
+3319,SoftBank Vision Fund
+3320,Falcon Edge
+3320,Tiger Global
+3321,Titan Capital
+3322,Bessemer Venture Partners
+3323,Accel
+3324,LCatterton
+3324,SoftBank Vision Fund
+3325,PayU
+3326,Lightspeed India
+3326,Zodius Capital
+3327,Bessemer Venture Partners
+3327,Tiger Global
+3328,Elevation Capital
+3328,Prosus Ventures
+3329,B Capital
+3329,Baron
+3329,MC Global Edtech
+3330,Elevation Capital
+3330,Kalaari Capital
+3331,Krishtal Advisors Pte Ltd
+3332,IFC
+3333,Sorenson Capital Partners
+3334,Innoven Capital
+3335,Nexus Venture Partners
+3336,Omidyar Network
+3337,Matrix Partners India
+3337,SoftBank Vision Fund
+3338,SoftBank Vision Fund 2
+3339,Peak XV Partners
+3340,Kedaara Capital
+3340,Tiger Global
+3341,B Capital
+3341,Baron
+3341,MC Global Edtech
+3342,Accel
+3342,Tiger Global
+3343,Hindustan Media Ventures
+3344,Amansa Holdings
+3344,Carmignac
+3344,Falcon Edge Capital
+3344,Goldman Sachs
+3344,Think Investments
+3345,Falcon Edge
+3345,Tiger Global
+3346,Blume Ventures
+3346,Sequoia Capital
+3347,Sequoia Capital
+3348,IFC
+3348,Sequoia Capital
+3349,Mirae Asset
+3349,Ventures India
+3350,Elevation Capital
+3350,Kalaari Capital
+3351,Blume Ventures
+3351,Falcon Edge
+3352,Tiger Global
+3353,Kalaari Capital
+3353,LCatterton
+3354,Mirae Asset
+3354,Tiger Global
+3355,LCatterton
+3355,Ventures India
+3356,IFC
+3356,Peak XV Partners
+3357,IFC
+3357,Lightspeed India
+3357,Prosus Ventures
+3358,Falcon Edge
+3358,Tiger Global
+3359,LCatterton
+3359,Prosus Ventures
+3360,Matrix Partners India
+3361,Kedaara Capital
+3362,Accel
+3362,Bessemer Venture Partners
+3362,IFC
+3363,Nexus Venture Partners
+3363,Zodius Capital
+3364,Mirae Asset
+3365,Y Combinator
+3366,Nexus Venture Partners
+3367,Accel
+3367,Tiger Global
+3368,Falcon Edge
+3369,Matrix Partners India
+3369,Sequoia Capital
+3370,Accel
+3371,Prosus Ventures
+3371,Tiger Global
+3371,Zodius Capital
+3372,Elevation Capital
+3373,A91 Partners
+3374,Sequoia Capital
+3375,Kalaari Capital
+3376,Ribbit Capital
+3377,Kalaari Capital
+3378,Kalaari Capital
+3378,Tiger Global
+3378,Y Combinator
+3379,Tiger Global
+3380,Info Edge (India)
+3381,Elevation Capital
+3382,LCatterton
+3382,Zodius Capital
+3383,Matrix Partners India
+3384,Prosus Ventures
+3384,Tiger Global
+3385,Tiger Global
+3385,Ventures India
+3386,Kedaara Capital
+3386,Lightspeed India
+3386,Ventures India
+3387,Nexus Venture Partners
+3388,IFC
+3388,Prosus Ventures
+3389,Accel
+3389,IFC
+3390,Kedaara Capital
+3390,Tiger Global
+3391,LCatterton
+3391,Ventures India
+3391,Y Combinator
+3392,Sequoia Capital
+3393,Peak XV Partners
+3393,Tiger Global
+3394,Tiger Global
+3395,Matrix Partners India
+3395,Peak XV Partners
+3396,Y Combinator
+3396,Zodius Capital
+3397,Nexus Venture Partners
+3398,A91 Partners
+3398,Kedaara Capital
+3398,LCatterton
+3399,Kalaari Capital
+3400,Omidyar Network
+3400,SoftBank Vision Fund
+3401,Mirae Asset
+3401,Prosus Ventures
+3402,Prosus Ventures
+3402,Ribbit Capital
+3403,Nexus Venture Partners
+3403,Ribbit Capital
+3404,Info Edge (India)
+3405,Elevation Capital
+3406,Kalaari Capital
+3407,Sequoia Capital
+3408,Elevation Capital
+3408,Matrix Partners India
+3408,Ribbit Capital
+3409,Info Edge (India)
+3409,Ribbit Capital
+3410,Kalaari Capital
+3410,Kedaara Capital
+3411,Y Combinator
+3412,Lightspeed India
+3412,Nexus Venture Partners
+3413,Kalaari Capital
+3413,Ribbit Capital
+3414,LCatterton
+3415,Falcon Edge
+3416,A91 Partners
+3417,Bessemer Venture Partners
+3417,Y Combinator
+3418,A91 Partners
+3418,Bessemer Venture Partners
+3419,A91 Partners
+3419,Sequoia Capital
+3420,Mirae Asset
+3420,Tiger Global
+3421,Tiger Global
+3422,Kalaari Capital
+3422,Nexus Venture Partners
+3422,Peak XV Partners
+3423,Matrix Partners India
+3424,Omidyar Network
+3424,Ribbit Capital
+3425,Prosus Ventures
+3425,Zodius Capital
+3426,Zodius Capital
+3427,A91 Partners
+3427,Kalaari Capital
+3427,Ventures India
+3428,Kalaari Capital
+3429,Info Edge (India)
+3430,Kalaari Capital
+3431,Nexus Venture Partners
+3431,Prosus Ventures
+3432,A91 Partners
+3432,Y Combinator
+3433,Peak XV Partners
+3434,Accel
+3434,Nexus Venture Partners
+3435,Tiger Global
+3436,Kalaari Capital
+3436,Zodius Capital
+3437,Info Edge (India)
+3437,Sequoia Capital
+3438,A91 Partners
+3438,Matrix Partners India
+3439,Y Combinator
+3440,IFC
+3440,Omidyar Network
+3441,IFC
+3441,Mirae Asset
+3442,Info Edge (India)
+3443,A91 Partners
+3443,Kedaara Capital
+3444,Info Edge (India)
+3445,Elevation Capital
+3445,Kedaara Capital
+3446,Accel
+3446,Info Edge (India)
+3446,Y Combinator
+3447,Mirae Asset
+3447,Nexus Venture Partners
+3447,Prosus Ventures
+3448,Mirae Asset
+3448,Tiger Global
+3449,A91 Partners
+3449,SoftBank Vision Fund
+3450,Matrix Partners India
+3451,Matrix Partners India
+3452,Accel
+3453,IFC
+3454,Nexus Venture Partners
+3455,A91 Partners
+3456,Info Edge (India)
+3456,Y Combinator
+3457,LCatterton
+3457,Tiger Global
+3458,Peak XV Partners
+3458,Ventures India
+3459,Zodius Capital
+3460,Kedaara Capital
+3460,Prosus Ventures
+3460,Ribbit Capital
+3461,A91 Partners
+3461,Peak XV Partners
+3462,Bessemer Venture Partners
+3462,Prosus Ventures
+3463,Bessemer Venture Partners
+3463,LCatterton
+3464,Falcon Edge
+3464,Mirae Asset
+3465,Ribbit Capital
+3466,Omidyar Network
+3466,Ribbit Capital
+3466,Ventures India
+3467,Ribbit Capital
+3467,SoftBank Vision Fund
+3468,Y Combinator
+3468,Zodius Capital
+3469,Falcon Edge
+3469,Kalaari Capital
+3469,Omidyar Network
+3470,Omidyar Network
+3471,LCatterton
+3471,Mirae Asset
+3471,Nexus Venture Partners
+3472,Accel
+3472,Kedaara Capital
+3473,Accel
+3473,Info Edge (India)
+3473,Prosus Ventures
+3474,Peak XV Partners
+3475,Nexus Venture Partners
+3476,Nexus Venture Partners
+3476,Peak XV Partners
+3476,Prosus Ventures
+3477,Elevation Capital
+3477,Prosus Ventures
+3478,Blume Ventures
+3479,IFC
+3479,Ribbit Capital
+3479,Sequoia Capital
+3480,Sequoia Capital
+3481,Elevation Capital
+3481,Falcon Edge
+3482,Info Edge (India)
+3483,A91 Partners
+3483,SoftBank Vision Fund
+3484,Accel
+3484,Kalaari Capital
+3484,Peak XV Partners
+3485,Accel
+3485,LCatterton
+3485,Mirae Asset
+3486,Info Edge (India)
+3486,Peak XV Partners
+3486,SoftBank Vision Fund
+3487,Info Edge (India)
+3487,Sequoia Capital
+3488,Info Edge (India)
+3489,Tiger Global
+3489,Y Combinator
+3490,Matrix Partners India
+3491,Zodius Capital
+3492,Accel
+3492,Tiger Global
+3493,Elevation Capital
+3493,Ribbit Capital
+3494,Info Edge (India)
+3494,SoftBank Vision Fund
+3495,Ribbit Capital
+3496,Bessemer Venture Partners
+3496,Nexus Venture Partners
+3497,Kalaari Capital
+3497,Lightspeed India
+3498,A91 Partners
+3498,Tiger Global
+3498,Y Combinator
+3499,Falcon Edge
+3500,Accel
+3501,Blume Ventures
+3501,Ventures India
+3502,Elevation Capital
+3502,SoftBank Vision Fund
+3503,Mirae Asset
+3503,Prosus Ventures
+3504,Accel
+3504,Prosus Ventures
+3504,SoftBank Vision Fund
+3505,Elevation Capital
+3505,Ventures India
+3506,Kedaara Capital
+3506,SoftBank Vision Fund
+3507,Kalaari Capital
+3507,Ribbit Capital
+3508,Prosus Ventures
+3509,Tiger Global
+3510,Info Edge (India)
+3510,Kalaari Capital
+3510,SoftBank Vision Fund
+3511,Tiger Global
+3512,Mirae Asset
+3512,Omidyar Network
+3512,Tiger Global
+3513,Omidyar Network
+3514,A91 Partners
+3514,Matrix Partners India
+3515,Peak XV Partners
+3516,A91 Partners
+3516,Peak XV Partners
+3517,Nexus Venture Partners
+3517,Y Combinator
+3518,IFC
+3518,Matrix Partners India
+3518,Zodius Capital
+3519,Peak XV Partners
+3520,Ribbit Capital
+3520,SoftBank Vision Fund
+3521,LCatterton
+3522,IFC
+3523,A91 Partners
+3523,Falcon Edge
+3523,Tiger Global
+3524,Zodius Capital
+3525,Tiger Global
+3525,Y Combinator
+3526,Kedaara Capital
+3526,LCatterton
+3527,Nexus Venture Partners
+3527,Y Combinator
+3528,Blume Ventures
+3528,Ribbit Capital
+3529,A91 Partners
+3530,Zodius Capital
+3531,IFC
+3531,Ventures India
+3532,SoftBank Vision Fund
+3533,Kalaari Capital
+3534,Sequoia Capital
+3534,Ventures India
+3535,Sequoia Capital
+3536,Accel
+3536,Tiger Global
+3537,Omidyar Network
+3538,Info Edge (India)
+3538,Omidyar Network
+3539,Falcon Edge
+3540,Kalaari Capital
+3541,Mirae Asset
+3541,Ventures India
+3542,Accel
+3542,Sequoia Capital
+3542,Ventures India
+3543,Ventures India
+3544,Prosus Ventures
+3544,Ventures India
+3545,Ventures India
+3546,IFC
+3547,Falcon Edge
+3547,SoftBank Vision Fund
+3547,Y Combinator
+3548,A91 Partners
+3549,Ribbit Capital
+3550,Ribbit Capital
+3551,LCatterton
+3552,Bessemer Venture Partners
+3553,Prosus Ventures
+3554,Tiger Global
+3555,Nexus Venture Partners
+3555,SoftBank Vision Fund
+3555,Tiger Global
+3556,Omidyar Network
+3557,Kalaari Capital
+3557,Prosus Ventures
+3557,Sequoia Capital
+3558,Info Edge (India)
+3558,SoftBank Vision Fund
+3558,Tiger Global
+3559,Nexus Venture Partners
+3559,Peak XV Partners
+3560,Kedaara Capital
+3561,Blume Ventures
+3561,Peak XV Partners
+3561,Ribbit Capital
+3562,Peak XV Partners
+3563,Elevation Capital
+3563,Kedaara Capital
+3563,SoftBank Vision Fund
+3564,Sequoia Capital
+3564,Ventures India
+3565,Lightspeed India
+3566,Ribbit Capital
+3567,Omidyar Network
+3568,Y Combinator
+3569,Tiger Global
+3570,Omidyar Network
+3571,Lightspeed India
+3571,Matrix Partners India
+3571,Mirae Asset
+3572,IFC
+3573,Elevation Capital
+3573,Nexus Venture Partners
+3574,A91 Partners
+3574,Mirae Asset
+3575,Sequoia Capital
+3576,Sequoia Capital
+3577,IFC
+3577,Lightspeed India
+3577,Mirae Asset
+3578,A91 Partners
+3578,Lightspeed India
+3579,Zodius Capital
+3580,Ribbit Capital
+3581,Blume Ventures
+3581,IFC
+3582,Prosus Ventures
+3582,Y Combinator
+3583,Zodius Capital
+3584,Info Edge (India)
+3585,Prosus Ventures
+3585,Tiger Global
+3585,Y Combinator
+3586,Blume Ventures
+3586,IFC
+3586,Prosus Ventures
+3587,Bessemer Venture Partners
+3588,IFC
+3589,Accel
+3589,Info Edge (India)
+3590,Kalaari Capital
+3590,Mirae Asset
+3591,A91 Partners
+3591,Falcon Edge
+3591,SoftBank Vision Fund
+3592,Matrix Partners India
+3592,Omidyar Network
+3592,Y Combinator
+3593,Info Edge (India)
+3593,Lightspeed India
+3594,Blume Ventures
+3595,LCatterton
+3595,Omidyar Network
+3596,IFC
+3597,Falcon Edge
+3597,Sequoia Capital
+3597,Ventures India
+3598,Accel
+3598,Tiger Global
+3598,Y Combinator
+3599,Nexus Venture Partners
+3600,IFC
+3601,Omidyar Network
+3601,Y Combinator
+3602,Blume Ventures
+3603,LCatterton
+3603,Tiger Global
+3603,Y Combinator
+3604,Peak XV Partners
+3605,Accel
+3605,Info Edge (India)
+3606,SoftBank Vision Fund
+3607,IFC
+3608,Lightspeed India
+3608,Omidyar Network
+3609,Elevation Capital
+3609,Kedaara Capital
+3609,Nexus Venture Partners
+3610,Falcon Edge
+3610,Info Edge (India)
+3610,Tiger Global
+3611,Bessemer Venture Partners
+3612,Y Combinator
+3613,Accel
+3613,Ribbit Capital
+3614,Tiger Global
+3615,LCatterton
+3616,Lightspeed India
+3616,Ribbit Capital
+3617,Info Edge (India)
+3618,Accel
+3619,LCatterton
+3619,Ventures India
+3620,Accel
+3620,Info Edge (India)
+3620,Prosus Ventures
+3621,IFC
+3621,Mirae Asset
+3622,Prosus Ventures
+3623,Elevation Capital
+3624,Peak XV Partners
+3625,Accel
+3626,Ribbit Capital
+3627,Accel
+3627,Kalaari Capital
+3627,Ribbit Capital
+3628,A91 Partners
+3628,Sequoia Capital
+3629,Blume Ventures
+3630,Bessemer Venture Partners
+3631,Accel
+3631,Mirae Asset
+3632,A91 Partners
+3632,Kedaara Capital
+3633,Matrix Partners India
+3634,Omidyar Network
+3634,SoftBank Vision Fund
+3634,Y Combinator
+3635,Falcon Edge
+3635,Kedaara Capital
+3636,Zodius Capital
+3637,SoftBank Vision Fund
+3638,IFC
+3638,Sequoia Capital
+3639,Ribbit Capital
+3639,Ventures India
+3640,Nexus Venture Partners
+3641,Tiger Global
+3642,Ventures India
+3643,IFC
+3644,A91 Partners
+3644,Falcon Edge
+3644,Omidyar Network
+3645,Tiger Global
+3646,Falcon Edge
+3647,IFC
+3648,Blume Ventures
+3648,Elevation Capital
+3648,Nexus Venture Partners
+3649,Kedaara Capital
+3649,LCatterton
+3649,Tiger Global
+3650,Accel
+3651,SoftBank Vision Fund
+3652,LCatterton
+3653,Kedaara Capital
+3653,Y Combinator
+3654,Elevation Capital
+3654,IFC
+3654,Zodius Capital
+3655,Matrix Partners India
+3655,Zodius Capital
+3656,Elevation Capital
+3656,Ribbit Capital
+3657,Peak XV Partners
+3657,Zodius Capital
+3658,Sequoia Capital
+3659,Accel
+3659,Elevation Capital
+3660,Mirae Asset
+3660,Peak XV Partners
+3661,LCatterton
+3662,Zodius Capital
+3663,Accel
+3663,Mirae Asset
+3663,Ribbit Capital
+3664,Kalaari Capital
+3665,Bessemer Venture Partners
+3665,Lightspeed India
+3666,Info Edge (India)
+3667,Prosus Ventures
+3668,Tiger Global
+3669,Elevation Capital
+3670,Accel
+3670,Kalaari Capital
+3670,Ventures India
+3671,Elevation Capital
+3671,Ribbit Capital
+3672,Kalaari Capital
+3673,Bessemer Venture Partners
+3674,LCatterton
+3675,Ventures India
+3676,Tiger Global
+3677,Lightspeed India
+3678,Nexus Venture Partners
+3679,Nexus Venture Partners
+3679,Peak XV Partners
+3680,A91 Partners
+3681,Matrix Partners India
+3681,Sequoia Capital
+3682,LCatterton
+3682,Mirae Asset
+3683,Mirae Asset
+3684,Elevation Capital
+3685,Prosus Ventures
+3685,SoftBank Vision Fund
+3686,Peak XV Partners
+3687,Elevation Capital
+3688,Elevation Capital
+3689,Prosus Ventures
+3690,Kalaari Capital
+3690,Lightspeed India
+3691,Sequoia Capital
+3691,Zodius Capital
+3692,Kedaara Capital
+3692,Ventures India
+3693,Omidyar Network
+3694,Tiger Global
+3695,Prosus Ventures
+3695,SoftBank Vision Fund
+3696,Mirae Asset
+3696,Tiger Global
+3697,Tiger Global
+3697,Y Combinator
+3698,Accel
+3699,Accel
+3699,Tiger Global
+3700,Falcon Edge
+3701,Omidyar Network
+3702,Elevation Capital
+3702,SoftBank Vision Fund
+3703,Blume Ventures
+3703,IFC
+3703,Nexus Venture Partners
+3704,Matrix Partners India
+3705,Sequoia Capital
+3706,LCatterton
+3706,Matrix Partners India
+3706,Ribbit Capital
+3707,Info Edge (India)
+3708,Peak XV Partners
+3708,Zodius Capital
+3709,Info Edge (India)
+3710,Accel
+3711,Prosus Ventures
+3711,SoftBank Vision Fund
+3712,Blume Ventures
+3712,Prosus Ventures
+3713,Blume Ventures
+3713,Sequoia Capital
+3714,IFC
+3714,Tiger Global
+3715,Tiger Global
+3716,Mirae Asset
+3717,Zodius Capital
+3718,Matrix Partners India
+3719,Info Edge (India)
+3720,Kedaara Capital
+3721,Accel
+3722,A91 Partners
+3723,Falcon Edge
+3723,Kedaara Capital
+3724,Info Edge (India)
+3724,Kalaari Capital
+3724,Matrix Partners India
+3725,Elevation Capital
+3726,Omidyar Network
+3727,LCatterton
+3728,Blume Ventures
+3729,Matrix Partners India
+3730,Falcon Edge
+3730,Peak XV Partners
+3731,Omidyar Network
+3732,Mirae Asset
+3733,Ribbit Capital
+3733,Ventures India
+3734,Accel
+3735,Kalaari Capital
+3736,Lightspeed India
+3737,Kedaara Capital
+3737,Ribbit Capital
+3737,Y Combinator
+3738,Falcon Edge
+3739,Info Edge (India)
+3740,Bessemer Venture Partners
+3740,Tiger Global
+3741,Elevation Capital
+3741,Matrix Partners India
+3742,Falcon Edge
+3742,Omidyar Network
+3743,IFC
+3743,Matrix Partners India
+3743,Zodius Capital
+3744,Tiger Global
+3745,LCatterton
+3745,Peak XV Partners
+3746,Kalaari Capital
+3747,Tiger Global
+3748,Accel
+3748,Nexus Venture Partners
+3749,Y Combinator
+3750,Kedaara Capital
+3750,Y Combinator
+3751,Accel
+3751,Kedaara Capital
+3752,Kalaari Capital
+3753,Kalaari Capital
+3754,Kalaari Capital
+3754,Kedaara Capital
+3754,Zodius Capital
+3755,Accel
+3756,Matrix Partners India
+3756,Tiger Global
+3757,Kedaara Capital
+3757,Mirae Asset
+3758,SoftBank Vision Fund
+3758,Y Combinator
+3759,Info Edge (India)
+3759,LCatterton
+3759,Lightspeed India
+3760,Elevation Capital
+3761,Bessemer Venture Partners
+3762,Kalaari Capital
+3762,Mirae Asset
+3762,Prosus Ventures
+3763,Bessemer Venture Partners
+3764,A91 Partners
+3764,Tiger Global
+3765,IFC
+3766,Elevation Capital
+3766,Prosus Ventures
+3766,SoftBank Vision Fund
+3767,Omidyar Network
+3768,Peak XV Partners
+3768,Sequoia Capital
+3769,Y Combinator
+3770,A91 Partners
+3770,Mirae Asset
+3771,Info Edge (India)
+3772,Kedaara Capital
+3772,Lightspeed India
+3773,Bessemer Venture Partners
+3773,Kedaara Capital
+3774,Tiger Global
+3775,A91 Partners
+3775,Falcon Edge
+3775,Ribbit Capital
+3776,Tiger Global
+3777,Falcon Edge
+3777,Tiger Global
+3778,Tiger Global
+3779,Omidyar Network
+3779,Ribbit Capital
+3780,Kedaara Capital
+3780,Ribbit Capital
+3781,IFC
+3781,Mirae Asset
+3781,SoftBank Vision Fund
+3782,IFC
+3782,Peak XV Partners
+3782,Sequoia Capital
+3783,Prosus Ventures
+3783,Tiger Global
+3784,Accel
+3785,Kedaara Capital
+3786,Peak XV Partners
+3787,LCatterton
+3788,Blume Ventures
+3788,Y Combinator
+3789,LCatterton
+3789,Omidyar Network
+3790,IFC
+3790,Zodius Capital
+3791,LCatterton
+3791,Peak XV Partners
+3791,Prosus Ventures
+3792,Accel
+3793,Bessemer Venture Partners
+3794,Falcon Edge
+3794,Prosus Ventures
+3795,Bessemer Venture Partners
+3795,Omidyar Network
+3795,Sequoia Capital
+3796,Falcon Edge
+3797,Tiger Global
+3798,Matrix Partners India
+3799,Ribbit Capital
+3799,SoftBank Vision Fund
+3799,Tiger Global
+3800,Mirae Asset
+3801,Accel
+3801,Falcon Edge
+3802,Sequoia Capital
+3803,Ribbit Capital
+3804,SoftBank Vision Fund
+3805,Kalaari Capital
+3806,Bessemer Venture Partners
+3807,Peak XV Partners
+3807,Ventures India
+3808,Omidyar Network
+3809,Omidyar Network
+3810,Falcon Edge
+3811,Kalaari Capital
+3811,Ventures India
+3812,Matrix Partners India
+3812,Nexus Venture Partners
+3812,Zodius Capital
+3813,Matrix Partners India
+3814,Kalaari Capital
+3814,Y Combinator
+3815,Tiger Global
+3816,Ventures India
+3817,Mirae Asset
+3817,Omidyar Network
+3818,Ribbit Capital
+3819,Bessemer Venture Partners
+3819,Ventures India
+3820,Matrix Partners India
+3821,Ribbit Capital
+3822,Info Edge (India)
+3822,Mirae Asset
+3823,Prosus Ventures
+3824,Accel
+3825,Kalaari Capital
+3825,Matrix Partners India
+3826,Kalaari Capital
+3827,A91 Partners
+3827,Nexus Venture Partners
+3827,Y Combinator
+3828,Peak XV Partners
+3828,Tiger Global
+3829,Elevation Capital
+3829,Zodius Capital
+3830,Prosus Ventures
+3831,Elevation Capital
+3831,SoftBank Vision Fund
+3831,Ventures India
+3832,Kalaari Capital
+3832,LCatterton
+3832,Zodius Capital
+3833,LCatterton
+3834,IFC
+3834,Mirae Asset
+3834,Sequoia Capital
+3835,Elevation Capital
+3835,Info Edge (India)
+3835,Matrix Partners India
+3836,Nexus Venture Partners
+3836,Prosus Ventures
+3836,Ventures India
+3837,Ribbit Capital
+3837,Tiger Global
+3838,LCatterton
+3839,IFC
+3839,SoftBank Vision Fund
+3840,Accel
+3840,IFC
+3841,Blume Ventures
+3842,IFC
+3842,Nexus Venture Partners
+3843,Mirae Asset
+3844,Zodius Capital
+3845,Elevation Capital
+3845,Sequoia Capital
+3846,Tiger Global
+3847,Blume Ventures
+3847,Matrix Partners India
+3848,Bessemer Venture Partners
+3848,Zodius Capital
+3849,Peak XV Partners
+3849,Ribbit Capital
+3850,Nexus Venture Partners
+3851,Falcon Edge
+3851,Nexus Venture Partners
+3852,Blume Ventures
+3852,Mirae Asset
+3853,A91 Partners
+3853,Mirae Asset
+3854,Info Edge (India)
+3854,Tiger Global
+3855,Prosus Ventures
+3856,Kedaara Capital
+3856,Ventures India
+3857,A91 Partners
+3857,Matrix Partners India
+3857,Mirae Asset
+3858,A91 Partners
+3858,Kedaara Capital
+3858,Tiger Global
+3859,Info Edge (India)
+3859,Peak XV Partners
+3860,Falcon Edge
+3860,Y Combinator
+3861,Kalaari Capital
+3861,Omidyar Network
+3861,Peak XV Partners
+3862,Sequoia Capital
+3863,A91 Partners
+3863,Falcon Edge
+3863,Zodius Capital
+3864,Mirae Asset
+3864,SoftBank Vision Fund
+3865,Peak XV Partners
+3866,Accel
+3866,Prosus Ventures
+3867,Matrix Partners India
+3868,Kalaari Capital
+3869,Blume Ventures
+3869,Nexus Venture Partners
+3869,Tiger Global
+3870,Kalaari Capital
+3871,A91 Partners
+3871,Ribbit Capital
+3871,Ventures India
+3872,A91 Partners
+3873,Mirae Asset
+3873,Zodius Capital
+3874,Info Edge (India)
+3875,Prosus Ventures
+3876,Kedaara Capital
+3876,Tiger Global
+3877,Falcon Edge
+3877,Tiger Global
+3878,Kalaari Capital
+3878,Mirae Asset
+3879,Kedaara Capital
+3880,Accel
+3881,Tiger Global
+3882,Accel
+3882,Zodius Capital
+3883,Elevation Capital
+3883,Ribbit Capital
+3883,Y Combinator
+3884,Blume Ventures
+3885,SoftBank Vision Fund
+3886,Prosus Ventures
+3886,Y Combinator
+3887,Y Combinator
+3888,IFC
+3889,Kalaari Capital
+3889,Mirae Asset
+3890,Blume Ventures
+3890,Info Edge (India)
+3891,Accel
+3891,Peak XV Partners
+3892,Mirae Asset
+3893,Tiger Global
+3894,Elevation Capital
+3894,Peak XV Partners
+3895,Prosus Ventures
+3896,Omidyar Network
+3897,Omidyar Network
+3897,SoftBank Vision Fund
+3898,SoftBank Vision Fund
+3898,Ventures India
+3899,LCatterton
+3900,Lightspeed India
+3900,Matrix Partners India
+3900,Omidyar Network
+3901,Sequoia Capital
+3902,Nexus Venture Partners
+3902,Omidyar Network
+3902,Tiger Global
+3903,Tiger Global
+3904,Accel
+3904,Falcon Edge
+3905,Lightspeed India
+3905,Peak XV Partners
+3905,Zodius Capital
+3906,Kalaari Capital
+3906,Ventures India
+3907,Ventures India
+3908,Bessemer Venture Partners
+3909,Info Edge (India)
+3909,Ventures India
+3910,Kedaara Capital
+3911,Y Combinator
+3912,Kalaari Capital
+3912,Y Combinator
+3913,Kedaara Capital
+3914,IFC
+3914,Matrix Partners India
+3915,Bessemer Venture Partners
+3915,LCatterton
+3915,Nexus Venture Partners
+3916,Blume Ventures
+3917,IFC
+3917,Tiger Global
+3918,Sequoia Capital
+3918,Tiger Global
+3919,Tiger Global
+3920,Peak XV Partners
+3920,Ventures India
+3921,Falcon Edge
+3922,Lightspeed India
+3922,Nexus Venture Partners
+3922,Tiger Global
+3923,SoftBank Vision Fund
+3924,Prosus Ventures
+3925,Accel
+3925,Falcon Edge
+3925,Tiger Global
+3926,Matrix Partners India
+3926,Tiger Global
+3927,Sequoia Capital
+3928,Accel
+3928,Peak XV Partners
+3928,Ribbit Capital
+3929,Tiger Global
+3930,Falcon Edge
+3931,Accel
+3931,Blume Ventures
+3931,Kalaari Capital
+3932,Blume Ventures
+3932,Elevation Capital
+3933,A91 Partners
+3933,Bessemer Venture Partners
+3933,Matrix Partners India
+3934,Peak XV Partners
+3934,Prosus Ventures
+3935,Sequoia Capital
+3936,LCatterton
+3936,Zodius Capital
+3937,Kedaara Capital
+3937,SoftBank Vision Fund
+3938,IFC
+3938,Kalaari Capital
+3939,Peak XV Partners
+3940,Bessemer Venture Partners
+3940,IFC
+3941,Matrix Partners India
+3942,Mirae Asset
+3943,Accel
+3943,Sequoia Capital
+3944,Kedaara Capital
+3944,Sequoia Capital
+3945,Info Edge (India)
+3946,Mirae Asset
+3947,Bessemer Venture Partners
+3948,Elevation Capital
+3949,Lightspeed India
+3949,Tiger Global
+3950,Peak XV Partners
+3951,Blume Ventures
+3951,Y Combinator
+3952,Prosus Ventures
+3953,Blume Ventures
+3953,Tiger Global
+3953,Y Combinator
+3954,Accel
+3954,Blume Ventures
+3954,Kedaara Capital
+3955,A91 Partners
+3956,SoftBank Vision Fund
+3957,Falcon Edge
+3958,Elevation Capital
+3959,Bessemer Venture Partners
+3959,Peak XV Partners
+3960,Lightspeed India
+3961,Sequoia Capital
+3961,Y Combinator
+3962,Bessemer Venture Partners
+3962,Omidyar Network
+3963,Accel
+3963,Blume Ventures
+3963,Ventures India
+3964,SoftBank Vision Fund
+3965,SoftBank Vision Fund
+3965,Tiger Global
+3966,IFC
+3966,Kalaari Capital
+3966,Sequoia Capital
+3967,Lightspeed India
+3967,Sequoia Capital
+3968,Kalaari Capital
+3968,Nexus Venture Partners
+3969,Omidyar Network
+3969,Sequoia Capital
+3970,Ribbit Capital
+3971,Elevation Capital
+3971,Kalaari Capital
+3972,IFC
+3973,Nexus Venture Partners
+3974,Y Combinator
+3975,Elevation Capital
+3976,IFC
+3976,Omidyar Network
+3977,LCatterton
+3978,Peak XV Partners
+3978,Zodius Capital
+3979,Blume Ventures
+3979,Kalaari Capital
+3979,Y Combinator
+3980,Y Combinator
+3981,Tiger Global
+3982,Bessemer Venture Partners
+3983,Bessemer Venture Partners
+3983,Nexus Venture Partners
+3983,Tiger Global
+3984,Bessemer Venture Partners
+3984,Lightspeed India
+3984,Omidyar Network
+3985,A91 Partners
+3985,Sequoia Capital
+3985,SoftBank Vision Fund
+3986,Prosus Ventures
+3986,Ribbit Capital
+3987,Sequoia Capital
+3988,Omidyar Network
+3989,Nexus Venture Partners
+3989,Tiger Global
+3989,Ventures India
+3990,A91 Partners
+3991,Kalaari Capital
+3991,Nexus Venture Partners
+3991,Ribbit Capital
+3992,Kalaari Capital
+3993,Blume Ventures
+3994,Info Edge (India)
+3994,LCatterton
+3994,Zodius Capital
+3995,Mirae Asset
+3995,Ribbit Capital
+3996,Accel
+3996,Info Edge (India)
+3997,Y Combinator
+3998,Blume Ventures
+3998,Zodius Capital
+3999,Bessemer Venture Partners
+4000,IFC
+4000,Ribbit Capital
+4001,Kedaara Capital
+4001,Zodius Capital
+4002,A91 Partners
+4002,Mirae Asset
+4003,Info Edge (India)
+4004,Tiger Global
+4005,Bessemer Venture Partners
+4005,Blume Ventures
+4005,Nexus Venture Partners
+4006,Nexus Venture Partners
+4007,Bessemer Venture Partners
+4007,Tiger Global
+4008,IFC
+4008,Peak XV Partners
+4009,Info Edge (India)
+4010,A91 Partners
+4011,SoftBank Vision Fund
+4012,A91 Partners
+4012,Falcon Edge
+4012,Prosus Ventures
+4013,Tiger Global
+4013,Zodius Capital
+4014,Accel
+4014,Peak XV Partners
+4015,Info Edge (India)
+4015,Mirae Asset
+4015,Prosus Ventures
+4016,IFC
+4017,Elevation Capital
+4017,Kedaara Capital
+4017,Omidyar Network
+4018,Mirae Asset
+4018,Tiger Global
+4019,Accel
+4020,Mirae Asset
+4020,Sequoia Capital
+4021,SoftBank Vision Fund
+4022,Ribbit Capital
+4022,Zodius Capital
+4023,Zodius Capital
+4024,Zodius Capital
+4025,Info Edge (India)
+4026,LCatterton
+4027,Tiger Global
+4028,Zodius Capital
+4029,Accel
+4030,LCatterton
+4031,Matrix Partners India
+4031,Ventures India
+4031,Y Combinator
+4032,A91 Partners
+4033,Mirae Asset
+4034,LCatterton
+4034,Omidyar Network
+4035,Tiger Global
+4036,Mirae Asset
+4037,SoftBank Vision Fund
+4038,LCatterton
+4038,Lightspeed India
+4039,Accel
+4039,LCatterton
+4039,Tiger Global
+4040,Info Edge (India)
+4040,Kedaara Capital
+4041,Info Edge (India)
+4042,Blume Ventures
+4042,Kalaari Capital
+4043,Kedaara Capital
+4044,Ribbit Capital
+4045,Elevation Capital
+4045,Kedaara Capital
+4045,Matrix Partners India
+4046,Bessemer Venture Partners
+4047,Accel
+4048,Mirae Asset
+4048,Ribbit Capital
+4048,Y Combinator
+4049,Mirae Asset
+4050,Zodius Capital
+4051,Nexus Venture Partners
+4051,Prosus Ventures
+4052,Tiger Global
+4052,Zodius Capital
+4053,Nexus Venture Partners
+4054,Ventures India
+4055,Bessemer Venture Partners
+4055,Info Edge (India)
+4055,Omidyar Network
+4056,Peak XV Partners
+4057,Kedaara Capital
+4058,Nexus Venture Partners
+4058,Y Combinator
+4059,Info Edge (India)
+4060,Blume Ventures
+4061,A91 Partners
+4062,Tiger Global
+4063,Zodius Capital
+4064,Blume Ventures
+4065,Accel
+4065,IFC
+4065,Nexus Venture Partners
+4066,Y Combinator
+4067,Sequoia Capital
+4068,Accel
+4069,IFC
+4069,Sequoia Capital
+4070,Accel
+4070,IFC
+4070,Omidyar Network
+4071,Blume Ventures
+4072,Bessemer Venture Partners
+4072,Lightspeed India
+4073,Elevation Capital
+4073,Nexus Venture Partners
+4074,Elevation Capital
+4075,LCatterton
+4076,Tiger Global
+4077,Sequoia Capital
+4077,Tiger Global
+4078,Kedaara Capital
+4078,Mirae Asset
+4079,LCatterton
+4079,Sequoia Capital
+4079,Tiger Global
+4080,Tiger Global
+4081,Info Edge (India)
+4081,Ribbit Capital
+4081,Y Combinator
+4082,Kedaara Capital
+4083,IFC
+4083,Matrix Partners India
+4083,Nexus Venture Partners
+4084,Zodius Capital
+4085,Tiger Global
+4086,Ventures India
+4087,Elevation Capital
+4088,Blume Ventures
+4089,Zodius Capital
+4090,Tiger Global
+4091,Blume Ventures
+4092,Omidyar Network
+4093,Blume Ventures
+4093,Info Edge (India)
+4094,Mirae Asset
+4095,Info Edge (India)
+4096,Y Combinator
+4097,Info Edge (India)
+4097,LCatterton
+4097,Ribbit Capital
+4098,Nexus Venture Partners
+4099,Y Combinator
+4099,Zodius Capital
+4100,Accel
+4101,Blume Ventures
+4101,LCatterton
+4102,Mirae Asset
+4102,Nexus Venture Partners
+4103,Blume Ventures
+4103,Info Edge (India)
+4103,Sequoia Capital
+4104,Info Edge (India)
+4104,Y Combinator
+4105,IFC
+4105,Kedaara Capital
+4106,Sequoia Capital
+4107,Prosus Ventures
+4108,Matrix Partners India
+4108,Omidyar Network
+4109,Falcon Edge
+4109,Info Edge (India)
+4109,Tiger Global
+4110,IFC
+4110,Nexus Venture Partners
+4111,Info Edge (India)
+4112,Matrix Partners India
+4112,Y Combinator
+4113,Accel
+4113,Prosus Ventures
+4114,Elevation Capital
+4115,Falcon Edge
+4115,Lightspeed India
+4115,Peak XV Partners
+4116,Prosus Ventures
+4117,Blume Ventures
+4118,Kedaara Capital
+4118,Lightspeed India
+4119,Blume Ventures
+4119,SoftBank Vision Fund
+4120,Accel
+4121,IFC
+4122,A91 Partners
+4122,SoftBank Vision Fund
+4123,Bessemer Venture Partners
+4123,Kedaara Capital
+4123,Nexus Venture Partners
+4124,Lightspeed India
+4124,Sequoia Capital
+4125,Blume Ventures
+4125,Info Edge (India)
+4126,A91 Partners
+4126,Info Edge (India)
+4126,Matrix Partners India
+4127,Lightspeed India
+4127,Omidyar Network
+4128,IFC
+4129,Accel
+4130,Tiger Global
+4131,Accel
+4132,Peak XV Partners
+4132,Ribbit Capital
+4132,Sequoia Capital
+4133,A91 Partners
+4134,Y Combinator
+4134,Zodius Capital
+4135,Accel
+4136,Nexus Venture Partners
+4137,Peak XV Partners
+4138,Blume Ventures
+4138,Info Edge (India)
+4138,Ribbit Capital
+4139,Nexus Venture Partners
+4139,Omidyar Network
+4140,IFC
+4140,Mirae Asset
+4141,Zodius Capital
+4142,LCatterton
+4143,Mirae Asset
+4144,Elevation Capital
+4144,Matrix Partners India
+4145,Blume Ventures
+4145,Kedaara Capital
+4146,Bessemer Venture Partners
+4146,Elevation Capital
+4146,Peak XV Partners
+4147,Matrix Partners India
+4148,Ventures India
+4149,Blume Ventures
+4150,Kedaara Capital
+4150,Sequoia Capital
+4150,Y Combinator
+4151,Omidyar Network
+4151,Tiger Global
+4151,Ventures India
+4152,Y Combinator
+4153,Info Edge (India)
+4154,Elevation Capital
+4154,Tiger Global
+4155,Lightspeed India
+4155,Peak XV Partners
+4156,Ventures India
+4157,A91 Partners
+4158,Bessemer Venture Partners
+4158,Lightspeed India
+4158,Matrix Partners India
+4159,Nexus Venture Partners
+4159,Sequoia Capital
+4160,Blume Ventures
+4160,Tiger Global
+4161,Bessemer Venture Partners
+4161,Sequoia Capital
+4161,Zodius Capital
+4162,A91 Partners
+4162,Sequoia Capital
+4163,Mirae Asset
+4163,Tiger Global
+4164,Sequoia Capital
+4165,Matrix Partners India
+4165,Ventures India
+4166,Omidyar Network
+4167,Falcon Edge
+4168,Mirae Asset
+4169,Tiger Global
+4170,Accel
+4170,Falcon Edge
+4170,Peak XV Partners
+4171,Omidyar Network
+4172,Accel
+4172,Kedaara Capital
+4173,Blume Ventures
+4174,Info Edge (India)
+4174,Sequoia Capital
+4175,Blume Ventures
+4175,Elevation Capital
+4176,Blume Ventures
+4177,Matrix Partners India
+4177,Prosus Ventures
+4178,LCatterton
+4178,Lightspeed India
+4179,Y Combinator
+4180,Bessemer Venture Partners
+4180,Prosus Ventures
+4181,IFC
+4181,Prosus Ventures
+4181,Ventures India
+4182,Blume Ventures
+4183,Ribbit Capital
+4184,Bessemer Venture Partners
+4185,Info Edge (India)
+4185,Mirae Asset
+4185,SoftBank Vision Fund
+4186,Kalaari Capital
+4187,Omidyar Network
+4188,IFC
+4189,Zodius Capital
+4190,Mirae Asset
+4191,Info Edge (India)
+4191,Matrix Partners India
+4191,Tiger Global
+4192,Peak XV Partners
+4192,Zodius Capital
